@@ -1,0 +1,70 @@
+{
+  "id": 1209714775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"178.25,-17.38333,178.25,-17.38333",
+    "geom:latitude":-17.38333,
+    "geom:longitude":178.25,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Navolau",
+    "gn:cc2":"FJ",
+    "gn:country_code":"FJ",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2200511,
+    "gn:latitude":-17.38333,
+    "gn:longitude":178.25,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Navolau",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Novalau",
+        "Navolau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632755,
+        85671181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2200511
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"a53035ac0911d39a77ce373b5b3399dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632755,
+            "locality_id":1209714775,
+            "region_id":85671181
+        }
+    ],
+    "wof:id":1209714775,
+    "wof:lastmodified":1537622383,
+    "wof:name":"Navolau",
+    "wof:parent_id":85671181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    178.25,
+    -17.38332999999999,
+    178.25,
+    -17.38332999999999
+],
+  "geometry": {"coordinates":[178.25,-17.38332999999999],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1293603271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"178.36317,-17.69338,178.36317,-17.69338",
+    "geom:latitude":-17.69338,
+    "geom:longitude":178.36317,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"2198131",
+    "gn:asciiname":"Nayavu",
+    "gn:country_code":"FJ",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11191361,
+    "gn:latitude":-17.69338,
+    "gn:longitude":178.36317,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Nayavu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fij_x_preferred":[
+        "Nayavu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632755,
+        85671167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11191361
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"dd7eba158b41d293e2891ae6bbe74ea5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632755,
+            "locality_id":1293603271,
+            "region_id":85671167
+        }
+    ],
+    "wof:id":1293603271,
+    "wof:lastmodified":1537622436,
+    "wof:name":"Nayavu",
+    "wof:parent_id":85671167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    178.36317,
+    -17.69337999999999,
+    178.36317,
+    -17.69337999999999
+],
+  "geometry": {"coordinates":[178.36317,-17.69337999999999],"type":"Point"}
+}

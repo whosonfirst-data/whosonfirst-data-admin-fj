@@ -1,0 +1,70 @@
+{
+  "id": 1226251597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"179.39503,-17.24792,179.39503,-17.24792",
+    "geom:latitude":-17.24792,
+    "geom:longitude":179.39503,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"2204318.0",
+    "gn:asciiname":"Vatulele",
+    "gn:country_code":"FJ",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2197012,
+    "gn:latitude":-17.24792,
+    "gn:longitude":179.39503,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Vatulele",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vatu Leile",
+        "Vatulele"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632755,
+        85671173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2197012
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"9986d4d63993d9921b599f0800de1a7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632755,
+            "locality_id":1226251597,
+            "region_id":85671173
+        }
+    ],
+    "wof:id":1226251597,
+    "wof:lastmodified":1537622364,
+    "wof:name":"Vatulele",
+    "wof:parent_id":85671173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    179.39503,
+    -17.24792,
+    179.39503,
+    -17.24792
+],
+  "geometry": {"coordinates":[179.39502999999999,-17.24792],"type":"Point"}
+}

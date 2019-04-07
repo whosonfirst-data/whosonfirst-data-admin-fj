@@ -1,0 +1,68 @@
+{
+  "id": 1276549169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"179.97435,-16.82862,179.97435,-16.82862",
+    "geom:latitude":-16.82862,
+    "geom:longitude":179.97435,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"2197820.0",
+    "gn:asciiname":"Waica Settlement",
+    "gn:country_code":"FJ",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2194645,
+    "gn:latitude":-16.82862,
+    "gn:longitude":179.97435,
+    "gn:modification_date":"2017-07-04",
+    "gn:name":"Waica Settlement",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fij_x_preferred":[
+        "Waica Settlement"
+    ],
+    "name:fij_x_variant":[
+        "Waitha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2194645
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"57e166cae74b6d11209cf353d3d393e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1276549169,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276549169,
+    "wof:lastmodified":1537622357,
+    "wof:name":"Waica Settlement",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    179.97435,
+    -16.82862,
+    179.97435,
+    -16.82862
+],
+  "geometry": {"coordinates":[179.97434999999999,-16.82862],"type":"Point"}
+}

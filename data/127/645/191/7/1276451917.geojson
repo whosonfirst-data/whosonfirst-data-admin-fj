@@ -1,0 +1,70 @@
+{
+  "id": 1276451917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"178.068,-19.07559,178.068,-19.07559",
+    "geom:latitude":-19.07559,
+    "geom:longitude":178.068,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"8617786",
+    "gn:asciiname":"Natokalau",
+    "gn:country_code":"FJ",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2200986,
+    "gn:latitude":-19.07559,
+    "gn:longitude":178.068,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Natokalau",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Richmond",
+        "Natokalau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632755,
+        85671173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2200986
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"5949266afd03e503d24789825cd118ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632755,
+            "locality_id":1276451917,
+            "region_id":85671173
+        }
+    ],
+    "wof:id":1276451917,
+    "wof:lastmodified":1537622387,
+    "wof:name":"Natokalau",
+    "wof:parent_id":85671173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    178.06799999999996,
+    -19.07559,
+    178.06799999999996,
+    -19.07559
+],
+  "geometry": {"coordinates":[178.06799999999996,-19.07559],"type":"Point"}
+}

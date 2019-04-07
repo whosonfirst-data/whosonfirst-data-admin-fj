@@ -1,0 +1,69 @@
+{
+  "id": 1276237819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"178.52136,-18.07083,178.52136,-18.07083",
+    "geom:latitude":-18.07083,
+    "geom:longitude":178.52136,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"2203150",
+    "gn:asciiname":"Nakasi",
+    "gn:country_code":"FJ",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11243101,
+    "gn:latitude":-18.07083,
+    "gn:longitude":178.52136,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Nakasi",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fij_x_preferred":[
+        "Nakasi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632755,
+        85671167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11243101
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"a74392482278448ac4e70a995081da54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632755,
+            "locality_id":1276237819,
+            "region_id":85671167
+        }
+    ],
+    "wof:id":1276237819,
+    "wof:lastmodified":1537622440,
+    "wof:name":"Nakasi",
+    "wof:parent_id":85671167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    178.52136000000004,
+    -18.07083,
+    178.52136000000004,
+    -18.07083
+],
+  "geometry": {"coordinates":[178.52136000000004,-18.07083],"type":"Point"}
+}

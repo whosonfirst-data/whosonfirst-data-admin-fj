@@ -1,0 +1,68 @@
+{
+  "id": 1226054121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"179.4,-16.53333,179.4,-16.53333",
+    "geom:latitude":-16.53333,
+    "geom:longitude":179.4,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Nakoroutari",
+    "gn:country_code":"FJ",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2202825,
+    "gn:latitude":-16.53333,
+    "gn:longitude":179.4,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Nakoroutari",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fij_x_preferred":[
+        "Nakoroutari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632755,
+        85671179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2202825
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"32b93fd549f4f9af5f2d6ab584f48fba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632755,
+            "locality_id":1226054121,
+            "region_id":85671179
+        }
+    ],
+    "wof:id":1226054121,
+    "wof:lastmodified":1537622403,
+    "wof:name":"Nakoroutari",
+    "wof:parent_id":85671179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    179.4,
+    -16.53333,
+    179.4,
+    -16.53333
+],
+  "geometry": {"coordinates":[179.40000000000001,-16.53333],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209614389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"177.80698,-17.87473,177.80698,-17.87473",
+    "geom:latitude":-17.87473,
+    "geom:longitude":177.80698,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Vatumbalavu",
+    "gn:country_code":"FJ",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2196982,
+    "gn:latitude":-17.87473,
+    "gn:longitude":177.80698,
+    "gn:modification_date":"2015-11-30",
+    "gn:name":"Vatumbalavu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2196982
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"4a0bad4aa880c73700fc797ca6bef91e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632755,
+            "locality_id":1209614389
+        }
+    ],
+    "wof:id":1209614389,
+    "wof:lastmodified":1536281739,
+    "wof:name":"Vatumbalavu",
+    "wof:parent_id":85632755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    177.80698,
+    -17.87473,
+    177.80698,
+    -17.87473
+],
+  "geometry": {"coordinates":[177.80698000000001,-17.87473],"type":"Point"}
+}

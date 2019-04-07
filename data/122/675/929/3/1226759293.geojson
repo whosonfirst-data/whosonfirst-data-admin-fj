@@ -1,0 +1,69 @@
+{
+  "id": 1226759293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"179.33636,-16.77997,179.33636,-16.77997",
+    "geom:latitude":-16.77997,
+    "geom:longitude":179.33636,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Savusavu",
+    "gn:country_code":"FJ",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2198520,
+    "gn:latitude":-16.77997,
+    "gn:longitude":179.33636,
+    "gn:modification_date":"2013-10-27",
+    "gn:name":"Savusavu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Savusavu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632755,
+        85671179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2198520,
+        "wk:page":"Savusavu"
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"2cc0ed6efe100d339b9b74b54d03b608",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632755,
+            "locality_id":1226759293,
+            "region_id":85671179
+        }
+    ],
+    "wof:id":1226759293,
+    "wof:lastmodified":1537622372,
+    "wof:name":"Savusavu",
+    "wof:parent_id":85671179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    179.33636,
+    -16.77997,
+    179.33636,
+    -16.77997
+],
+  "geometry": {"coordinates":[179.33636000000001,-16.77997],"type":"Point"}
+}

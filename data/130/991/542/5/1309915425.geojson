@@ -1,0 +1,69 @@
+{
+  "id": 1309915425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"178.41948,-17.76934,178.41948,-17.76934",
+    "geom:latitude":-17.76934,
+    "geom:longitude":178.41948,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"2198131",
+    "gn:asciiname":"Nawakanikau Settlement",
+    "gn:country_code":"FJ",
+    "gn:dem":211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11245102,
+    "gn:latitude":-17.76934,
+    "gn:longitude":178.41948,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Nawakanikau Settlement",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fij_x_preferred":[
+        "Nawakanikau Settlement"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632755,
+        85671167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11245102
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"4ff0c37d31033a1dc9e79a393f341853",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632755,
+            "locality_id":1309915425,
+            "region_id":85671167
+        }
+    ],
+    "wof:id":1309915425,
+    "wof:lastmodified":1537622441,
+    "wof:name":"Nawakanikau Settlement",
+    "wof:parent_id":85671167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    178.41948,
+    -17.76934,
+    178.41948,
+    -17.76934
+],
+  "geometry": {"coordinates":[178.41947999999999,-17.76934],"type":"Point"}
+}

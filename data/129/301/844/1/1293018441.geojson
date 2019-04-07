@@ -1,0 +1,72 @@
+{
+  "id": 1293018441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"178.60155,-18.09757,178.60155,-18.09757",
+    "geom:latitude":-18.09757,
+    "geom:longitude":178.60155,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"2198131",
+    "gn:asciiname":"Nakuruwai",
+    "gn:country_code":"FJ",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2202787,
+    "gn:latitude":-18.09757,
+    "gn:longitude":178.60155,
+    "gn:modification_date":"2016-07-05",
+    "gn:name":"Nakuruwai",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fij_x_preferred":[
+        "Nakuruwai"
+    ],
+    "name:fij_x_variant":[
+        "Nakuriwai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632755,
+        85671167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2202787
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"6fe2423b04cb28a59792d8f9cae18c17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632755,
+            "locality_id":1293018441,
+            "region_id":85671167
+        }
+    ],
+    "wof:id":1293018441,
+    "wof:lastmodified":1537622403,
+    "wof:name":"Nakuruwai",
+    "wof:parent_id":85671167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    178.60155,
+    -18.09757,
+    178.60155,
+    -18.09757
+],
+  "geometry": {"coordinates":[178.60155,-18.09757],"type":"Point"}
+}

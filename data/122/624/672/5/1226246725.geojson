@@ -1,0 +1,70 @@
+{
+  "id": 1226246725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"178.5671,-18.05507,178.5671,-18.05507",
+    "geom:latitude":-18.05507,
+    "geom:longitude":178.5671,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"2198131",
+    "gn:asciiname":"Naselai",
+    "gn:country_code":"FJ",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2201391,
+    "gn:latitude":-18.05507,
+    "gn:longitude":178.5671,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Naselai",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nasilai",
+        "Naselai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632755,
+        85671167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2201391
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"5ab0d217d4bc9503d77c5b563054b337",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632755,
+            "locality_id":1226246725,
+            "region_id":85671167
+        }
+    ],
+    "wof:id":1226246725,
+    "wof:lastmodified":1537622390,
+    "wof:name":"Naselai",
+    "wof:parent_id":85671167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    178.5671,
+    -18.05507,
+    178.5671,
+    -18.05507
+],
+  "geometry": {"coordinates":[178.56710000000001,-18.05507],"type":"Point"}
+}

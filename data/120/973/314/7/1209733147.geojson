@@ -1,0 +1,69 @@
+{
+  "id": 1209733147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"178.54706,-17.75074,178.54706,-17.75074",
+    "geom:latitude":-17.75074,
+    "geom:longitude":178.54706,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"2198131.0",
+    "gn:asciiname":"Sawakasa",
+    "gn:country_code":"FJ",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2198468,
+    "gn:latitude":-17.75074,
+    "gn:longitude":178.54706,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Sawakasa",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fij_x_preferred":[
+        "Sawakasa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632755,
+        85671167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2198468
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"e1182a3234b09d79c6e283bd769277d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632755,
+            "locality_id":1209733147,
+            "region_id":85671167
+        }
+    ],
+    "wof:id":1209733147,
+    "wof:lastmodified":1537622371,
+    "wof:name":"Sawakasa",
+    "wof:parent_id":85671167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    178.54706000000004,
+    -17.75074,
+    178.54706000000004,
+    -17.75074
+],
+  "geometry": {"coordinates":[178.54706000000004,-17.75074],"type":"Point"}
+}

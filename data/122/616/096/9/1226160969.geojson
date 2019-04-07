@@ -1,0 +1,61 @@
+{
+  "id": 1226160969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-178.72215,-20.63612,-178.72215,-20.63612",
+    "geom:latitude":-20.63612,
+    "geom:longitude":-178.72215,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Ndoi",
+    "gn:country_code":"FJ",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4035979,
+    "gn:latitude":-20.63612,
+    "gn:longitude":-178.72215,
+    "gn:modification_date":"2013-10-27",
+    "gn:name":"Ndoi",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4035979
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"aee0017af0d314e8bceb9c1f6829e2f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1226160969,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226160969,
+    "wof:lastmodified":1537053471,
+    "wof:name":"Ndoi",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -178.72215,
+    -20.63612,
+    -178.72215,
+    -20.63612
+],
+  "geometry": {"coordinates":[-178.72215,-20.63612],"type":"Point"}
+}

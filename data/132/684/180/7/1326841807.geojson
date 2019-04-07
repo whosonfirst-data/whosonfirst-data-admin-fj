@@ -1,0 +1,71 @@
+{
+  "id": 1326841807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-179.76103,-16.79085,-179.76103,-16.79085",
+    "geom:latitude":-16.79085,
+    "geom:longitude":-179.76103,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"2197820",
+    "gn:asciiname":"Kocoma",
+    "gn:country_code":"FJ",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4036143,
+    "gn:latitude":-16.79085,
+    "gn:longitude":-179.76103,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Kocoma",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fij_x_preferred":[
+        "Kocoma"
+    ],
+    "name:fij_x_variant":[
+        "Kothoma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4036143
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"aea21a7f82189aa631b3c12d58ca786e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632755,
+            "locality_id":1326841807,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1326841807,
+    "wof:lastmodified":1537622426,
+    "wof:name":"Kocoma",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -179.76103,
+    -16.79085,
+    -179.76103,
+    -16.79085
+],
+  "geometry": {"coordinates":[-179.76103000000001,-16.79085],"type":"Point"}
+}

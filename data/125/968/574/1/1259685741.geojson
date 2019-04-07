@@ -1,0 +1,70 @@
+{
+  "id": 1259685741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"179.71402,-16.29172,179.71402,-16.29172",
+    "geom:latitude":-16.29172,
+    "geom:longitude":179.71402,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"2203875",
+    "gn:asciiname":"Rauriko",
+    "gn:country_code":"FJ",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2198919,
+    "gn:latitude":-16.29172,
+    "gn:longitude":179.71402,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Rauriko",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rauribu",
+        "Rauriko"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632755,
+        85671179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2198919
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"a48983a4ad8cacd28e7ce8863e3380b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632755,
+            "locality_id":1259685741,
+            "region_id":85671179
+        }
+    ],
+    "wof:id":1259685741,
+    "wof:lastmodified":1537622373,
+    "wof:name":"Rauriko",
+    "wof:parent_id":85671179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    179.71402,
+    -16.29172,
+    179.71402,
+    -16.29172
+],
+  "geometry": {"coordinates":[179.71402,-16.29172],"type":"Point"}
+}

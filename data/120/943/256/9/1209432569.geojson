@@ -1,0 +1,68 @@
+{
+  "id": 1209432569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"178.55829,-18.10274,178.55829,-18.10274",
+    "geom:latitude":-18.10274,
+    "geom:longitude":178.55829,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"2198876.0",
+    "gn:asciiname":"Nasigatoka",
+    "gn:country_code":"FJ",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2198366,
+    "gn:latitude":-18.10274,
+    "gn:longitude":178.55829,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Nasigatoka",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fij_x_preferred":[
+        "Nasigatoka"
+    ],
+    "name:fij_x_variant":[
+        "Singatoka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2198366
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"b3b61d4d02a690d52d7b6e4e009649a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632755,
+            "locality_id":1209432569
+        }
+    ],
+    "wof:id":1209432569,
+    "wof:lastmodified":1537622371,
+    "wof:name":"Nasigatoka",
+    "wof:parent_id":85632755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    178.55829,
+    -18.10274,
+    178.55829,
+    -18.10274
+],
+  "geometry": {"coordinates":[178.55829,-18.10274],"type":"Point"}
+}

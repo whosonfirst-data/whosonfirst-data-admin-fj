@@ -1,0 +1,64 @@
+{
+  "id": 1260087765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"179.71667,-16.6,179.71667,-16.6",
+    "geom:latitude":-16.6,
+    "geom:longitude":179.71667,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Ndawa",
+    "gn:country_code":"FJ",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2200007,
+    "gn:latitude":-16.6,
+    "gn:longitude":179.71667,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Ndawa",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fij_x_preferred":[
+        "Ndawa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2200007
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"ceb505a614df9d05d7d348a9ff233c21",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1260087765,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1260087765,
+    "wof:lastmodified":1537622380,
+    "wof:name":"Ndawa",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    179.71667,
+    -16.6,
+    179.71667,
+    -16.6
+],
+  "geometry": {"coordinates":[179.71666999999999,-16.6],"type":"Point"}
+}

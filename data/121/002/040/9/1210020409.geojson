@@ -1,0 +1,69 @@
+{
+  "id": 1210020409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"178.21555,-18.19717,178.21555,-18.19717",
+    "geom:latitude":-18.19717,
+    "geom:longitude":178.21555,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"2202182.0",
+    "gn:asciiname":"Veivatuloa",
+    "gn:country_code":"FJ",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2196759,
+    "gn:latitude":-18.19717,
+    "gn:longitude":178.21555,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Veivatuloa",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fij_x_preferred":[
+        "Veivatuloa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632755,
+        85671167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2196759
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"710086e351429741fa4cbc68759e17d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632755,
+            "locality_id":1210020409,
+            "region_id":85671167
+        }
+    ],
+    "wof:id":1210020409,
+    "wof:lastmodified":1537622363,
+    "wof:name":"Veivatuloa",
+    "wof:parent_id":85671167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    178.21555,
+    -18.19717,
+    178.21555,
+    -18.19717
+],
+  "geometry": {"coordinates":[178.21555000000001,-18.19717],"type":"Point"}
+}

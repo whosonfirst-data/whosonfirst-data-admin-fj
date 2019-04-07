@@ -1,0 +1,73 @@
+{
+  "id": 1276881821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"178.297,-18.99725,178.297,-18.99725",
+    "geom:latitude":-18.99725,
+    "geom:longitude":178.297,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"8617786",
+    "gn:asciiname":"Dravuwalu",
+    "gn:country_code":"FJ",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2199739,
+    "gn:latitude":-18.99725,
+    "gn:longitude":178.297,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Dravuwalu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fij_x_preferred":[
+        "Dravuwalu"
+    ],
+    "name:und_x_variant":[
+        "Ndravawalu",
+        "Ndravuwalu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632755,
+        85671173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2199739
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"b6a81ce4b4958ef8ca3eb7ce9c599c9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632755,
+            "locality_id":1276881821,
+            "region_id":85671173
+        }
+    ],
+    "wof:id":1276881821,
+    "wof:lastmodified":1537622378,
+    "wof:name":"Dravuwalu",
+    "wof:parent_id":85671173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    178.297,
+    -18.99725,
+    178.297,
+    -18.99725
+],
+  "geometry": {"coordinates":[178.297,-18.99725],"type":"Point"}
+}

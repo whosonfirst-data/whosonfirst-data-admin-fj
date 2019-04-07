@@ -1,0 +1,68 @@
+{
+  "id": 1293893079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"178.5,-17.95,178.5,-17.95",
+    "geom:latitude":-17.95,
+    "geom:longitude":178.5,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Tumbalevu",
+    "gn:country_code":"FJ",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2197477,
+    "gn:latitude":-17.95,
+    "gn:longitude":178.5,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Tumbalevu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fij_x_preferred":[
+        "Tumbalevu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632755,
+        85671167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2197477
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"6b0950b2724df13a3c3601c18c1bf257",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632755,
+            "locality_id":1293893079,
+            "region_id":85671167
+        }
+    ],
+    "wof:id":1293893079,
+    "wof:lastmodified":1537622366,
+    "wof:name":"Tumbalevu",
+    "wof:parent_id":85671167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    178.5,
+    -17.95,
+    178.5,
+    -17.95
+],
+  "geometry": {"coordinates":[178.5,-17.95],"type":"Point"}
+}

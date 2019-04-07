@@ -1,0 +1,69 @@
+{
+  "id": 1209222087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"179.44766,-16.36907,179.44766,-16.36907",
+    "geom:latitude":-16.36907,
+    "geom:longitude":179.44766,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"2203875",
+    "gn:asciiname":"Raranibulubulu",
+    "gn:country_code":"FJ",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2198936,
+    "gn:latitude":-16.36907,
+    "gn:longitude":179.44766,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Raranibulubulu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fij_x_preferred":[
+        "Raranibulubulu"
+    ],
+    "name:und_x_variant":[
+        "Mbulumbulu",
+        "Raranimbulumbulu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2198936
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"5ff50cf17feca051b107466560d0e6f2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632755,
+            "locality_id":1209222087
+        }
+    ],
+    "wof:id":1209222087,
+    "wof:lastmodified":1537622373,
+    "wof:name":"Raranibulubulu",
+    "wof:parent_id":85632755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    179.44766,
+    -16.36907,
+    179.44766,
+    -16.36907
+],
+  "geometry": {"coordinates":[179.44766000000001,-16.36907],"type":"Point"}
+}

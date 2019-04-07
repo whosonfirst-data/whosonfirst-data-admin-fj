@@ -1,0 +1,65 @@
+{
+  "id": 1209105285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"177.33763,-18.12243,177.33763,-18.12243",
+    "geom:latitude":-18.12243,
+    "geom:longitude":177.33763,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"2201984",
+    "gn:asciiname":"Yagasa Settlement",
+    "gn:country_code":"FJ",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11104495,
+    "gn:latitude":-18.12243,
+    "gn:longitude":177.33763,
+    "gn:modification_date":"2016-04-12",
+    "gn:name":"Yagasa Settlement",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fij_x_preferred":[
+        "Yagasa Settlement"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11104495
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"696908238a7a5645b6a087e4780dfe88",
+    "wof:hierarchy":[
+        {
+            "country_id":85632755,
+            "locality_id":1209105285
+        }
+    ],
+    "wof:id":1209105285,
+    "wof:lastmodified":1537622431,
+    "wof:name":"Yagasa Settlement",
+    "wof:parent_id":85632755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    177.33763000000005,
+    -18.12243,
+    177.33763000000005,
+    -18.12243
+],
+  "geometry": {"coordinates":[177.33763000000005,-18.12243],"type":"Point"}
+}

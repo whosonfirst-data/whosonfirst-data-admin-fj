@@ -1,0 +1,72 @@
+{
+  "id": 1243276881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"178.3506,-19.04831,178.3506,-19.04831",
+    "geom:latitude":-19.04831,
+    "geom:longitude":178.3506,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"8617786",
+    "gn:asciiname":"Nacomoto",
+    "gn:country_code":"FJ",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2201049,
+    "gn:latitude":-19.04831,
+    "gn:longitude":178.3506,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Nacomoto",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fij_x_preferred":[
+        "Nacomoto"
+    ],
+    "name:und_x_variant":[
+        "Na Kasasara",
+        "Nathomoto"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2201049
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"02a585291a8e53e04bb813e0b6dde24b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632755,
+            "locality_id":1243276881,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1243276881,
+    "wof:lastmodified":1537622388,
+    "wof:name":"Nacomoto",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    178.3506,
+    -19.04831,
+    178.3506,
+    -19.04831
+],
+  "geometry": {"coordinates":[178.35059999999999,-19.04831],"type":"Point"}
+}

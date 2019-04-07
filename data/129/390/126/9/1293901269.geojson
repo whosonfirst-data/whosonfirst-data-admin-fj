@@ -1,0 +1,71 @@
+{
+  "id": 1293901269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"177.86434,-18.2485,177.86434,-18.2485",
+    "geom:latitude":-18.2485,
+    "geom:longitude":177.86434,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"2198411.0",
+    "gn:asciiname":"Vunaniu",
+    "gn:country_code":"FJ",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2196400,
+    "gn:latitude":-18.2485,
+    "gn:longitude":177.86434,
+    "gn:modification_date":"2016-04-10",
+    "gn:name":"Vunaniu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Granby Harbour",
+        "Vuna Nui",
+        "Vunaniu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632755,
+        85671167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2196400
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"d1262084b41a3c6b04a174359d298e13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632755,
+            "locality_id":1293901269,
+            "region_id":85671167
+        }
+    ],
+    "wof:id":1293901269,
+    "wof:lastmodified":1537622361,
+    "wof:name":"Vunaniu",
+    "wof:parent_id":85671167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    177.86434,
+    -18.2485,
+    177.86434,
+    -18.2485
+],
+  "geometry": {"coordinates":[177.86434,-18.2485],"type":"Point"}
+}

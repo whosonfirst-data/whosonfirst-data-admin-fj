@@ -1,0 +1,72 @@
+{
+  "id": 1243468367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"178.33211,-17.81052,178.33211,-17.81052",
+    "geom:latitude":-17.81052,
+    "geom:longitude":178.33211,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"2203150.0",
+    "gn:asciiname":"Vuisiga",
+    "gn:country_code":"FJ",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2196127,
+    "gn:latitude":-17.81052,
+    "gn:longitude":178.33211,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Vuisiga",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fij_x_preferred":[
+        "Vuisiga"
+    ],
+    "name:fij_x_variant":[
+        "Vunisinga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632755,
+        85671167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2196127
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"3788f931cc9bde3ea53153686bbbdc46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632755,
+            "locality_id":1243468367,
+            "region_id":85671167
+        }
+    ],
+    "wof:id":1243468367,
+    "wof:lastmodified":1537622360,
+    "wof:name":"Vuisiga",
+    "wof:parent_id":85671167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    178.33211,
+    -17.81052,
+    178.33211,
+    -17.81052
+],
+  "geometry": {"coordinates":[178.33211,-17.81052],"type":"Point"}
+}

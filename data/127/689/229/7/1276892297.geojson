@@ -1,0 +1,64 @@
+{
+  "id": 1276892297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"177.13333,-12.51667,177.13333,-12.51667",
+    "geom:latitude":-12.51667,
+    "geom:longitude":177.13333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Noatau",
+    "gn:country_code":"FJ",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2199316,
+    "gn:latitude":-12.51667,
+    "gn:longitude":177.13333,
+    "gn:modification_date":"1993-12-22",
+    "gn:name":"Noatau",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2199316
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"0f7d3a49677bab74e6eaa4277e06568c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632755,
+            "locality_id":1276892297,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276892297,
+    "wof:lastmodified":1537023467,
+    "wof:name":"Noatau",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    177.13333,
+    -12.51667,
+    177.13333,
+    -12.51667
+],
+  "geometry": {"coordinates":[177.13333,-12.51667],"type":"Point"}
+}

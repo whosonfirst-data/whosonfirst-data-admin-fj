@@ -1,0 +1,69 @@
+{
+  "id": 1259687235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"179.38766,-17.25166,179.38766,-17.25166",
+    "geom:latitude":-17.25166,
+    "geom:longitude":179.38766,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"2204318",
+    "gn:asciiname":"Bunirea Settlement",
+    "gn:country_code":"FJ",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11339390,
+    "gn:latitude":-17.25166,
+    "gn:longitude":179.38766,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Bunirea Settlement",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fij_x_preferred":[
+        "Bunirea Settlement"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632755,
+        85671173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11339390
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"b95f725bd31967201d16ca91f480cdd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632755,
+            "locality_id":1259687235,
+            "region_id":85671173
+        }
+    ],
+    "wof:id":1259687235,
+    "wof:lastmodified":1537622446,
+    "wof:name":"Bunirea Settlement",
+    "wof:parent_id":85671173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    179.38766,
+    -17.25166,
+    179.38766,
+    -17.25166
+],
+  "geometry": {"coordinates":[179.38766000000001,-17.25166],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1209218637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"178.24252,-18.17381,178.24252,-18.17381",
+    "geom:latitude":-18.17381,
+    "geom:longitude":178.24252,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"2202182",
+    "gn:asciiname":"Qilai",
+    "gn:country_code":"FJ",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2199391,
+    "gn:latitude":-18.17381,
+    "gn:longitude":178.24252,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Qilai",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fij_x_preferred":[
+        "Qilai"
+    ],
+    "name:und_x_variant":[
+        "Nogilai",
+        "Nggilai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2199391
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"e6122b4a6fa637861d59ba95e21e9d9c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632755,
+            "locality_id":1209218637
+        }
+    ],
+    "wof:id":1209218637,
+    "wof:lastmodified":1537622376,
+    "wof:name":"Qilai",
+    "wof:parent_id":85632755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    178.24251999999996,
+    -18.17381,
+    178.24251999999996,
+    -18.17381
+],
+  "geometry": {"coordinates":[178.24251999999996,-18.17381],"type":"Point"}
+}

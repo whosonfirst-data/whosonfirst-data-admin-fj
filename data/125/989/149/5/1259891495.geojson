@@ -1,0 +1,70 @@
+{
+  "id": 1259891495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"178.98929,-16.91089,178.98929,-16.91089",
+    "geom:latitude":-16.91089,
+    "geom:longitude":178.98929,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"2203651",
+    "gn:asciiname":"Raviravi",
+    "gn:country_code":"FJ",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2198910,
+    "gn:latitude":-16.91089,
+    "gn:longitude":178.98929,
+    "gn:modification_date":"2017-07-04",
+    "gn:name":"Raviravi",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rave-rave",
+        "Raviravi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632755,
+        85671179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2198910
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"a878b7fe31c7d70853dc9393036db936",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632755,
+            "locality_id":1259891495,
+            "region_id":85671179
+        }
+    ],
+    "wof:id":1259891495,
+    "wof:lastmodified":1537622373,
+    "wof:name":"Raviravi",
+    "wof:parent_id":85671179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    178.98928999999995,
+    -16.91089,
+    178.98928999999995,
+    -16.91089
+],
+  "geometry": {"coordinates":[178.98928999999995,-16.91089],"type":"Point"}
+}

@@ -1,0 +1,96 @@
+{
+  "id": 1310124001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"178.83142,-17.6823,178.83142,-17.6823",
+    "geom:latitude":-17.6823,
+    "geom:longitude":178.83142,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Levuka",
+    "gn:country_code":"FJ",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2204418,
+    "gn:latitude":-17.6823,
+    "gn:longitude":178.83142,
+    "gn:modification_date":"2013-10-27",
+    "gn:name":"Levuka",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Levuka"
+    ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d1\u05d5\u05e7\u05d4"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ec\u30d6\u30ab"
+    ],
+    "name:kat_x_preferred":[
+        "\u10da\u10d4\u10d5\u10e3\u10d9\u10d0"
+    ],
+    "name:kor_x_preferred":[
+        "\ub808\ubd80\uce74"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0435\u0432\u0443\u043a\u0430"
+    ],
+    "name:srp_x_preferred":[
+        "\u041b\u0435\u0432\u0443\u043a\u0430"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bb2\u0bc6\u0bb5\u0bc1\u0b95\u0bbe"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e25\u0e27\u0e39\u0e01\u0e32"
+    ],
+    "name:zho_x_preferred":[
+        "\u83b1\u6b66\u5361"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632755,
+        85671173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2204418,
+        "wk:page":"Levuka"
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"a52b3e25cb16176343436a2d75906fda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632755,
+            "locality_id":1310124001,
+            "region_id":85671173
+        }
+    ],
+    "wof:id":1310124001,
+    "wof:lastmodified":1537622416,
+    "wof:name":"Levuka",
+    "wof:parent_id":85671173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    178.83142,
+    -17.6823,
+    178.83142,
+    -17.6823
+],
+  "geometry": {"coordinates":[178.83142000000001,-17.6823],"type":"Point"}
+}

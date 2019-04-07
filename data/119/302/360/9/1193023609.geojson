@@ -1,0 +1,68 @@
+{
+  "id": 1193023609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"179.24355,-16.69778,179.24355,-16.69778",
+    "geom:latitude":-16.69778,
+    "geom:longitude":179.24355,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"2197820.0",
+    "gn:asciiname":"Wailevu",
+    "gn:country_code":"FJ",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2195793,
+    "gn:latitude":-16.69778,
+    "gn:longitude":179.24355,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Wailevu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fij_x_preferred":[
+        "Wailevu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2195793
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"1443e444e65ef3313a62a86d04984f6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632755,
+            "locality_id":1193023609,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1193023609,
+    "wof:lastmodified":1537622359,
+    "wof:name":"Wailevu",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    179.24355,
+    -16.69778,
+    179.24355,
+    -16.69778
+],
+  "geometry": {"coordinates":[179.24355,-16.69778],"type":"Point"}
+}

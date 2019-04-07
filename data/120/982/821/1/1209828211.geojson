@@ -1,0 +1,69 @@
+{
+  "id": 1209828211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"179.42895,-17.30287,179.42895,-17.30287",
+    "geom:latitude":-17.30287,
+    "geom:longitude":179.42895,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"2204318",
+    "gn:asciiname":"Naivinivini Settlement",
+    "gn:country_code":"FJ",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11339363,
+    "gn:latitude":-17.30287,
+    "gn:longitude":179.42895,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Naivinivini Settlement",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fij_x_preferred":[
+        "Naivinivini Settlement"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632755,
+        85671173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11339363
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"881c328134348b2bb0f422c49519fc32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632755,
+            "locality_id":1209828211,
+            "region_id":85671173
+        }
+    ],
+    "wof:id":1209828211,
+    "wof:lastmodified":1537622446,
+    "wof:name":"Naivinivini Settlement",
+    "wof:parent_id":85671173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    179.42895,
+    -17.30287,
+    179.42895,
+    -17.30287
+],
+  "geometry": {"coordinates":[179.42894999999999,-17.30287],"type":"Point"}
+}

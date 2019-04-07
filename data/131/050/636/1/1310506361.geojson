@@ -1,0 +1,68 @@
+{
+  "id": 1310506361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"178.43333,-17.58333,178.43333,-17.58333",
+    "geom:latitude":-17.58333,
+    "geom:longitude":178.43333,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Naivotho",
+    "gn:country_code":"FJ",
+    "gn:dem":239,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2203054,
+    "gn:latitude":-17.58333,
+    "gn:longitude":178.43333,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Naivotho",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fij_x_preferred":[
+        "Naivotho"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632755,
+        85671181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2203054
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"faf59689ddd04c25626f40f1297d3205",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632755,
+            "locality_id":1310506361,
+            "region_id":85671181
+        }
+    ],
+    "wof:id":1310506361,
+    "wof:lastmodified":1537622405,
+    "wof:name":"Naivotho",
+    "wof:parent_id":85671181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    178.43333,
+    -17.58333,
+    178.43333,
+    -17.58333
+],
+  "geometry": {"coordinates":[178.43333000000001,-17.58333],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1243282177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"179.75,-19.18333,179.75,-19.18333",
+    "geom:latitude":-19.18333,
+    "geom:longitude":179.75,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Ndaku",
+    "gn:cc2":"FJ",
+    "gn:country_code":"FJ",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2200131,
+    "gn:latitude":-19.18333,
+    "gn:longitude":179.75,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ndaku",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Andako",
+        "Ndaku"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632755,
+        85671173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2200131
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"a459227de43d547eb6ecf1a0f56e5d95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632755,
+            "locality_id":1243282177,
+            "region_id":85671173
+        }
+    ],
+    "wof:id":1243282177,
+    "wof:lastmodified":1537622381,
+    "wof:name":"Ndaku",
+    "wof:parent_id":85671173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    179.75,
+    -19.18333,
+    179.75,
+    -19.18333
+],
+  "geometry": {"coordinates":[179.75,-19.18333],"type":"Point"}
+}

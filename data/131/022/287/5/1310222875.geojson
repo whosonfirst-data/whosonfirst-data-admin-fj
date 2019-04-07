@@ -1,0 +1,69 @@
+{
+  "id": 1310222875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"178.57563,-17.66135,178.57563,-17.66135",
+    "geom:latitude":-17.66135,
+    "geom:longitude":178.57563,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"2198131",
+    "gn:asciiname":"Navutu Settlement",
+    "gn:country_code":"FJ",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11313962,
+    "gn:latitude":-17.66135,
+    "gn:longitude":178.57563,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Navutu Settlement",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fij_x_preferred":[
+        "Navutu Settlement"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632755,
+        85671167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11313962
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"9c771046970b299695b6d39118fe3bf5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632755,
+            "locality_id":1310222875,
+            "region_id":85671167
+        }
+    ],
+    "wof:id":1310222875,
+    "wof:lastmodified":1537622444,
+    "wof:name":"Navutu Settlement",
+    "wof:parent_id":85671167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    178.57563000000005,
+    -17.66135,
+    178.57563000000005,
+    -17.66135
+],
+  "geometry": {"coordinates":[178.57563000000005,-17.66135],"type":"Point"}
+}

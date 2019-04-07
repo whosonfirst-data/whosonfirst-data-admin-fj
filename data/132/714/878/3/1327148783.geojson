@@ -1,0 +1,68 @@
+{
+  "id": 1327148783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"178.38397,-17.83009,178.38397,-17.83009",
+    "geom:latitude":-17.83009,
+    "geom:longitude":178.38397,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Vatukarasa",
+    "gn:country_code":"FJ",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2197054,
+    "gn:latitude":-17.83009,
+    "gn:longitude":178.38397,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Vatukarasa",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fij_x_preferred":[
+        "Vatukarasa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632755,
+        85671167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2197054
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"9c69cde049922e453a35e91303965b75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632755,
+            "locality_id":1327148783,
+            "region_id":85671167
+        }
+    ],
+    "wof:id":1327148783,
+    "wof:lastmodified":1537622364,
+    "wof:name":"Vatukarasa",
+    "wof:parent_id":85671167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    178.38397,
+    -17.83009,
+    178.38397,
+    -17.83009
+],
+  "geometry": {"coordinates":[178.38397000000001,-17.83009],"type":"Point"}
+}

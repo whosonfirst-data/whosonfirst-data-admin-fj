@@ -1,0 +1,65 @@
+{
+  "id": 1209622577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"178.81439,-16.91094,178.81439,-16.91094",
+    "geom:latitude":-16.91094,
+    "geom:longitude":178.81439,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"2203651.0",
+    "gn:asciiname":"Sawani",
+    "gn:country_code":"FJ",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2198463,
+    "gn:latitude":-16.91094,
+    "gn:longitude":178.81439,
+    "gn:modification_date":"2017-07-04",
+    "gn:name":"Sawani",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fij_x_preferred":[
+        "Sawani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2198463
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"a87c31d73cd96d7f5749b5863a886de2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632755,
+            "locality_id":1209622577
+        }
+    ],
+    "wof:id":1209622577,
+    "wof:lastmodified":1537622371,
+    "wof:name":"Sawani",
+    "wof:parent_id":85632755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    178.81439,
+    -16.91094,
+    178.81439,
+    -16.91094
+],
+  "geometry": {"coordinates":[178.81439,-16.91094],"type":"Point"}
+}

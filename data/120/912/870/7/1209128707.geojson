@@ -1,0 +1,65 @@
+{
+  "id": 1209128707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"177.93119,-17.65018,177.93119,-17.65018",
+    "geom:latitude":-17.65018,
+    "geom:longitude":177.93119,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"2203798",
+    "gn:asciiname":"Lokunabaki Settlement",
+    "gn:country_code":"FJ",
+    "gn:dem":593,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11104271,
+    "gn:latitude":-17.65018,
+    "gn:longitude":177.93119,
+    "gn:modification_date":"2016-04-12",
+    "gn:name":"Lokunabaki Settlement",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fij_x_preferred":[
+        "Lokunabaki Settlement"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11104271
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"154b00e825605d0c3f43bce66958fd67",
+    "wof:hierarchy":[
+        {
+            "country_id":85632755,
+            "locality_id":1209128707
+        }
+    ],
+    "wof:id":1209128707,
+    "wof:lastmodified":1537622430,
+    "wof:name":"Lokunabaki Settlement",
+    "wof:parent_id":85632755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    177.93119,
+    -17.65018,
+    177.93119,
+    -17.65018
+],
+  "geometry": {"coordinates":[177.93118999999999,-17.65018],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1293688469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"178.88931,-16.59716,178.88931,-16.59716",
+    "geom:latitude":-16.59716,
+    "geom:longitude":178.88931,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"2203875",
+    "gn:asciiname":"Kawakawasomo Settlement",
+    "gn:country_code":"FJ",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11595256,
+    "gn:latitude":-16.59716,
+    "gn:longitude":178.88931,
+    "gn:modification_date":"2017-07-06",
+    "gn:name":"Kawakawasomo Settlement",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fij_x_preferred":[
+        "Kawakawasomo Settlement"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632755,
+        85671179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11595256
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"69a7d149110cf65bb25280bf313cc2c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632755,
+            "locality_id":1293688469,
+            "region_id":85671179
+        }
+    ],
+    "wof:id":1293688469,
+    "wof:lastmodified":1537622451,
+    "wof:name":"Kawakawasomo Settlement",
+    "wof:parent_id":85671179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    178.88931000000005,
+    -16.59716,
+    178.88931000000005,
+    -16.59716
+],
+  "geometry": {"coordinates":[178.88931000000005,-16.59716],"type":"Point"}
+}

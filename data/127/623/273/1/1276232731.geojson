@@ -1,0 +1,69 @@
+{
+  "id": 1276232731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"178.43361,-17.56233,178.43361,-17.56233",
+    "geom:latitude":-17.56233,
+    "geom:longitude":178.43361,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"2198946",
+    "gn:asciiname":"Matainananu",
+    "gn:country_code":"FJ",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2204037,
+    "gn:latitude":-17.56233,
+    "gn:longitude":178.43361,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Matainananu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fij_x_preferred":[
+        "Matainananu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632755,
+        85671181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2204037
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"3ff3d111b37fa3fc561e477889381dc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632755,
+            "locality_id":1276232731,
+            "region_id":85671181
+        }
+    ],
+    "wof:id":1276232731,
+    "wof:lastmodified":1537622413,
+    "wof:name":"Matainananu",
+    "wof:parent_id":85671181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    178.43361000000004,
+    -17.56233,
+    178.43361000000004,
+    -17.56233
+],
+  "geometry": {"coordinates":[178.43361000000004,-17.56233],"type":"Point"}
+}

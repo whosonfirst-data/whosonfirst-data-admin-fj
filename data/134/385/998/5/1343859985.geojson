@@ -1,0 +1,69 @@
+{
+  "id": 1343859985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"179.13864,-16.44031,179.13864,-16.44031",
+    "geom:latitude":-16.44031,
+    "geom:longitude":179.13864,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"2203875",
+    "gn:asciiname":"Namama",
+    "gn:country_code":"FJ",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2202630,
+    "gn:latitude":-16.44031,
+    "gn:longitude":179.13864,
+    "gn:modification_date":"2017-07-04",
+    "gn:name":"Namama",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fij_x_preferred":[
+        "Namama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632755,
+        85671179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2202630
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"f16adce4f2002f18b4eb2ce0009dd197",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632755,
+            "locality_id":1343859985,
+            "region_id":85671179
+        }
+    ],
+    "wof:id":1343859985,
+    "wof:lastmodified":1537622402,
+    "wof:name":"Namama",
+    "wof:parent_id":85671179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    179.13863999999995,
+    -16.44031,
+    179.13863999999995,
+    -16.44031
+],
+  "geometry": {"coordinates":[179.13863999999995,-16.44031],"type":"Point"}
+}

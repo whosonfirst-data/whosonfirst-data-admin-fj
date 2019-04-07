@@ -1,0 +1,68 @@
+{
+  "id": 1277092553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-178.48751,-18.4447,-178.48751,-18.4447",
+    "geom:latitude":-18.4447,
+    "geom:longitude":-178.48751,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"4036132",
+    "gn:asciiname":"Waiqori",
+    "gn:country_code":"FJ",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4035797,
+    "gn:latitude":-18.4447,
+    "gn:longitude":-178.48751,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Waiqori",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fij_x_preferred":[
+        "Waiqori"
+    ],
+    "name:fij_x_variant":[
+        "Wainggori"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4035797
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"ddce9b55e9300c1ad48d16e8ae30ce8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1277092553,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1277092553,
+    "wof:lastmodified":1537622422,
+    "wof:name":"Waiqori",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -178.48751,
+    -18.4447,
+    -178.48751,
+    -18.4447
+],
+  "geometry": {"coordinates":[-178.48750999999999,-18.4447],"type":"Point"}
+}

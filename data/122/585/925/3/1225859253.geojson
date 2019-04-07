@@ -1,0 +1,69 @@
+{
+  "id": 1225859253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"178.40711,-17.74752,178.40711,-17.74752",
+    "geom:latitude":-17.74752,
+    "geom:longitude":178.40711,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"2198131",
+    "gn:asciiname":"Dovasili Settlement",
+    "gn:country_code":"FJ",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11313487,
+    "gn:latitude":-17.74752,
+    "gn:longitude":178.40711,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Dovasili Settlement",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fij_x_preferred":[
+        "Dovasili Settlement"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632755,
+        85671167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11313487
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"8163b4bbf45a0a1a9699e37e1d31f261",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632755,
+            "locality_id":1225859253,
+            "region_id":85671167
+        }
+    ],
+    "wof:id":1225859253,
+    "wof:lastmodified":1537622443,
+    "wof:name":"Dovasili Settlement",
+    "wof:parent_id":85671167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    178.40711000000005,
+    -17.74752,
+    178.40711000000005,
+    -17.74752
+],
+  "geometry": {"coordinates":[178.40711000000005,-17.74752],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1259981555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"178.8584,-16.87371,178.8584,-16.87371",
+    "geom:latitude":-16.87371,
+    "geom:longitude":178.8584,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"2203651.0",
+    "gn:asciiname":"Saolo",
+    "gn:country_code":"FJ",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2198710,
+    "gn:latitude":-16.87371,
+    "gn:longitude":178.8584,
+    "gn:modification_date":"2017-07-04",
+    "gn:name":"Saolo",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fij_x_preferred":[
+        "Saolo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2198710
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"78a9ee4b45821ecbc72af17c31b877f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632755,
+            "locality_id":1259981555,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1259981555,
+    "wof:lastmodified":1537622372,
+    "wof:name":"Saolo",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    178.8584,
+    -16.87371,
+    178.8584,
+    -16.87371
+],
+  "geometry": {"coordinates":[178.85839999999999,-16.87371],"type":"Point"}
+}

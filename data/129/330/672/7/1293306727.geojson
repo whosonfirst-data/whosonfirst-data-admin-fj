@@ -1,0 +1,72 @@
+{
+  "id": 1293306727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"178.50231,-17.61244,178.50231,-17.61244",
+    "geom:latitude":-17.61244,
+    "geom:longitude":178.50231,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"2198131",
+    "gn:asciiname":"Dawasamu Settlement",
+    "gn:country_code":"FJ",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2199987,
+    "gn:latitude":-17.61244,
+    "gn:longitude":178.50231,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Dawasamu Settlement",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fij_x_preferred":[
+        "Dawasamu Settlement"
+    ],
+    "name:fij_x_variant":[
+        "Ndawasamu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632755,
+        85671167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2199987
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"c41371f8e1beb709351984d9987e8f2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632755,
+            "locality_id":1293306727,
+            "region_id":85671167
+        }
+    ],
+    "wof:id":1293306727,
+    "wof:lastmodified":1537622380,
+    "wof:name":"Dawasamu Settlement",
+    "wof:parent_id":85671167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    178.50231000000005,
+    -17.61244,
+    178.50231000000005,
+    -17.61244
+],
+  "geometry": {"coordinates":[178.50231000000005,-17.61244],"type":"Point"}
+}

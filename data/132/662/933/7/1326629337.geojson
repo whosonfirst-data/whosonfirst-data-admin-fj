@@ -1,0 +1,69 @@
+{
+  "id": 1326629337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"177.5459,-17.96841,177.5459,-17.96841",
+    "geom:latitude":-17.96841,
+    "geom:longitude":177.5459,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"2203798",
+    "gn:asciiname":"Narata",
+    "gn:country_code":"FJ",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2201655,
+    "gn:latitude":-17.96841,
+    "gn:longitude":177.5459,
+    "gn:modification_date":"2016-04-10",
+    "gn:name":"Narata",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fij_x_preferred":[
+        "Narata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632755,
+        85671181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2201655
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"dc407fd81b7af1ba22a8222a6ea335c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632755,
+            "locality_id":1326629337,
+            "region_id":85671181
+        }
+    ],
+    "wof:id":1326629337,
+    "wof:lastmodified":1537622393,
+    "wof:name":"Narata",
+    "wof:parent_id":85671181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    177.5459,
+    -17.96841000000001,
+    177.5459,
+    -17.96841000000001
+],
+  "geometry": {"coordinates":[177.54589999999999,-17.96841000000001],"type":"Point"}
+}

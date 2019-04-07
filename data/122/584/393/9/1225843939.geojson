@@ -1,0 +1,73 @@
+{
+  "id": 1225843939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"178.33707,-17.48184,178.33707,-17.48184",
+    "geom:latitude":-17.48184,
+    "geom:longitude":178.33707,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2198946.0",
+    "gn:asciiname":"Veidrala",
+    "gn:country_code":"FJ",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2196781,
+    "gn:latitude":-17.48184,
+    "gn:longitude":178.33707,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Veidrala",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fij_x_preferred":[
+        "Veidrala"
+    ],
+    "name:und_x_variant":[
+        "Vendrala",
+        "Veindrala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632755,
+        85671181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2196781
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"f7703e8b0091ff0ecda780af303233d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632755,
+            "locality_id":1225843939,
+            "region_id":85671181
+        }
+    ],
+    "wof:id":1225843939,
+    "wof:lastmodified":1537622363,
+    "wof:name":"Veidrala",
+    "wof:parent_id":85671181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    178.33706999999995,
+    -17.48184,
+    178.33706999999995,
+    -17.48184
+],
+  "geometry": {"coordinates":[178.33706999999995,-17.48184],"type":"Point"}
+}

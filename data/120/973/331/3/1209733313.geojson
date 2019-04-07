@@ -1,0 +1,69 @@
+{
+  "id": 1209733313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"178.58625,-18.04036,178.58625,-18.04036",
+    "geom:latitude":-18.04036,
+    "geom:longitude":178.58625,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"2198131.0",
+    "gn:asciiname":"Vunivaivai",
+    "gn:country_code":"FJ",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2196080,
+    "gn:latitude":-18.04036,
+    "gn:longitude":178.58625,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Vunivaivai",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fij_x_preferred":[
+        "Vunivaivai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632755,
+        85671167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2196080
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"12ba3db6885f65b678a5ba2aa1b0841f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632755,
+            "locality_id":1209733313,
+            "region_id":85671167
+        }
+    ],
+    "wof:id":1209733313,
+    "wof:lastmodified":1537622360,
+    "wof:name":"Vunivaivai",
+    "wof:parent_id":85671167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    178.58625,
+    -18.04036,
+    178.58625,
+    -18.04036
+],
+  "geometry": {"coordinates":[178.58625000000001,-18.04036],"type":"Point"}
+}

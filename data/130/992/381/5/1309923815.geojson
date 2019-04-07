@@ -1,0 +1,64 @@
+{
+  "id": 1309923815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"179.43333,-17.85,179.43333,-17.85",
+    "geom:latitude":-17.85,
+    "geom:longitude":179.43333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Namatana",
+    "gn:country_code":"FJ",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2202566,
+    "gn:latitude":-17.85,
+    "gn:longitude":179.43333,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Namatana",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fij_x_preferred":[
+        "Namatana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2202566
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"34a9caf6f932b134a7a0a6c77ec72b3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1309923815,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1309923815,
+    "wof:lastmodified":1537622401,
+    "wof:name":"Namatana",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    179.43333,
+    -17.85,
+    179.43333,
+    -17.85
+],
+  "geometry": {"coordinates":[179.43333000000001,-17.85],"type":"Point"}
+}

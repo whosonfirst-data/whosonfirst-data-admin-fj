@@ -1,0 +1,65 @@
+{
+  "id": 1226054359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-179.86791,-16.69794,-179.86791,-16.69794",
+    "geom:latitude":-16.69794,
+    "geom:longitude":-179.86791,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Naselesele",
+    "gn:country_code":"FJ",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4036017,
+    "gn:latitude":-16.69794,
+    "gn:longitude":-179.86791,
+    "gn:modification_date":"2013-10-27",
+    "gn:name":"Naselesele",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632755,
+        85671179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4036017
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"dc251704e7ca149c67cb1a001d6b6935",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632755,
+            "locality_id":1226054359,
+            "region_id":85671179
+        }
+    ],
+    "wof:id":1226054359,
+    "wof:lastmodified":1536713010,
+    "wof:name":"Naselesele",
+    "wof:parent_id":85671179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -179.86791000000005,
+    -16.69794,
+    -179.86791000000005,
+    -16.69794
+],
+  "geometry": {"coordinates":[-179.86791000000005,-16.69794],"type":"Point"}
+}

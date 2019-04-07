@@ -1,0 +1,70 @@
+{
+  "id": 1276981977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"178.75751,-16.9915,178.75751,-16.9915",
+    "geom:latitude":-16.9915,
+    "geom:longitude":178.75751,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"2203651",
+    "gn:asciiname":"Makolei",
+    "gn:country_code":"FJ",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2204172,
+    "gn:latitude":-16.9915,
+    "gn:longitude":178.75751,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Makolei",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Solevu",
+        "Makolei"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632755,
+        85671179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2204172
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"ac761ba13396f1a6d8f4f857bd60596c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632755,
+            "locality_id":1276981977,
+            "region_id":85671179
+        }
+    ],
+    "wof:id":1276981977,
+    "wof:lastmodified":1537622414,
+    "wof:name":"Makolei",
+    "wof:parent_id":85671179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    178.75751,
+    -16.9915,
+    178.75751,
+    -16.9915
+],
+  "geometry": {"coordinates":[178.75751,-16.9915],"type":"Point"}
+}

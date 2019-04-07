@@ -1,0 +1,69 @@
+{
+  "id": 1209614189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"177.89912,-17.54469,177.89912,-17.54469",
+    "geom:latitude":-17.54469,
+    "geom:longitude":177.89912,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"2203798",
+    "gn:asciiname":"Nadelei",
+    "gn:country_code":"FJ",
+    "gn:dem":190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2202074,
+    "gn:latitude":-17.54469,
+    "gn:longitude":177.89912,
+    "gn:modification_date":"2016-04-10",
+    "gn:name":"Nadelei",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fij_x_preferred":[
+        "Nadelei"
+    ],
+    "name:und_x_variant":[
+        "Nandelei",
+        "Nandele"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2202074
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"f2ef502474b8e36158fa0726fc7ca67c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632755,
+            "locality_id":1209614189
+        }
+    ],
+    "wof:id":1209614189,
+    "wof:lastmodified":1537622396,
+    "wof:name":"Nadelei",
+    "wof:parent_id":85632755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    177.89911999999995,
+    -17.54469,
+    177.89911999999995,
+    -17.54469
+],
+  "geometry": {"coordinates":[177.89911999999995,-17.54469],"type":"Point"}
+}

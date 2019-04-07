@@ -1,0 +1,73 @@
+{
+  "id": 1293787165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"177.95551,-19.12725,177.95551,-19.12725",
+    "geom:latitude":-19.12725,
+    "geom:longitude":177.95551,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"8617786",
+    "gn:asciiname":"Nabukelevu",
+    "gn:country_code":"FJ",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2202313,
+    "gn:latitude":-19.12725,
+    "gn:longitude":177.95551,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Nabukelevu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fij_x_preferred":[
+        "Nabukelevu"
+    ],
+    "name:und_x_variant":[
+        "Mbuke Levuira",
+        "Nambukelevuira"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632755,
+        85671173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2202313
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"c790a2810b6f47632e72e798b0fa1554",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632755,
+            "locality_id":1293787165,
+            "region_id":85671173
+        }
+    ],
+    "wof:id":1293787165,
+    "wof:lastmodified":1537622399,
+    "wof:name":"Nabukelevu",
+    "wof:parent_id":85671173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    177.95551,
+    -19.12725,
+    177.95551,
+    -19.12725
+],
+  "geometry": {"coordinates":[177.95551,-19.12725],"type":"Point"}
+}

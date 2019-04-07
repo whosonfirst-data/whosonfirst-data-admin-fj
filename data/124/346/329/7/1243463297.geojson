@@ -1,0 +1,73 @@
+{
+  "id": 1243463297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"178.08988,-19.1543,178.08988,-19.1543",
+    "geom:latitude":-19.1543,
+    "geom:longitude":178.08988,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"8617786",
+    "gn:asciiname":"Burelevu Settlement",
+    "gn:country_code":"FJ",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2203591,
+    "gn:latitude":-19.1543,
+    "gn:longitude":178.08988,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Burelevu Settlement",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fij_x_preferred":[
+        "Burelevu Settlement"
+    ],
+    "name:und_x_variant":[
+        "Vanua Levu",
+        "Mburelevu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632755,
+        85671173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2203591
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"a948c8a78fe0fedb3a9ef3adce724f44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632755,
+            "locality_id":1243463297,
+            "region_id":85671173
+        }
+    ],
+    "wof:id":1243463297,
+    "wof:lastmodified":1537622410,
+    "wof:name":"Burelevu Settlement",
+    "wof:parent_id":85671173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    178.08988,
+    -19.1543,
+    178.08988,
+    -19.1543
+],
+  "geometry": {"coordinates":[178.08987999999999,-19.1543],"type":"Point"}
+}

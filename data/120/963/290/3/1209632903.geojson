@@ -1,0 +1,65 @@
+{
+  "id": 1209632903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"178.52507,-17.83812,178.52507,-17.83812",
+    "geom:latitude":-17.83812,
+    "geom:longitude":178.52507,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"2198131",
+    "gn:asciiname":"Davetalevu Settlement",
+    "gn:country_code":"FJ",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11245170,
+    "gn:latitude":-17.83812,
+    "gn:longitude":178.52507,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Davetalevu Settlement",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fij_x_preferred":[
+        "Davetalevu Settlement"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11245170
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"95e77eb1d92d930687a32811053fc915",
+    "wof:hierarchy":[
+        {
+            "country_id":85632755,
+            "locality_id":1209632903
+        }
+    ],
+    "wof:id":1209632903,
+    "wof:lastmodified":1537622441,
+    "wof:name":"Davetalevu Settlement",
+    "wof:parent_id":85632755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    178.52507,
+    -17.83812,
+    178.52507,
+    -17.83812
+],
+  "geometry": {"coordinates":[178.52507,-17.83812],"type":"Point"}
+}

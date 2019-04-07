@@ -1,0 +1,64 @@
+{
+  "id": 1226360741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"178.18142,-19.07928,178.18142,-19.07928",
+    "geom:latitude":-19.07928,
+    "geom:longitude":178.18142,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Galoa",
+    "gn:country_code":"FJ",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":2199632,
+    "gn:latitude":-19.07928,
+    "gn:longitude":178.18142,
+    "gn:modification_date":"2013-10-05",
+    "gn:name":"Galoa",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Galoa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2199632
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"91f760132465cbb5526ba0481f396ef6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1226360741,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226360741,
+    "wof:lastmodified":1537622377,
+    "wof:name":"Galoa",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    178.18142,
+    -19.07928,
+    178.18142,
+    -19.07928
+],
+  "geometry": {"coordinates":[178.18142,-19.07928],"type":"Point"}
+}

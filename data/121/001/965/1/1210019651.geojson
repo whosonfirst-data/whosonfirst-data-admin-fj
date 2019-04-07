@@ -1,0 +1,69 @@
+{
+  "id": 1210019651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"177.99937,-19.14069,177.99937,-19.14069",
+    "geom:latitude":-19.14069,
+    "geom:longitude":177.99937,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"8617786",
+    "gn:asciiname":"Daviqele",
+    "gn:country_code":"FJ",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2200023,
+    "gn:latitude":-19.14069,
+    "gn:longitude":177.99937,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Daviqele",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ndavinggele"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632755,
+        85671173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2200023
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"f302eeabb01610138f242be74c37d159",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632755,
+            "locality_id":1210019651,
+            "region_id":85671173
+        }
+    ],
+    "wof:id":1210019651,
+    "wof:lastmodified":1537622380,
+    "wof:name":"Daviqele",
+    "wof:parent_id":85671173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    177.99937,
+    -19.14069,
+    177.99937,
+    -19.14069
+],
+  "geometry": {"coordinates":[177.99937,-19.14069],"type":"Point"}
+}

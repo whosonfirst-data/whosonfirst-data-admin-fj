@@ -1,0 +1,66 @@
+{
+  "id": 1209422489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"179.68333,-16.48333,179.68333,-16.48333",
+    "geom:latitude":-16.48333,
+    "geom:longitude":179.68333,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Navetau",
+    "gn:cc2":"FJ",
+    "gn:country_code":"FJ",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2200605,
+    "gn:latitude":-16.48333,
+    "gn:longitude":179.68333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Navetau",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vatuloa",
+        "Navetau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2200605
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"42b07abbb70289b88d76e5593f6f7847",
+    "wof:hierarchy":[
+        {
+            "country_id":85632755,
+            "locality_id":1209422489
+        }
+    ],
+    "wof:id":1209422489,
+    "wof:lastmodified":1537622384,
+    "wof:name":"Navetau",
+    "wof:parent_id":85632755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    179.68333,
+    -16.48333,
+    179.68333,
+    -16.48333
+],
+  "geometry": {"coordinates":[179.68333000000001,-16.48333],"type":"Point"}
+}

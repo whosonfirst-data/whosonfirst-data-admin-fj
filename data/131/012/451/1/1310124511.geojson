@@ -1,0 +1,64 @@
+{
+  "id": 1310124511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"178.03306,-18.10176,178.03306,-18.10176",
+    "geom:latitude":-18.10176,
+    "geom:longitude":178.03306,
+    "gn:asciiname":"Masi",
+    "gn:country_code":"FJ",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10942865,
+    "gn:latitude":-18.10176,
+    "gn:longitude":178.03306,
+    "gn:modification_date":"2015-11-30",
+    "gn:name":"Masi",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632755,
+        85671167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10942865
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"9b9b948bcdeef6ce2fa774eee8cca273",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632755,
+            "locality_id":1310124511,
+            "region_id":85671167
+        }
+    ],
+    "wof:id":1310124511,
+    "wof:lastmodified":1536968780,
+    "wof:name":"Masi",
+    "wof:parent_id":85671167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    178.03306,
+    -18.10176,
+    178.03306,
+    -18.10176
+],
+  "geometry": {"coordinates":[178.03306000000001,-18.10176],"type":"Point"}
+}

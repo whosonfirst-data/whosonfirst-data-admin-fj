@@ -1,0 +1,72 @@
+{
+  "id": 1276450301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"178.59244,-16.78395,178.59244,-16.78395",
+    "geom:latitude":-16.78395,
+    "geom:longitude":178.59244,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"2203651",
+    "gn:asciiname":"Luvuluvu Settlement",
+    "gn:country_code":"FJ",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2204186,
+    "gn:latitude":-16.78395,
+    "gn:longitude":178.59244,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Luvuluvu Settlement",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fij_x_preferred":[
+        "Luvuluvu Settlement"
+    ],
+    "name:fij_x_variant":[
+        "Luvuluvu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632755,
+        85671179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2204186
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"9e8a6aceaae8bd541a48526cb17ee3d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632755,
+            "locality_id":1276450301,
+            "region_id":85671179
+        }
+    ],
+    "wof:id":1276450301,
+    "wof:lastmodified":1537622415,
+    "wof:name":"Luvuluvu Settlement",
+    "wof:parent_id":85671179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    178.59243999999995,
+    -16.78395,
+    178.59243999999995,
+    -16.78395
+],
+  "geometry": {"coordinates":[178.59243999999995,-16.78395],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1259888639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"178.47679,-18.92273,178.47679,-18.92273",
+    "geom:latitude":-18.92273,
+    "geom:longitude":178.47679,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"8617786.0",
+    "gn:asciiname":"Waisomo",
+    "gn:country_code":"FJ",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2194706,
+    "gn:latitude":-18.92273,
+    "gn:longitude":178.47679,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Waisomo",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fij_x_preferred":[
+        "Waisomo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2194706
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"320fe7add2884b3422d46f4d7eca9b00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632755,
+            "locality_id":1259888639,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1259888639,
+    "wof:lastmodified":1537622357,
+    "wof:name":"Waisomo",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    178.47679,
+    -18.92273,
+    178.47679,
+    -18.92273
+],
+  "geometry": {"coordinates":[178.47678999999999,-18.92273],"type":"Point"}
+}

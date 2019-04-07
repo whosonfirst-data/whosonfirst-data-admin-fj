@@ -1,0 +1,69 @@
+{
+  "id": 1276877679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"177.92789,-17.70852,177.92789,-17.70852",
+    "geom:latitude":-17.70852,
+    "geom:longitude":177.92789,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"2203798",
+    "gn:asciiname":"Nakito Settlement",
+    "gn:country_code":"FJ",
+    "gn:dem":665,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11189508,
+    "gn:latitude":-17.70852,
+    "gn:longitude":177.92789,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Nakito Settlement",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fij_x_preferred":[
+        "Nakito Settlement"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632755,
+        85671181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11189508
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"ef87d93893b9b0090ed07cff84346ae3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632755,
+            "locality_id":1276877679,
+            "region_id":85671181
+        }
+    ],
+    "wof:id":1276877679,
+    "wof:lastmodified":1537622434,
+    "wof:name":"Nakito Settlement",
+    "wof:parent_id":85671181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    177.92789,
+    -17.70852,
+    177.92789,
+    -17.70852
+],
+  "geometry": {"coordinates":[177.92788999999999,-17.70852],"type":"Point"}
+}

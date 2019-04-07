@@ -1,0 +1,69 @@
+{
+  "id": 1310632653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"178.10461,-17.52668,178.10461,-17.52668",
+    "geom:latitude":-17.52668,
+    "geom:longitude":178.10461,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"2198946",
+    "gn:asciiname":"Naraviravi",
+    "gn:country_code":"FJ",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11190106,
+    "gn:latitude":-17.52668,
+    "gn:longitude":178.10461,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Naraviravi",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fij_x_preferred":[
+        "Naraviravi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632755,
+        85671181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11190106
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"0738880bd938914aa0e842276e0ff200",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632755,
+            "locality_id":1310632653,
+            "region_id":85671181
+        }
+    ],
+    "wof:id":1310632653,
+    "wof:lastmodified":1537622435,
+    "wof:name":"Naraviravi",
+    "wof:parent_id":85671181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    178.10461,
+    -17.52668,
+    178.10461,
+    -17.52668
+],
+  "geometry": {"coordinates":[178.10461000000001,-17.52668],"type":"Point"}
+}

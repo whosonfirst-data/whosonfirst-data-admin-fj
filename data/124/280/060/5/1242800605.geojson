@@ -1,0 +1,68 @@
+{
+  "id": 1242800605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"177.08713,-17.61485,177.08713,-17.61485",
+    "geom:latitude":-17.61485,
+    "geom:longitude":177.08713,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2201984.0",
+    "gn:asciiname":"Vula Settlement",
+    "gn:country_code":"FJ",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2197894,
+    "gn:latitude":-17.61485,
+    "gn:longitude":177.08713,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Vula Settlement",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fij_x_preferred":[
+        "Vula Settlement"
+    ],
+    "name:fij_x_variant":[
+        "Tavua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2197894
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"0b5790001f60ef193f2a714bb5961a66",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1242800605,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1242800605,
+    "wof:lastmodified":1537622369,
+    "wof:name":"Vula Settlement",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    177.08713,
+    -17.61485,
+    177.08713,
+    -17.61485
+],
+  "geometry": {"coordinates":[177.08713,-17.61485],"type":"Point"}
+}

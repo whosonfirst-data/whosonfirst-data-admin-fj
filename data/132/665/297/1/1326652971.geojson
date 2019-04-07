@@ -1,0 +1,73 @@
+{
+  "id": 1326652971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"177.50663,-17.72853,177.50663,-17.72853",
+    "geom:latitude":-17.72853,
+    "geom:longitude":177.50663,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"2203798",
+    "gn:asciiname":"Boutini Settlement",
+    "gn:country_code":"FJ",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2202359,
+    "gn:latitude":-17.72853,
+    "gn:longitude":177.50663,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Boutini Settlement",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fij_x_preferred":[
+        "Boutini Settlement"
+    ],
+    "name:und_x_variant":[
+        "Mboutini",
+        "Namboutini"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632755,
+        85671181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2202359
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"ad97fa7727784f2540c0df58749381a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632755,
+            "locality_id":1326652971,
+            "region_id":85671181
+        }
+    ],
+    "wof:id":1326652971,
+    "wof:lastmodified":1537622400,
+    "wof:name":"Boutini Settlement",
+    "wof:parent_id":85671181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    177.50663,
+    -17.72853,
+    177.50663,
+    -17.72853
+],
+  "geometry": {"coordinates":[177.50663,-17.72853],"type":"Point"}
+}

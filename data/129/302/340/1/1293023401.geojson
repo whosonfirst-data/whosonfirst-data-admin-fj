@@ -1,0 +1,72 @@
+{
+  "id": 1293023401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"177.77862,-17.81032,177.77862,-17.81032",
+    "geom:latitude":-17.81032,
+    "geom:longitude":177.77862,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"2203798",
+    "gn:asciiname":"Navaga",
+    "gn:country_code":"FJ",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2200724,
+    "gn:latitude":-17.81032,
+    "gn:longitude":177.77862,
+    "gn:modification_date":"2016-04-10",
+    "gn:name":"Navaga",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fij_x_preferred":[
+        "Navaga"
+    ],
+    "name:und_x_variant":[
+        "Navanga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632755,
+        85671181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2200724
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"99a2a47783c68dbc6255d437e01dc95f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632755,
+            "locality_id":1293023401,
+            "region_id":85671181
+        }
+    ],
+    "wof:id":1293023401,
+    "wof:lastmodified":1537622385,
+    "wof:name":"Navaga",
+    "wof:parent_id":85671181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    177.77862,
+    -17.81032,
+    177.77862,
+    -17.81032
+],
+  "geometry": {"coordinates":[177.77861999999999,-17.81032],"type":"Point"}
+}

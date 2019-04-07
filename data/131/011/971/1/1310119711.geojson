@@ -1,0 +1,72 @@
+{
+  "id": 1310119711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"178.55701,-18.10038,178.55701,-18.10038",
+    "geom:latitude":-18.10038,
+    "geom:longitude":178.55701,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"2198876",
+    "gn:asciiname":"Nukutubu",
+    "gn:country_code":"FJ",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2199185,
+    "gn:latitude":-18.10038,
+    "gn:longitude":178.55701,
+    "gn:modification_date":"2016-07-05",
+    "gn:name":"Nukutubu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fij_x_preferred":[
+        "Nukutubu"
+    ],
+    "name:fij_x_variant":[
+        "Nukutumbu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632755,
+        85671167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2199185
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"efe43e996fdeb86923239336a3d35621",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632755,
+            "locality_id":1310119711,
+            "region_id":85671167
+        }
+    ],
+    "wof:id":1310119711,
+    "wof:lastmodified":1537622375,
+    "wof:name":"Nukutubu",
+    "wof:parent_id":85671167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    178.55701000000005,
+    -18.10038,
+    178.55701000000005,
+    -18.10038
+],
+  "geometry": {"coordinates":[178.55701000000005,-18.10038],"type":"Point"}
+}

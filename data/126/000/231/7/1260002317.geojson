@@ -1,0 +1,65 @@
+{
+  "id": 1260002317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"177.33333,-17.93333,177.33333,-17.93333",
+    "geom:latitude":-17.93333,
+    "geom:longitude":177.33333,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Nawau",
+    "gn:country_code":"FJ",
+    "gn:dem":101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2200218,
+    "gn:latitude":-17.93333,
+    "gn:longitude":177.33333,
+    "gn:modification_date":"1993-12-22",
+    "gn:name":"Nawau",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632755,
+        85671181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2200218
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"d1c03ac5ae17b06c96e337697437b233",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632755,
+            "locality_id":1260002317,
+            "region_id":85671181
+        }
+    ],
+    "wof:id":1260002317,
+    "wof:lastmodified":1536605037,
+    "wof:name":"Nawau",
+    "wof:parent_id":85671181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    177.33333000000005,
+    -17.93332999999999,
+    177.33333000000005,
+    -17.93332999999999
+],
+  "geometry": {"coordinates":[177.33333000000005,-17.93332999999999],"type":"Point"}
+}

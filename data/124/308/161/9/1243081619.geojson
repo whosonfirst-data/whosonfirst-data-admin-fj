@@ -1,0 +1,69 @@
+{
+  "id": 1243081619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"177.86629,-18.13355,177.86629,-18.13355",
+    "geom:latitude":-18.13355,
+    "geom:longitude":177.86629,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"2198411",
+    "gn:asciiname":"Naboutolu Set",
+    "gn:country_code":"FJ",
+    "gn:dem":202,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11189433,
+    "gn:latitude":-18.13355,
+    "gn:longitude":177.86629,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Naboutolu Set",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fij_x_preferred":[
+        "Naboutolu Set"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632755,
+        85671167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11189433
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"a60a24edc2a6ca2ec44befc0ec25cc8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632755,
+            "locality_id":1243081619,
+            "region_id":85671167
+        }
+    ],
+    "wof:id":1243081619,
+    "wof:lastmodified":1537622433,
+    "wof:name":"Naboutolu Set",
+    "wof:parent_id":85671167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    177.86629,
+    -18.13355,
+    177.86629,
+    -18.13355
+],
+  "geometry": {"coordinates":[177.86628999999999,-18.13355],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1293218165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"178.26841,-17.82958,178.26841,-17.82958",
+    "geom:latitude":-17.82958,
+    "geom:longitude":178.26841,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"2203150",
+    "gn:asciiname":"Waiqa Settlement",
+    "gn:country_code":"FJ",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11225209,
+    "gn:latitude":-17.82958,
+    "gn:longitude":178.26841,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Waiqa Settlement",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fij_x_preferred":[
+        "Waiqa Settlement"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632755,
+        85671167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11225209
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"7e532c2e448ff726b82db7e3797e193b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632755,
+            "locality_id":1293218165,
+            "region_id":85671167
+        }
+    ],
+    "wof:id":1293218165,
+    "wof:lastmodified":1537622438,
+    "wof:name":"Waiqa Settlement",
+    "wof:parent_id":85671167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    178.26841000000005,
+    -17.82958,
+    178.26841000000005,
+    -17.82958
+],
+  "geometry": {"coordinates":[178.26841000000005,-17.82958],"type":"Point"}
+}

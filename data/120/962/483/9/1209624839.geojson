@@ -1,0 +1,65 @@
+{
+  "id": 1209624839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"177.97311,-18.24345,177.97311,-18.24345",
+    "geom:latitude":-18.24345,
+    "geom:longitude":177.97311,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"2198411",
+    "gn:asciiname":"Korovisilou",
+    "gn:country_code":"FJ",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2204695,
+    "gn:latitude":-18.24345,
+    "gn:longitude":177.97311,
+    "gn:modification_date":"2016-06-27",
+    "gn:name":"Korovisilou",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fij_x_preferred":[
+        "Korovisilou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2204695
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"318f1063ab0b1340698ce42b369e9c6a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632755,
+            "locality_id":1209624839
+        }
+    ],
+    "wof:id":1209624839,
+    "wof:lastmodified":1537622418,
+    "wof:name":"Korovisilou",
+    "wof:parent_id":85632755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    177.97311000000005,
+    -18.24345,
+    177.97311000000005,
+    -18.24345
+],
+  "geometry": {"coordinates":[177.97311000000005,-18.24345],"type":"Point"}
+}

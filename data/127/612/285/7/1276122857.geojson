@@ -1,0 +1,71 @@
+{
+  "id": 1276122857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"177.75181,-17.88643,177.75181,-17.88643",
+    "geom:latitude":-17.88643,
+    "geom:longitude":177.75181,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"2201984",
+    "gn:asciiname":"Keiyasi",
+    "gn:country_code":"FJ",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2205026,
+    "gn:latitude":-17.88643,
+    "gn:longitude":177.75181,
+    "gn:modification_date":"2016-04-10",
+    "gn:name":"Keiyasi",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Keiaski",
+        "Keiasi",
+        "Keiyasi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632755,
+        85671181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2205026
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"93c93392fee8f953bcbd5e18d8f265a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632755,
+            "locality_id":1276122857,
+            "region_id":85671181
+        }
+    ],
+    "wof:id":1276122857,
+    "wof:lastmodified":1537622420,
+    "wof:name":"Keiyasi",
+    "wof:parent_id":85671181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    177.75181,
+    -17.88642999999999,
+    177.75181,
+    -17.88642999999999
+],
+  "geometry": {"coordinates":[177.75181000000001,-17.88642999999999],"type":"Point"}
+}

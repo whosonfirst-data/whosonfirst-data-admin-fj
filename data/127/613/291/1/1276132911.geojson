@@ -1,0 +1,73 @@
+{
+  "id": 1276132911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"178.57864,-17.7872,178.57864,-17.7872",
+    "geom:latitude":-17.7872,
+    "geom:longitude":178.57864,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"2198131",
+    "gn:asciiname":"Matacaucau",
+    "gn:country_code":"FJ",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2203914,
+    "gn:latitude":-17.7872,
+    "gn:longitude":178.57864,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Matacaucau",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fij_x_preferred":[
+        "Matacaucau"
+    ],
+    "name:und_x_variant":[
+        "Na Ivisaro",
+        "Matathauthau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632755,
+        85671167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2203914
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"5ee958b6ad11f0f5b10150af794f7561",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632755,
+            "locality_id":1276132911,
+            "region_id":85671167
+        }
+    ],
+    "wof:id":1276132911,
+    "wof:lastmodified":1537622413,
+    "wof:name":"Matacaucau",
+    "wof:parent_id":85671167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    178.57863999999995,
+    -17.7872,
+    178.57863999999995,
+    -17.7872
+],
+  "geometry": {"coordinates":[178.57863999999995,-17.7872],"type":"Point"}
+}

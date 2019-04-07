@@ -1,0 +1,69 @@
+{
+  "id": 1259387573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"177.6383,-17.64151,177.6383,-17.64151",
+    "geom:latitude":-17.64151,
+    "geom:longitude":177.6383,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"2203798",
+    "gn:asciiname":"Nanuku",
+    "gn:country_code":"FJ",
+    "gn:dem":171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2201729,
+    "gn:latitude":-17.64151,
+    "gn:longitude":177.6383,
+    "gn:modification_date":"2016-04-10",
+    "gn:name":"Nanuku",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fij_x_preferred":[
+        "Nanuku"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632755,
+        85671181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2201729
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"32fa1b8f84473253ed4b87b7d784c87b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632755,
+            "locality_id":1259387573,
+            "region_id":85671181
+        }
+    ],
+    "wof:id":1259387573,
+    "wof:lastmodified":1537622393,
+    "wof:name":"Nanuku",
+    "wof:parent_id":85671181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    177.6383,
+    -17.64151,
+    177.6383,
+    -17.64151
+],
+  "geometry": {"coordinates":[177.63829999999999,-17.64151],"type":"Point"}
+}

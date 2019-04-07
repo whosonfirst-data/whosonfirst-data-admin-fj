@@ -1,0 +1,68 @@
+{
+  "id": 1193145911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"179.36312,-17.29574,179.36312,-17.29574",
+    "geom:latitude":-17.29574,
+    "geom:longitude":179.36312,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"2204318.0",
+    "gn:asciiname":"Tavua",
+    "gn:country_code":"FJ",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2197896,
+    "gn:latitude":-17.29574,
+    "gn:longitude":179.36312,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Tavua",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Thava Levu",
+        "Thava",
+        "Thavu",
+        "Tavua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2197896
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"a6429a326358b8e8f7e3ac42d923f7a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1193145911,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1193145911,
+    "wof:lastmodified":1537622369,
+    "wof:name":"Tavua",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    179.36312,
+    -17.29574,
+    179.36312,
+    -17.29574
+],
+  "geometry": {"coordinates":[179.36312000000001,-17.29574],"type":"Point"}
+}

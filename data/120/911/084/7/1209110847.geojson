@@ -1,0 +1,65 @@
+{
+  "id": 1209110847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"177.43328,-17.70225,177.43328,-17.70225",
+    "geom:latitude":-17.70225,
+    "geom:longitude":177.43328,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"2203798",
+    "gn:asciiname":"Lomolomo",
+    "gn:country_code":"FJ",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2204291,
+    "gn:latitude":-17.70225,
+    "gn:longitude":177.43328,
+    "gn:modification_date":"2016-04-10",
+    "gn:name":"Lomolomo",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fij_x_preferred":[
+        "Lomolomo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2204291
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"420fcec579c84e1f1677ebb6e308a7e8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632755,
+            "locality_id":1209110847
+        }
+    ],
+    "wof:id":1209110847,
+    "wof:lastmodified":1537622415,
+    "wof:name":"Lomolomo",
+    "wof:parent_id":85632755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    177.43328,
+    -17.70225,
+    177.43328,
+    -17.70225
+],
+  "geometry": {"coordinates":[177.43328,-17.70225],"type":"Point"}
+}

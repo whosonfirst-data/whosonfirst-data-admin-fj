@@ -1,0 +1,69 @@
+{
+  "id": 1210027913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"179.83502,-16.6751,179.83502,-16.6751",
+    "geom:latitude":-16.6751,
+    "geom:longitude":179.83502,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"2197820",
+    "gn:asciiname":"Vatuvonu Seventh Day Adventist Settlement",
+    "gn:country_code":"FJ",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11595788,
+    "gn:latitude":-16.6751,
+    "gn:longitude":179.83502,
+    "gn:modification_date":"2017-07-06",
+    "gn:name":"Vatuvonu Seventh Day Adventist Settlement",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fij_x_preferred":[
+        "Vatuvonu Seventh Day Adventist Settlement"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632755,
+        85671179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11595788
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"73665e23be84e621c1df886283727d2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632755,
+            "locality_id":1210027913,
+            "region_id":85671179
+        }
+    ],
+    "wof:id":1210027913,
+    "wof:lastmodified":1537622452,
+    "wof:name":"Vatuvonu Seventh Day Adventist Settlement",
+    "wof:parent_id":85671179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    179.83502,
+    -16.6751,
+    179.83502,
+    -16.6751
+],
+  "geometry": {"coordinates":[179.83501999999999,-16.6751],"type":"Point"}
+}

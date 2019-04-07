@@ -1,0 +1,73 @@
+{
+  "id": 1310513279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"179.43288,-16.5118,179.43288,-16.5118",
+    "geom:latitude":-16.5118,
+    "geom:longitude":179.43288,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"2203875",
+    "gn:asciiname":"Nubunikavula",
+    "gn:country_code":"FJ",
+    "gn:dem":108,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2199087,
+    "gn:latitude":-16.5118,
+    "gn:longitude":179.43288,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Nubunikavula",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fij_x_preferred":[
+        "Nubunikavula"
+    ],
+    "name:und_x_variant":[
+        "Numbunikavula",
+        "Numbuniyavula"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632755,
+        85671179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2199087
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"f30a9f9c2b856531b32d1155477b94d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632755,
+            "locality_id":1310513279,
+            "region_id":85671179
+        }
+    ],
+    "wof:id":1310513279,
+    "wof:lastmodified":1537622374,
+    "wof:name":"Nubunikavula",
+    "wof:parent_id":85671179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    179.43288,
+    -16.5118,
+    179.43288,
+    -16.5118
+],
+  "geometry": {"coordinates":[179.43288000000001,-16.5118],"type":"Point"}
+}

@@ -1,0 +1,60 @@
+{
+  "id": 1209333291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"178.05413,-18.08177,178.05413,-18.08177",
+    "geom:latitude":-18.08177,
+    "geom:longitude":178.05413,
+    "gn:asciiname":"Burotu",
+    "gn:country_code":"FJ",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10942866,
+    "gn:latitude":-18.08177,
+    "gn:longitude":178.05413,
+    "gn:modification_date":"2015-11-30",
+    "gn:name":"Burotu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10942866
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"8aea0c9cb3847f018aeaf4f68be48452",
+    "wof:hierarchy":[
+        {
+            "country_id":85632755,
+            "locality_id":1209333291
+        }
+    ],
+    "wof:id":1209333291,
+    "wof:lastmodified":1536290304,
+    "wof:name":"Burotu",
+    "wof:parent_id":85632755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    178.05413,
+    -18.08177,
+    178.05413,
+    -18.08177
+],
+  "geometry": {"coordinates":[178.05412999999999,-18.08177],"type":"Point"}
+}

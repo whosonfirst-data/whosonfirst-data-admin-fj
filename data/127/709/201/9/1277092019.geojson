@@ -1,0 +1,69 @@
+{
+  "id": 1277092019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"178.37339,-17.71302,178.37339,-17.71302",
+    "geom:latitude":-17.71302,
+    "geom:longitude":178.37339,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"2198131",
+    "gn:asciiname":"Nabouva",
+    "gn:country_code":"FJ",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11191363,
+    "gn:latitude":-17.71302,
+    "gn:longitude":178.37339,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Nabouva",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fij_x_preferred":[
+        "Nabouva"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632755,
+        85671167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11191363
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"28965d83b54231f4562995e98282c605",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632755,
+            "locality_id":1277092019,
+            "region_id":85671167
+        }
+    ],
+    "wof:id":1277092019,
+    "wof:lastmodified":1537622436,
+    "wof:name":"Nabouva",
+    "wof:parent_id":85671167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    178.37339,
+    -17.71302,
+    178.37339,
+    -17.71302
+],
+  "geometry": {"coordinates":[178.37339,-17.71302],"type":"Point"}
+}

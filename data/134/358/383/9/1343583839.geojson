@@ -1,0 +1,66 @@
+{
+  "id": 1343583839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"177.42404,-18.13761,177.42404,-18.13761",
+    "geom:latitude":-18.13761,
+    "geom:longitude":177.42404,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2201984.0",
+    "gn:asciiname":"Rukurukulevu",
+    "gn:country_code":"FJ",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2198808,
+    "gn:latitude":-18.13761,
+    "gn:longitude":177.42404,
+    "gn:modification_date":"2016-04-10",
+    "gn:name":"Rukurukulevu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rukurukeluvu",
+        "Rukurukulevu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2198808
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"aeef8db3eca50954334363fef119001b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1343583839,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343583839,
+    "wof:lastmodified":1537622373,
+    "wof:name":"Rukurukulevu",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    177.42404,
+    -18.13761,
+    177.42404,
+    -18.13761
+],
+  "geometry": {"coordinates":[177.42403999999999,-18.13761],"type":"Point"}
+}

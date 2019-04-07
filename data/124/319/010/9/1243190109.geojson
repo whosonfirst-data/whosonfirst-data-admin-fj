@@ -1,0 +1,70 @@
+{
+  "id": 1243190109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"178.42533,-17.73135,178.42533,-17.73135",
+    "geom:latitude":-17.73135,
+    "geom:longitude":178.42533,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"2198131",
+    "gn:asciiname":"Nasau",
+    "gn:country_code":"FJ",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2201499,
+    "gn:latitude":-17.73135,
+    "gn:longitude":178.42533,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Nasau",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nasao",
+        "Nasau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632755,
+        85671167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2201499
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"1b7fbd049cff2da31264e0505d912331",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632755,
+            "locality_id":1243190109,
+            "region_id":85671167
+        }
+    ],
+    "wof:id":1243190109,
+    "wof:lastmodified":1537622391,
+    "wof:name":"Nasau",
+    "wof:parent_id":85671167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    178.42533,
+    -17.73135,
+    178.42533,
+    -17.73135
+],
+  "geometry": {"coordinates":[178.42533,-17.73135],"type":"Point"}
+}

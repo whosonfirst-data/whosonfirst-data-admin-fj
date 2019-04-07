@@ -1,0 +1,69 @@
+{
+  "id": 1327034073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"178.20579,-17.80624,178.20579,-17.80624",
+    "geom:latitude":-17.80624,
+    "geom:longitude":178.20579,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"2203150",
+    "gn:asciiname":"Nuku",
+    "gn:country_code":"FJ",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2199273,
+    "gn:latitude":-17.80624,
+    "gn:longitude":178.20579,
+    "gn:modification_date":"2016-07-05",
+    "gn:name":"Nuku",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fij_x_preferred":[
+        "Nuku"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632755,
+        85671167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2199273
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"8fb561c686fdb33debc2b6daac92df78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632755,
+            "locality_id":1327034073,
+            "region_id":85671167
+        }
+    ],
+    "wof:id":1327034073,
+    "wof:lastmodified":1537622375,
+    "wof:name":"Nuku",
+    "wof:parent_id":85671167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    178.20578999999995,
+    -17.80624,
+    178.20578999999995,
+    -17.80624
+],
+  "geometry": {"coordinates":[178.20578999999995,-17.80624],"type":"Point"}
+}

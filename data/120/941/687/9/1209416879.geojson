@@ -1,0 +1,69 @@
+{
+  "id": 1209416879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"178.78739,-16.99586,178.78739,-16.99586",
+    "geom:latitude":-16.99586,
+    "geom:longitude":178.78739,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"2203651.0",
+    "gn:asciiname":"Nacavaga",
+    "gn:country_code":"FJ",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2197786,
+    "gn:latitude":-16.99586,
+    "gn:longitude":178.78739,
+    "gn:modification_date":"2017-07-04",
+    "gn:name":"Nacavaga",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fij_x_preferred":[
+        "Nacavaga"
+    ],
+    "name:und_x_variant":[
+        "Thavonga",
+        "Thavanga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2197786
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"8774c82a3f4462793b7fcf94f6c2675e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632755,
+            "locality_id":1209416879
+        }
+    ],
+    "wof:id":1209416879,
+    "wof:lastmodified":1537622368,
+    "wof:name":"Nacavaga",
+    "wof:parent_id":85632755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    178.78739,
+    -16.99586,
+    178.78739,
+    -16.99586
+],
+  "geometry": {"coordinates":[178.78738999999999,-16.99586],"type":"Point"}
+}

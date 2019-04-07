@@ -1,0 +1,72 @@
+{
+  "id": 1260298183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"178.4,-19.01667,178.4,-19.01667",
+    "geom:latitude":-19.01667,
+    "geom:longitude":178.4,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"8617786",
+    "gn:asciiname":"Korolevu Settlement",
+    "gn:country_code":"FJ",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2204878,
+    "gn:latitude":-19.01667,
+    "gn:longitude":178.4,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Korolevu Settlement",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fij_x_preferred":[
+        "Korolevu Settlement"
+    ],
+    "name:fij_x_variant":[
+        "Korolevu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632755,
+        85671173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2204878
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"d60634075f6aa4ab6dd3fd9cdb7b08ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632755,
+            "locality_id":1260298183,
+            "region_id":85671173
+        }
+    ],
+    "wof:id":1260298183,
+    "wof:lastmodified":1537622419,
+    "wof:name":"Korolevu Settlement",
+    "wof:parent_id":85671173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    178.4,
+    -19.01667,
+    178.4,
+    -19.01667
+],
+  "geometry": {"coordinates":[178.40000000000001,-19.01667],"type":"Point"}
+}

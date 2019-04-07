@@ -1,0 +1,67 @@
+{
+  "id": 1310005207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"177.69148,-18.20318,177.69148,-18.20318",
+    "geom:latitude":-18.20318,
+    "geom:longitude":177.69148,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2201984.0",
+    "gn:asciiname":"Votualailai",
+    "gn:country_code":"FJ",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2196550,
+    "gn:latitude":-18.20318,
+    "gn:longitude":177.69148,
+    "gn:modification_date":"2016-04-10",
+    "gn:name":"Votualailai",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mbusa",
+        "Vatuolalai",
+        "Votualailai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2196550
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"c710100bed91f105aea2d28b4d16df3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1310005207,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310005207,
+    "wof:lastmodified":1537622362,
+    "wof:name":"Votualailai",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    177.69148,
+    -18.20318,
+    177.69148,
+    -18.20318
+],
+  "geometry": {"coordinates":[177.69148000000001,-18.20318],"type":"Point"}
+}

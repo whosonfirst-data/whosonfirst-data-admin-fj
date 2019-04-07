@@ -1,0 +1,68 @@
+{
+  "id": 1327232189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"177.05222,-12.49358,177.05222,-12.49358",
+    "geom:latitude":-12.49358,
+    "geom:longitude":177.05222,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Leproa",
+    "gn:country_code":"FJ",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10049410,
+    "gn:latitude":-12.49358,
+    "gn:longitude":177.05222,
+    "gn:modification_date":"2015-02-08",
+    "gn:name":"Leproa",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fij_x_preferred":[
+        "Leproa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632755,
+        85671185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10049410
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"12f9bf7bd99b12a0b474c2406cc4c09c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632755,
+            "locality_id":1327232189,
+            "region_id":85671185
+        }
+    ],
+    "wof:id":1327232189,
+    "wof:lastmodified":1537622427,
+    "wof:name":"Leproa",
+    "wof:parent_id":85671185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    177.05222,
+    -12.49358,
+    177.05222,
+    -12.49358
+],
+  "geometry": {"coordinates":[177.05222000000001,-12.49358],"type":"Point"}
+}

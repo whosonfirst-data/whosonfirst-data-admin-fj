@@ -1,0 +1,69 @@
+{
+  "id": 1259701881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-179.29279,-17.73009,-179.29279,-17.73009",
+    "geom:latitude":-17.73009,
+    "geom:longitude":-179.29279,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"4036132",
+    "gn:asciiname":"Lomaji",
+    "gn:country_code":"FJ",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4036120,
+    "gn:latitude":-17.73009,
+    "gn:longitude":-179.29279,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Lomaji",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fij_x_preferred":[
+        "Lomaji"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632755,
+        85671173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4036120
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"a2ccaa96d45d70f0ac35afc5e1f3885d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632755,
+            "locality_id":1259701881,
+            "region_id":85671173
+        }
+    ],
+    "wof:id":1259701881,
+    "wof:lastmodified":1537622426,
+    "wof:name":"Lomaji",
+    "wof:parent_id":85671173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -179.29279,
+    -17.73009,
+    -179.29279,
+    -17.73009
+],
+  "geometry": {"coordinates":[-179.29279,-17.73009],"type":"Point"}
+}

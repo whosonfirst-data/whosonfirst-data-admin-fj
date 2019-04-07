@@ -1,0 +1,71 @@
+{
+  "id": 1243576693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"178.15329,-17.37894,178.15329,-17.37894",
+    "geom:latitude":-17.37894,
+    "geom:longitude":178.15329,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2198946.0",
+    "gn:asciiname":"Vaileka",
+    "gn:country_code":"FJ",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2197277,
+    "gn:latitude":-17.37894,
+    "gn:longitude":178.15329,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Vaileka",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vailaka",
+        "Vaileka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632755,
+        85671181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2197277,
+        "wk:page":"Vaileka"
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"a9130167c8965da1e7f6775ce1e96975",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632755,
+            "locality_id":1243576693,
+            "region_id":85671181
+        }
+    ],
+    "wof:id":1243576693,
+    "wof:lastmodified":1537622366,
+    "wof:name":"Vaileka",
+    "wof:parent_id":85671181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    178.15329,
+    -17.37894,
+    178.15329,
+    -17.37894
+],
+  "geometry": {"coordinates":[178.15329,-17.37894],"type":"Point"}
+}

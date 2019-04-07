@@ -1,0 +1,67 @@
+{
+  "id": 1276667371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"178.0,-18.26667,178.0,-18.26667",
+    "geom:latitude":-18.26667,
+    "geom:longitude":178.0,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Nasese",
+    "gn:country_code":"FJ",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2201377,
+    "gn:latitude":-18.26667,
+    "gn:longitude":178.0,
+    "gn:modification_date":"2016-07-05",
+    "gn:name":"Nasese",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fij_x_preferred":[
+        "Nasese"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2201377
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"2e43b763f59239414d70a0fb08f18198",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632755,
+            "locality_id":1276667371,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276667371,
+    "wof:lastmodified":1537622390,
+    "wof:name":"Nasese",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    178.0,
+    -18.26667,
+    178.0,
+    -18.26667
+],
+  "geometry": {"coordinates":[178.0,-18.26667],"type":"Point"}
+}

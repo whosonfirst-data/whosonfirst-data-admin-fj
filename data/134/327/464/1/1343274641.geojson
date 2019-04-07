@@ -1,0 +1,69 @@
+{
+  "id": 1343274641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"179.25378,-17.99079,179.25378,-17.99079",
+    "geom:latitude":-17.99079,
+    "geom:longitude":179.25378,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"2204318",
+    "gn:asciiname":"Nalotu Settlement",
+    "gn:country_code":"FJ",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11249760,
+    "gn:latitude":-17.99079,
+    "gn:longitude":179.25378,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Nalotu Settlement",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fij_x_preferred":[
+        "Nalotu Settlement"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632755,
+        85671173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11249760
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"b1b2e3c1f8e2fb698e3d80f6a0d3ed83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632755,
+            "locality_id":1343274641,
+            "region_id":85671173
+        }
+    ],
+    "wof:id":1343274641,
+    "wof:lastmodified":1537622442,
+    "wof:name":"Nalotu Settlement",
+    "wof:parent_id":85671173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    179.25378,
+    -17.99079,
+    179.25378,
+    -17.99079
+],
+  "geometry": {"coordinates":[179.25378000000001,-17.99079],"type":"Point"}
+}

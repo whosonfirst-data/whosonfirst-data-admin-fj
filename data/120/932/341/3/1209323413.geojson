@@ -1,0 +1,66 @@
+{
+  "id": 1209323413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"179.42949,-17.24519,179.42949,-17.24519",
+    "geom:latitude":-17.24519,
+    "geom:longitude":179.42949,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"2204318",
+    "gn:asciiname":"Nacamaki",
+    "gn:country_code":"FJ",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2201110,
+    "gn:latitude":-17.24519,
+    "gn:longitude":179.42949,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Nacamaki",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nathomaki",
+        "Nathamaki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2201110
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"ae1b655c8299905b88c6c7c808ad9b41",
+    "wof:hierarchy":[
+        {
+            "country_id":85632755,
+            "locality_id":1209323413
+        }
+    ],
+    "wof:id":1209323413,
+    "wof:lastmodified":1537622388,
+    "wof:name":"Nacamaki",
+    "wof:parent_id":85632755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    179.42949,
+    -17.24519,
+    179.42949,
+    -17.24519
+],
+  "geometry": {"coordinates":[179.42948999999999,-17.24519],"type":"Point"}
+}

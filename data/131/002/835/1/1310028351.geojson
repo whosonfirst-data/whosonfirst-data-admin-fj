@@ -1,0 +1,69 @@
+{
+  "id": 1310028351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"177.62143,-18.18898,177.62143,-18.18898",
+    "geom:latitude":-18.18898,
+    "geom:longitude":177.62143,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"2201984",
+    "gn:asciiname":"Namada",
+    "gn:country_code":"FJ",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2202625,
+    "gn:latitude":-18.18898,
+    "gn:longitude":177.62143,
+    "gn:modification_date":"2016-04-10",
+    "gn:name":"Namada",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fij_x_preferred":[
+        "Namada"
+    ],
+    "name:und_x_variant":[
+        "Vunanitu",
+        "Namanda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2202625
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"37933707650069fae7ddfb0be9cd1d68",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1310028351,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310028351,
+    "wof:lastmodified":1537622402,
+    "wof:name":"Namada",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    177.62143,
+    -18.18898,
+    177.62143,
+    -18.18898
+],
+  "geometry": {"coordinates":[177.62143,-18.18898],"type":"Point"}
+}

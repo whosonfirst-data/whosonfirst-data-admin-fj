@@ -1,0 +1,102 @@
+{
+  "id": 421171225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"177.86667,-17.45,177.86667,-17.45",
+    "geom:latitude":-17.45,
+    "geom:longitude":177.86667,
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "Tavua"
+    ],
+    "name:fij_x_preferred":[
+        "Tavua"
+    ],
+    "name:hif_x_preferred":[
+        "Tavua"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bf\u30d6\u30a2"
+    ],
+    "name:nor_x_preferred":[
+        "Tavua"
+    ],
+    "name:pol_x_preferred":[
+        "Tavua"
+    ],
+    "name:tam_x_preferred":[
+        "\u0ba4\u0bb5\u0bc1\u0bb5\u0bbe"
+    ],
+    "name:unk_x_variant":[
+        "Tarua"
+    ],
+    "qs:gn_country":"FJ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":2197895,
+    "qs:gn_pop":0,
+    "qs:name":"Tavua",
+    "qs:name_adm0":"Fiji",
+    "qs:name_adm1":"Western",
+    "qs:photos":69,
+    "qs:photos_1k":14,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":69,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1220465,
+    "qs:woe_adm0":23424813,
+    "qs:woe_id":1064112,
+    "src:geom":"quattroshapes",
+    "wd:latitude":-18.216667,
+    "wd:longitude":-178.783333,
+    "wd:wordcount":268,
+    "wof:belongsto":[
+        102191583,
+        85632755,
+        85671181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2197895,
+        "gp:id":1064112,
+        "qs:id":1220465,
+        "wk:page":"Tavua, Fiji"
+    },
+    "wof:country":"FJ",
+    "wof:created":1459008886,
+    "wof:geomhash":"3ed5d79e83dda568a6e6b15ae91037b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632755,
+            "locality_id":421171225,
+            "region_id":85671181
+        }
+    ],
+    "wof:id":421171225,
+    "wof:lastmodified":1527726495,
+    "wof:name":"Tavua",
+    "wof:parent_id":85671181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    177.86667,
+    -17.45,
+    177.86667,
+    -17.45
+],
+  "geometry": {"coordinates":[177.86667,-17.45],"type":"Point"}
+}

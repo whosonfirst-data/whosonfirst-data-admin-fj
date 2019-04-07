@@ -1,0 +1,71 @@
+{
+  "id": 1259384469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"178.88828,-16.85902,178.88828,-16.85902",
+    "geom:latitude":-16.85902,
+    "geom:longitude":178.88828,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"2203651",
+    "gn:asciiname":"Daria",
+    "gn:country_code":"FJ",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2200040,
+    "gn:latitude":-16.85902,
+    "gn:longitude":178.88828,
+    "gn:modification_date":"2017-07-04",
+    "gn:name":"Daria",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fij_x_preferred":[
+        "Daria"
+    ],
+    "name:fij_x_variant":[
+        "Ndaria"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2200040
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"d7fee43c8c38451d6df5637d79f33a1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632755,
+            "locality_id":1259384469,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1259384469,
+    "wof:lastmodified":1537622380,
+    "wof:name":"Daria",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    178.88828,
+    -16.85902,
+    178.88828,
+    -16.85902
+],
+  "geometry": {"coordinates":[178.88828000000001,-16.85902],"type":"Point"}
+}

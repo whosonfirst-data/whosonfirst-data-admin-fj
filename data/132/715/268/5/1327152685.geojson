@@ -1,0 +1,65 @@
+{
+  "id": 1327152685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"177.03333,-12.5,177.03333,-12.5",
+    "geom:latitude":-12.5,
+    "geom:longitude":177.03333,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Itumuta",
+    "gn:country_code":"FJ",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2205174,
+    "gn:latitude":-12.5,
+    "gn:longitude":177.03333,
+    "gn:modification_date":"1993-12-22",
+    "gn:name":"Itumuta",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632755,
+        85671185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2205174
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"d5e1008861bbdd77c385ba42a48c25b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632755,
+            "locality_id":1327152685,
+            "region_id":85671185
+        }
+    ],
+    "wof:id":1327152685,
+    "wof:lastmodified":1537081508,
+    "wof:name":"Itumuta",
+    "wof:parent_id":85671185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    177.03333,
+    -12.5,
+    177.03333,
+    -12.5
+],
+  "geometry": {"coordinates":[177.03333000000001,-12.5],"type":"Point"}
+}

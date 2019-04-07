@@ -1,0 +1,72 @@
+{
+  "id": 1209819399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"178.65661,-18.08116,178.65661,-18.08116",
+    "geom:latitude":-18.08116,
+    "geom:longitude":178.65661,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"2198131.0",
+    "gn:asciiname":"Vadrai",
+    "gn:country_code":"FJ",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2197188,
+    "gn:latitude":-18.08116,
+    "gn:longitude":178.65661,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Vadrai",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fij_x_preferred":[
+        "Vadrai"
+    ],
+    "name:fij_x_variant":[
+        "Vandrai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632755,
+        85671167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2197188
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"47363facf9a3ff46b4cbd673e0ccb5be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632755,
+            "locality_id":1209819399,
+            "region_id":85671167
+        }
+    ],
+    "wof:id":1209819399,
+    "wof:lastmodified":1537622365,
+    "wof:name":"Vadrai",
+    "wof:parent_id":85671167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    178.65661,
+    -18.08116,
+    178.65661,
+    -18.08116
+],
+  "geometry": {"coordinates":[178.65661,-18.08116],"type":"Point"}
+}

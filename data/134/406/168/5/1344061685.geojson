@@ -1,0 +1,64 @@
+{
+  "id": 1344061685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"177.17557,-17.73569,177.17557,-17.73569",
+    "geom:latitude":-17.73569,
+    "geom:longitude":177.17557,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Yaro",
+    "gn:country_code":"FJ",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2194253,
+    "gn:latitude":-17.73569,
+    "gn:longitude":177.17557,
+    "gn:modification_date":"2013-06-09",
+    "gn:name":"Yaro",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2194253
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"139f5f5b64644ae33eb7fa4d91d42501",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632755,
+            "locality_id":1344061685,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1344061685,
+    "wof:lastmodified":1536872755,
+    "wof:name":"Yaro",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    177.17557,
+    -17.73568999999999,
+    177.17557,
+    -17.73568999999999
+],
+  "geometry": {"coordinates":[177.17556999999999,-17.73568999999999],"type":"Point"}
+}

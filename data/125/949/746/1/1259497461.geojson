@@ -1,0 +1,71 @@
+{
+  "id": 1259497461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"178.14657,-18.25734,178.14657,-18.25734",
+    "geom:latitude":-18.25734,
+    "geom:longitude":178.14657,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"2198411.0",
+    "gn:asciiname":"Vunibau",
+    "gn:country_code":"FJ",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2196284,
+    "gn:latitude":-18.25734,
+    "gn:longitude":178.14657,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Vunibau",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fij_x_preferred":[
+        "Vunibau"
+    ],
+    "name:fij_x_variant":[
+        "Vunimbau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2196284
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"ded792a466bf54e170e627ceebdb7e72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632755,
+            "locality_id":1259497461,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1259497461,
+    "wof:lastmodified":1537622361,
+    "wof:name":"Vunibau",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    178.14657,
+    -18.25734,
+    178.14657,
+    -18.25734
+],
+  "geometry": {"coordinates":[178.14657,-18.25734],"type":"Point"}
+}

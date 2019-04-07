@@ -1,0 +1,66 @@
+{
+  "id": 1209117633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"179.96667,-16.16667,179.96667,-16.16667",
+    "geom:latitude":-16.16667,
+    "geom:longitude":179.96667,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Nukundamu",
+    "gn:cc2":"FJ",
+    "gn:country_code":"FJ",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2199218,
+    "gn:latitude":-16.16667,
+    "gn:longitude":179.96667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Nukundamu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nuku-ndum",
+        "Nukundamu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2199218
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"ecef4606bdac31691171d915b5fc6e50",
+    "wof:hierarchy":[
+        {
+            "country_id":85632755,
+            "locality_id":1209117633
+        }
+    ],
+    "wof:id":1209117633,
+    "wof:lastmodified":1537622375,
+    "wof:name":"Nukundamu",
+    "wof:parent_id":85632755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    179.96667,
+    -16.16667,
+    179.96667,
+    -16.16667
+],
+  "geometry": {"coordinates":[179.96666999999999,-16.16667],"type":"Point"}
+}

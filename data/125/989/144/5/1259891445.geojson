@@ -1,0 +1,65 @@
+{
+  "id": 1259891445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"179.65,-16.48333,179.65,-16.48333",
+    "geom:latitude":-16.48333,
+    "geom:longitude":179.65,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Yasawa",
+    "gn:country_code":"FJ",
+    "gn:dem":110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2194242,
+    "gn:latitude":-16.48333,
+    "gn:longitude":179.65,
+    "gn:modification_date":"1993-12-22",
+    "gn:name":"Yasawa",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632755,
+        85671179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2194242
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"0289510e180be8e501a58cbf9536b583",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632755,
+            "locality_id":1259891445,
+            "region_id":85671179
+        }
+    ],
+    "wof:id":1259891445,
+    "wof:lastmodified":1536768067,
+    "wof:name":"Yasawa",
+    "wof:parent_id":85671179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    179.65,
+    -16.48333,
+    179.65,
+    -16.48333
+],
+  "geometry": {"coordinates":[179.65000000000001,-16.48333],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1293214575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"178.51915,-18.02802,178.51915,-18.02802",
+    "geom:latitude":-18.02802,
+    "geom:longitude":178.51915,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"2203150",
+    "gn:asciiname":"Waila Settlement",
+    "gn:country_code":"FJ",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11243259,
+    "gn:latitude":-18.02802,
+    "gn:longitude":178.51915,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Waila Settlement",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fij_x_preferred":[
+        "Waila Settlement"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632755,
+        85671167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11243259
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"74e7ed849d9ef16c85e250539804d87e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632755,
+            "locality_id":1293214575,
+            "region_id":85671167
+        }
+    ],
+    "wof:id":1293214575,
+    "wof:lastmodified":1537622440,
+    "wof:name":"Waila Settlement",
+    "wof:parent_id":85671167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    178.51915,
+    -18.02802,
+    178.51915,
+    -18.02802
+],
+  "geometry": {"coordinates":[178.51915,-18.02802],"type":"Point"}
+}

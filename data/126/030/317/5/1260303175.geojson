@@ -1,0 +1,69 @@
+{
+  "id": 1260303175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"178.3463,-17.9471,178.3463,-17.9471",
+    "geom:latitude":-17.9471,
+    "geom:longitude":178.3463,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"2203150",
+    "gn:asciiname":"Korovou",
+    "gn:country_code":"FJ",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2204682,
+    "gn:latitude":-17.9471,
+    "gn:longitude":178.3463,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Korovou",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fij_x_preferred":[
+        "Korovou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632755,
+        85671167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2204682
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"e4b8533db51f011a6f0b59c4be503056",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632755,
+            "locality_id":1260303175,
+            "region_id":85671167
+        }
+    ],
+    "wof:id":1260303175,
+    "wof:lastmodified":1537622418,
+    "wof:name":"Korovou",
+    "wof:parent_id":85671167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    178.3463,
+    -17.9471,
+    178.3463,
+    -17.9471
+],
+  "geometry": {"coordinates":[178.34630000000001,-17.9471],"type":"Point"}
+}

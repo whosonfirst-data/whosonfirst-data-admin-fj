@@ -1,0 +1,67 @@
+{
+  "id": 1310316577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"179.81667,-16.51667,179.81667,-16.51667",
+    "geom:latitude":-16.51667,
+    "geom:longitude":179.81667,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Wailevu",
+    "gn:cc2":"FJ",
+    "gn:country_code":"FJ",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2195794,
+    "gn:latitude":-16.51667,
+    "gn:longitude":179.81667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Wailevu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tunoloa",
+        "Tuniloa",
+        "Wailevu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2195794
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"5570dac4aa73d8535f69925d69549af5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1310316577,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310316577,
+    "wof:lastmodified":1537622359,
+    "wof:name":"Wailevu",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    179.81667,
+    -16.51667,
+    179.81667,
+    -16.51667
+],
+  "geometry": {"coordinates":[179.81666999999999,-16.51667],"type":"Point"}
+}

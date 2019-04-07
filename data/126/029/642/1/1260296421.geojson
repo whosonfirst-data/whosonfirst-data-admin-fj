@@ -1,0 +1,72 @@
+{
+  "id": 1260296421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"179.72614,-16.71666,179.72614,-16.71666",
+    "geom:latitude":-16.71666,
+    "geom:longitude":179.72614,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"2197820",
+    "gn:asciiname":"Bagasau",
+    "gn:country_code":"FJ",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2203806,
+    "gn:latitude":-16.71666,
+    "gn:longitude":179.72614,
+    "gn:modification_date":"2017-07-04",
+    "gn:name":"Bagasau",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fij_x_preferred":[
+        "Bagasau"
+    ],
+    "name:fij_x_variant":[
+        "Mbangasau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632755,
+        85671179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2203806
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"69f0b004217959c45f0b49d9b2b7de5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632755,
+            "locality_id":1260296421,
+            "region_id":85671179
+        }
+    ],
+    "wof:id":1260296421,
+    "wof:lastmodified":1537622412,
+    "wof:name":"Bagasau",
+    "wof:parent_id":85671179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    179.72614,
+    -16.71666,
+    179.72614,
+    -16.71666
+],
+  "geometry": {"coordinates":[179.72613999999999,-16.71666],"type":"Point"}
+}

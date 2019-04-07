@@ -1,0 +1,66 @@
+{
+  "id": 1209829435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"178.36082,-18.14045,178.36082,-18.14045",
+    "geom:latitude":-18.14045,
+    "geom:longitude":178.36082,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"2198876",
+    "gn:asciiname":"Muaivuso",
+    "gn:country_code":"FJ",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2203411,
+    "gn:latitude":-18.14045,
+    "gn:longitude":178.36082,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Muaivuso",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Muanivuso",
+        "Muaivuso"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2203411
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"126af7f67abc29b38c8d8bbdb51f036d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1209829435,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1209829435,
+    "wof:lastmodified":1537622409,
+    "wof:name":"Muaivuso",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    178.36082,
+    -18.14045,
+    178.36082,
+    -18.14045
+],
+  "geometry": {"coordinates":[178.36081999999999,-18.14045],"type":"Point"}
+}

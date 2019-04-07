@@ -1,0 +1,65 @@
+{
+  "id": 1209629515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"178.43966,-18.09949,178.43966,-18.09949",
+    "geom:latitude":-18.09949,
+    "geom:longitude":178.43966,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"2203150",
+    "gn:asciiname":"Tamavua 2",
+    "gn:country_code":"FJ",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11202490,
+    "gn:latitude":-18.09949,
+    "gn:longitude":178.43966,
+    "gn:modification_date":"2016-07-07",
+    "gn:name":"Tamavua 2",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fij_x_preferred":[
+        "Tamavua 2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11202490
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"4ccb1e6fa32cd8d71030bbb41cd94b12",
+    "wof:hierarchy":[
+        {
+            "country_id":85632755,
+            "locality_id":1209629515
+        }
+    ],
+    "wof:id":1209629515,
+    "wof:lastmodified":1537622437,
+    "wof:name":"Tamavua 2",
+    "wof:parent_id":85632755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    178.43966,
+    -18.09949,
+    178.43966,
+    -18.09949
+],
+  "geometry": {"coordinates":[178.43966,-18.09949],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1259414643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"178.39751,-17.55309,178.39751,-17.55309",
+    "geom:latitude":-17.55309,
+    "geom:longitude":178.39751,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"2198946",
+    "gn:asciiname":"Naqele Creek",
+    "gn:country_code":"FJ",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11313331,
+    "gn:latitude":-17.55309,
+    "gn:longitude":178.39751,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Naqele Creek",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fij_x_preferred":[
+        "Naqele Creek"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632755,
+        85671181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11313331
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"abaa8165551af0fa04dde70819509dba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632755,
+            "locality_id":1259414643,
+            "region_id":85671181
+        }
+    ],
+    "wof:id":1259414643,
+    "wof:lastmodified":1537622442,
+    "wof:name":"Naqele Creek",
+    "wof:parent_id":85671181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    178.39751,
+    -17.55309,
+    178.39751,
+    -17.55309
+],
+  "geometry": {"coordinates":[178.39751000000001,-17.55309],"type":"Point"}
+}

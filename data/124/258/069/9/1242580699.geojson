@@ -1,0 +1,69 @@
+{
+  "id": 1242580699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"179.40466,-17.80744,179.40466,-17.80744",
+    "geom:latitude":-17.80744,
+    "geom:longitude":179.40466,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"2204318.0",
+    "gn:asciiname":"Tovulailai",
+    "gn:country_code":"FJ",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2197530,
+    "gn:latitude":-17.80744,
+    "gn:longitude":179.40466,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Tovulailai",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fij_x_preferred":[
+        "Tovulailai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632755,
+        85671173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2197530
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"8b27ce9c23dff5f892abf3567a0db786",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632755,
+            "locality_id":1242580699,
+            "region_id":85671173
+        }
+    ],
+    "wof:id":1242580699,
+    "wof:lastmodified":1537622366,
+    "wof:name":"Tovulailai",
+    "wof:parent_id":85671173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    179.40466,
+    -17.80744,
+    179.40466,
+    -17.80744
+],
+  "geometry": {"coordinates":[179.40466000000001,-17.80744],"type":"Point"}
+}

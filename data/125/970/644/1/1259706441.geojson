@@ -1,0 +1,69 @@
+{
+  "id": 1259706441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"177.75835,-18.22032,177.75835,-18.22032",
+    "geom:latitude":-18.22032,
+    "geom:longitude":177.75835,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"2201984",
+    "gn:asciiname":"Komave",
+    "gn:country_code":"FJ",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2204979,
+    "gn:latitude":-18.22032,
+    "gn:longitude":177.75835,
+    "gn:modification_date":"2016-04-10",
+    "gn:name":"Komave",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Komari",
+        "Komave"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2204979
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"c8caa8d62d6afd45a546bd661790475b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632755,
+            "locality_id":1259706441,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1259706441,
+    "wof:lastmodified":1537622419,
+    "wof:name":"Komave",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    177.75835,
+    -18.22032,
+    177.75835,
+    -18.22032
+],
+  "geometry": {"coordinates":[177.75835000000001,-18.22032],"type":"Point"}
+}

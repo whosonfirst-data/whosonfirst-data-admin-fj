@@ -1,0 +1,68 @@
+{
+  "id": 1243553701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"177.13952,-17.3525,177.13952,-17.3525",
+    "geom:latitude":-17.3525,
+    "geom:longitude":177.13952,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"2203798",
+    "gn:asciiname":"Namara",
+    "gn:country_code":"FJ",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2202613,
+    "gn:latitude":-17.3525,
+    "gn:longitude":177.13952,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Namara",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fij_x_preferred":[
+        "Namara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2202613
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"0d724b18c5ff3c45658d786a2e4cf59d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632755,
+            "locality_id":1243553701,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1243553701,
+    "wof:lastmodified":1537622402,
+    "wof:name":"Namara",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    177.13952,
+    -17.3525,
+    177.13952,
+    -17.3525
+],
+  "geometry": {"coordinates":[177.13952,-17.3525],"type":"Point"}
+}

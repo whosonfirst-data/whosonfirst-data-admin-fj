@@ -1,0 +1,65 @@
+{
+  "id": 1209527135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"179.90821,-17.00236,179.90821,-17.00236",
+    "geom:latitude":-17.00236,
+    "geom:longitude":179.90821,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"2197820",
+    "gn:asciiname":"Rukuruku Settlement",
+    "gn:country_code":"FJ",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11596457,
+    "gn:latitude":-17.00236,
+    "gn:longitude":179.90821,
+    "gn:modification_date":"2017-07-06",
+    "gn:name":"Rukuruku Settlement",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fij_x_preferred":[
+        "Rukuruku Settlement"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11596457
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"24c7bb56eb3ba636403a1f3b05d1033f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632755,
+            "locality_id":1209527135
+        }
+    ],
+    "wof:id":1209527135,
+    "wof:lastmodified":1537622452,
+    "wof:name":"Rukuruku Settlement",
+    "wof:parent_id":85632755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    179.90821,
+    -17.00236,
+    179.90821,
+    -17.00236
+],
+  "geometry": {"coordinates":[179.90821,-17.00236],"type":"Point"}
+}

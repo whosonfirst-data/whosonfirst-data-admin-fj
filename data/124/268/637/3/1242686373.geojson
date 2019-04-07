@@ -1,0 +1,68 @@
+{
+  "id": 1242686373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"178.32576,-19.02689,178.32576,-19.02689",
+    "geom:latitude":-19.02689,
+    "geom:longitude":178.32576,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"8617786",
+    "gn:asciiname":"Naituvatuva Settlement",
+    "gn:country_code":"FJ",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11441067,
+    "gn:latitude":-19.02689,
+    "gn:longitude":178.32576,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Naituvatuva Settlement",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fij_x_preferred":[
+        "Naituvatuva Settlement"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11441067
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"2d3874b7b4c89607d255bcaba4b43010",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632755,
+            "locality_id":1242686373,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1242686373,
+    "wof:lastmodified":1537622448,
+    "wof:name":"Naituvatuva Settlement",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    178.32576,
+    -19.02689,
+    178.32576,
+    -19.02689
+],
+  "geometry": {"coordinates":[178.32576,-19.02689],"type":"Point"}
+}

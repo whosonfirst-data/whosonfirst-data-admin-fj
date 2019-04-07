@@ -1,0 +1,65 @@
+{
+  "id": 1242800621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"177.71523,-18.21072,177.71523,-18.21072",
+    "geom:latitude":-18.21072,
+    "geom:longitude":177.71523,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"2201984",
+    "gn:asciiname":"Vatukulelima Settlement",
+    "gn:country_code":"FJ",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11104726,
+    "gn:latitude":-18.21072,
+    "gn:longitude":177.71523,
+    "gn:modification_date":"2016-04-12",
+    "gn:name":"Vatukulelima Settlement",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fij_x_preferred":[
+        "Vatukulelima Settlement"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11104726
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"780f0ac134c35d4609982987be6605ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1242800621,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1242800621,
+    "wof:lastmodified":1537622433,
+    "wof:name":"Vatukulelima Settlement",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    177.71523,
+    -18.21072,
+    177.71523,
+    -18.21072
+],
+  "geometry": {"coordinates":[177.71522999999999,-18.21072],"type":"Point"}
+}

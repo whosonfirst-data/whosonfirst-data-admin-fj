@@ -1,0 +1,78 @@
+{
+  "id": 421174045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"178.43333,-18.13333,178.43333,-18.13333",
+    "geom:latitude":-18.13333,
+    "geom:longitude":178.43333,
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:fij_x_preferred":[
+        "Toorak"
+    ],
+    "qs:gn_country":"FJ",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_id":2197551,
+    "qs:gn_pop":0,
+    "qs:name":"Toorak",
+    "qs:name_adm0":"Fiji",
+    "qs:name_adm1":"Central",
+    "qs:photos":1116,
+    "qs:photos_1k":226,
+    "qs:photos_9k":5,
+    "qs:photos_9r":7,
+    "qs:photos_all":1116,
+    "qs:photos_sr":11,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "qs:qs_id":316464,
+    "qs:woe_adm0":23424813,
+    "qs:woe_id":1063841,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":98,
+    "wof:belongsto":[
+        102191583,
+        85632755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2197551,
+        "gp:id":1063841,
+        "qs:id":316464
+    },
+    "wof:country":"FJ",
+    "wof:created":1459009018,
+    "wof:geomhash":"11880224b2647cef83a85d89b7ed86ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632755,
+            "locality_id":-1,
+            "neighbourhood_id":421174045,
+            "region_id":-1
+        }
+    ],
+    "wof:id":421174045,
+    "wof:lastmodified":1531858400,
+    "wof:name":"Toorak",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    178.43333,
+    -18.13333,
+    178.43333,
+    -18.13333
+],
+  "geometry": {"coordinates":[178.43333000000001,-18.13333],"type":"Point"}
+}

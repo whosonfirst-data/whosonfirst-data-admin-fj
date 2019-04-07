@@ -1,0 +1,65 @@
+{
+  "id": 1343769643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"178.90635,-16.49484,178.90635,-16.49484",
+    "geom:latitude":-16.49484,
+    "geom:longitude":178.90635,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"2203875",
+    "gn:asciiname":"Rewa Settlement",
+    "gn:country_code":"FJ",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11605811,
+    "gn:latitude":-16.49484,
+    "gn:longitude":178.90635,
+    "gn:modification_date":"2017-07-06",
+    "gn:name":"Rewa Settlement",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fij_x_preferred":[
+        "Rewa Settlement"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11605811
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"847d3b6970c72159b3de8249fabd94f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1343769643,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343769643,
+    "wof:lastmodified":1537622453,
+    "wof:name":"Rewa Settlement",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    178.90635,
+    -16.49484,
+    178.90635,
+    -16.49484
+],
+  "geometry": {"coordinates":[178.90635,-16.49484],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1327343381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"179.76667,-19.18333,179.76667,-19.18333",
+    "geom:latitude":-19.18333,
+    "geom:longitude":179.76667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Levukaindaku",
+    "gn:country_code":"FJ",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2204404,
+    "gn:latitude":-19.18333,
+    "gn:longitude":179.76667,
+    "gn:modification_date":"1993-12-22",
+    "gn:name":"Levukaindaku",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632755,
+        85671173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2204404
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"7e42185c454bd1a96e3747a5d779d6e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632755,
+            "locality_id":1327343381,
+            "region_id":85671173
+        }
+    ],
+    "wof:id":1327343381,
+    "wof:lastmodified":1536808882,
+    "wof:name":"Levukaindaku",
+    "wof:parent_id":85671173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    179.76667,
+    -19.18333,
+    179.76667,
+    -19.18333
+],
+  "geometry": {"coordinates":[179.76667,-19.18333],"type":"Point"}
+}

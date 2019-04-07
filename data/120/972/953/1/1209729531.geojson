@@ -1,0 +1,72 @@
+{
+  "id": 1209729531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"178.31253,-17.82623,178.31253,-17.82623",
+    "geom:latitude":-17.82623,
+    "geom:longitude":178.31253,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"2203150",
+    "gn:asciiname":"Delaitoga",
+    "gn:country_code":"FJ",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2199943,
+    "gn:latitude":-17.82623,
+    "gn:longitude":178.31253,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Delaitoga",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fij_x_preferred":[
+        "Ndelaitonga"
+    ],
+    "name:fij_x_variant":[
+        "Delaitoga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632755,
+        85671167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2199943
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"b09f854f9908d8ab23b0c46cdc3ee0c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632755,
+            "locality_id":1209729531,
+            "region_id":85671167
+        }
+    ],
+    "wof:id":1209729531,
+    "wof:lastmodified":1537622379,
+    "wof:name":"Delaitoga",
+    "wof:parent_id":85671167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    178.31253,
+    -17.82623,
+    178.31253,
+    -17.82623
+],
+  "geometry": {"coordinates":[178.31253000000001,-17.82623],"type":"Point"}
+}

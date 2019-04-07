@@ -1,0 +1,69 @@
+{
+  "id": 1327029007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"177.67508,-17.54745,177.67508,-17.54745",
+    "geom:latitude":-17.54745,
+    "geom:longitude":177.67508,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"2203798",
+    "gn:asciiname":"Maururu Settlement",
+    "gn:country_code":"FJ",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11104180,
+    "gn:latitude":-17.54745,
+    "gn:longitude":177.67508,
+    "gn:modification_date":"2016-04-12",
+    "gn:name":"Maururu Settlement",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fij_x_preferred":[
+        "Maururu Settlement"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632755,
+        85671181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11104180
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"98ce0a08c65186aa4b9e9fc0f13bee3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632755,
+            "locality_id":1327029007,
+            "region_id":85671181
+        }
+    ],
+    "wof:id":1327029007,
+    "wof:lastmodified":1537622429,
+    "wof:name":"Maururu Settlement",
+    "wof:parent_id":85671181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    177.67508,
+    -17.54745,
+    177.67508,
+    -17.54745
+],
+  "geometry": {"coordinates":[177.67508000000001,-17.54745],"type":"Point"}
+}

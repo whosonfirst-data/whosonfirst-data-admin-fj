@@ -1,0 +1,66 @@
+{
+  "id": 1209316303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"179.86107,-16.25774,179.86107,-16.25774",
+    "geom:latitude":-16.25774,
+    "geom:longitude":179.86107,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"2197820.0",
+    "gn:asciiname":"Tawake",
+    "gn:country_code":"FJ",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2197858,
+    "gn:latitude":-16.25774,
+    "gn:longitude":179.86107,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Tawake",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tawaki",
+        "Tawake"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2197858
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"78ba1cfe9ebb46231d1931fc9ed304e8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632755,
+            "locality_id":1209316303
+        }
+    ],
+    "wof:id":1209316303,
+    "wof:lastmodified":1537622368,
+    "wof:name":"Tawake",
+    "wof:parent_id":85632755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    179.86106999999996,
+    -16.25774,
+    179.86106999999996,
+    -16.25774
+],
+  "geometry": {"coordinates":[179.86106999999996,-16.25774],"type":"Point"}
+}

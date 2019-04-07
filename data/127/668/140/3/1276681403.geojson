@@ -1,0 +1,69 @@
+{
+  "id": 1276681403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"177.68417,-17.88863,177.68417,-17.88863",
+    "geom:latitude":-17.88863,
+    "geom:longitude":177.68417,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"2201984",
+    "gn:asciiname":"Buro Settlement",
+    "gn:country_code":"FJ",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11104583,
+    "gn:latitude":-17.88863,
+    "gn:longitude":177.68417,
+    "gn:modification_date":"2016-04-12",
+    "gn:name":"Buro Settlement",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fij_x_preferred":[
+        "Buro Settlement"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632755,
+        85671181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11104583
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"672efa452d75bf8b374f510651df198a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632755,
+            "locality_id":1276681403,
+            "region_id":85671181
+        }
+    ],
+    "wof:id":1276681403,
+    "wof:lastmodified":1537622432,
+    "wof:name":"Buro Settlement",
+    "wof:parent_id":85671181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    177.68417,
+    -17.88863,
+    177.68417,
+    -17.88863
+],
+  "geometry": {"coordinates":[177.68416999999999,-17.88863],"type":"Point"}
+}

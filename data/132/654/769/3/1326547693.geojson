@@ -1,0 +1,70 @@
+{
+  "id": 1326547693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"178.61586,-17.9733,178.61586,-17.9733",
+    "geom:latitude":-17.9733,
+    "geom:longitude":178.61586,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"2198131",
+    "gn:asciiname":"Lasakau",
+    "gn:country_code":"FJ",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2204548,
+    "gn:latitude":-17.9733,
+    "gn:longitude":178.61586,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Lasakau",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mbau",
+        "Lasakau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632755,
+        85671167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2204548
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"481c9d837b0c5852e08cbf44418d4002",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632755,
+            "locality_id":1326547693,
+            "region_id":85671167
+        }
+    ],
+    "wof:id":1326547693,
+    "wof:lastmodified":1537622417,
+    "wof:name":"Lasakau",
+    "wof:parent_id":85671167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    178.61586,
+    -17.9733,
+    178.61586,
+    -17.9733
+],
+  "geometry": {"coordinates":[178.61586,-17.9733],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209422341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"179.3753,-16.79684,179.3753,-16.79684",
+    "geom:latitude":-16.79684,
+    "geom:longitude":179.3753,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"2197820.0",
+    "gn:asciiname":"Vivili",
+    "gn:country_code":"FJ",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2196608,
+    "gn:latitude":-16.79684,
+    "gn:longitude":179.3753,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Vivili",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fij_x_preferred":[
+        "Vivili"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2196608
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"bc28c759111e3e47bf0648ff59a1ab51",
+    "wof:hierarchy":[
+        {
+            "country_id":85632755,
+            "locality_id":1209422341
+        }
+    ],
+    "wof:id":1209422341,
+    "wof:lastmodified":1537622362,
+    "wof:name":"Vivili",
+    "wof:parent_id":85632755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    179.3753,
+    -16.79684,
+    179.3753,
+    -16.79684
+],
+  "geometry": {"coordinates":[179.37530000000001,-16.79684],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1226077049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"178.1385,-17.48914,178.1385,-17.48914",
+    "geom:latitude":-17.48914,
+    "geom:longitude":178.1385,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2198946.0",
+    "gn:asciiname":"Vunisea",
+    "gn:country_code":"FJ",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2196148,
+    "gn:latitude":-17.48914,
+    "gn:longitude":178.1385,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Vunisea",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fij_x_preferred":[
+        "Vunisea"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632755,
+        85671181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2196148
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"8e68a959f432d58bf0b3306033bbc4dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632755,
+            "locality_id":1226077049,
+            "region_id":85671181
+        }
+    ],
+    "wof:id":1226077049,
+    "wof:lastmodified":1537622360,
+    "wof:name":"Vunisea",
+    "wof:parent_id":85671181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    178.1385,
+    -17.48914,
+    178.1385,
+    -17.48914
+],
+  "geometry": {"coordinates":[178.13849999999999,-17.48914],"type":"Point"}
+}

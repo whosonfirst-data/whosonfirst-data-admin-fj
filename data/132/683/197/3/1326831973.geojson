@@ -1,0 +1,69 @@
+{
+  "id": 1326831973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"178.74216,-16.73838,178.74216,-16.73838",
+    "geom:latitude":-16.73838,
+    "geom:longitude":178.74216,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"2203651",
+    "gn:asciiname":"Kavula",
+    "gn:country_code":"FJ",
+    "gn:dem":108,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2205049,
+    "gn:latitude":-16.73838,
+    "gn:longitude":178.74216,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Kavula",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fij_x_preferred":[
+        "Kavula"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632755,
+        85671179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2205049
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"8ede9f8dbe09dd2b376f6a08df7ec592",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632755,
+            "locality_id":1326831973,
+            "region_id":85671179
+        }
+    ],
+    "wof:id":1326831973,
+    "wof:lastmodified":1537622420,
+    "wof:name":"Kavula",
+    "wof:parent_id":85671179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    178.74216,
+    -16.73838,
+    178.74216,
+    -16.73838
+],
+  "geometry": {"coordinates":[178.74216000000001,-16.73838],"type":"Point"}
+}

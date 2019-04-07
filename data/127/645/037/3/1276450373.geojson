@@ -1,0 +1,68 @@
+{
+  "id": 1276450373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-179.91313,-15.74589,-179.91313,-15.74589",
+    "geom:latitude":-15.74589,
+    "geom:longitude":-179.91313,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"2203875",
+    "gn:asciiname":"Nautovatu",
+    "gn:country_code":"FJ",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8554203,
+    "gn:latitude":-15.74589,
+    "gn:longitude":-179.91313,
+    "gn:modification_date":"2018-03-09",
+    "gn:name":"Nautovatu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fij_x_preferred":[
+        "Nautovatu"
+    ],
+    "name:fij_x_variant":[
+        "Natovutovu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8554203
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"82e699a16c4db6ccd175bd2389d6f998",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1276450373,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276450373,
+    "wof:lastmodified":1537622427,
+    "wof:name":"Nautovatu",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -179.91313,
+    -15.74589,
+    -179.91313,
+    -15.74589
+],
+  "geometry": {"coordinates":[-179.91313,-15.74589],"type":"Point"}
+}

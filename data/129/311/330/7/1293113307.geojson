@@ -1,0 +1,68 @@
+{
+  "id": 1293113307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-179.32776,-17.76709,-179.32776,-17.76709",
+    "geom:latitude":-17.76709,
+    "geom:longitude":-179.32776,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"4036132",
+    "gn:asciiname":"Mabula",
+    "gn:country_code":"FJ",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4036109,
+    "gn:latitude":-17.76709,
+    "gn:longitude":-179.32776,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Mabula",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fij_x_preferred":[
+        "Mabula"
+    ],
+    "name:fij_x_variant":[
+        "Mambula"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4036109
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"d007e8d8230cb31ff633d81cba28604a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1293113307,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293113307,
+    "wof:lastmodified":1537622426,
+    "wof:name":"Mabula",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -179.32776,
+    -17.76709,
+    -179.32776,
+    -17.76709
+],
+  "geometry": {"coordinates":[-179.32776000000001,-17.76709],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1276347281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-179.74885,-16.77768,-179.74885,-16.77768",
+    "geom:latitude":-16.77768,
+    "geom:longitude":-179.74885,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"2197820",
+    "gn:asciiname":"Dreketi",
+    "gn:country_code":"FJ",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4035974,
+    "gn:latitude":-16.77768,
+    "gn:longitude":-179.74885,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Dreketi",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fij_x_preferred":[
+        "Dreketi"
+    ],
+    "name:fij_x_variant":[
+        "Ndreketi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4035974
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"49cae4970273260e370ed1d6659ec3ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632755,
+            "locality_id":1276347281,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276347281,
+    "wof:lastmodified":1537622424,
+    "wof:name":"Dreketi",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -179.74885,
+    -16.77768,
+    -179.74885,
+    -16.77768
+],
+  "geometry": {"coordinates":[-179.74885,-16.77768],"type":"Point"}
+}

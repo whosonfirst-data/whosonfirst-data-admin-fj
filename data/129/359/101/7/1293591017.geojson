@@ -1,0 +1,70 @@
+{
+  "id": 1293591017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"178.75632,-16.9486,178.75632,-16.9486",
+    "geom:latitude":-16.9486,
+    "geom:longitude":178.75632,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"2203651",
+    "gn:asciiname":"Nasolo",
+    "gn:country_code":"FJ",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2201291,
+    "gn:latitude":-16.9486,
+    "gn:longitude":178.75632,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Nasolo",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Koro Nandi",
+        "Nasolo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632755,
+        85671179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2201291
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"66ef6b44d1db6c195cdfdc98337d26c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632755,
+            "locality_id":1293591017,
+            "region_id":85671179
+        }
+    ],
+    "wof:id":1293591017,
+    "wof:lastmodified":1537622389,
+    "wof:name":"Nasolo",
+    "wof:parent_id":85671179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    178.75632,
+    -16.9486,
+    178.75632,
+    -16.9486
+],
+  "geometry": {"coordinates":[178.75631999999999,-16.9486],"type":"Point"}
+}

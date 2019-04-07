@@ -1,0 +1,66 @@
+{
+  "id": 1193147111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"178.35,-18.83333,178.35,-18.83333",
+    "geom:latitude":-18.83333,
+    "geom:longitude":178.35,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Naioti",
+    "gn:cc2":"FJ",
+    "gn:country_code":"FJ",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2203216,
+    "gn:latitude":-18.83333,
+    "gn:longitude":178.35,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Naioti",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yale",
+        "Naioti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2203216
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"79cec78d17bd587cf58212d2e5f39b44",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1193147111,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1193147111,
+    "wof:lastmodified":1537622407,
+    "wof:name":"Naioti",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    178.35,
+    -18.83333,
+    178.35,
+    -18.83333
+],
+  "geometry": {"coordinates":[178.34999999999999,-18.83333],"type":"Point"}
+}

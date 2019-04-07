@@ -1,0 +1,74 @@
+{
+  "id": 1259891357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"179.3595,-16.73524,179.3595,-16.73524",
+    "geom:latitude":-16.73524,
+    "geom:longitude":179.3595,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"2197820",
+    "gn:asciiname":"Nabaci",
+    "gn:country_code":"FJ",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2202482,
+    "gn:latitude":-16.73524,
+    "gn:longitude":179.3595,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Nabaci",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fij_x_preferred":[
+        "Nabaci"
+    ],
+    "name:und_x_variant":[
+        "Numbathe",
+        "Nambathe",
+        "Nambathi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632755,
+        85671179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2202482
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"2bc528042d25bb18c8fad94ab74df30e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632755,
+            "locality_id":1259891357,
+            "region_id":85671179
+        }
+    ],
+    "wof:id":1259891357,
+    "wof:lastmodified":1537622401,
+    "wof:name":"Nabaci",
+    "wof:parent_id":85671179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    179.3595,
+    -16.73524,
+    179.3595,
+    -16.73524
+],
+  "geometry": {"coordinates":[179.3595,-16.73524],"type":"Point"}
+}

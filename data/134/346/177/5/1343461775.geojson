@@ -1,0 +1,72 @@
+{
+  "id": 1343461775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"178.42954,-19.02437,178.42954,-19.02437",
+    "geom:latitude":-19.02437,
+    "geom:longitude":178.42954,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"8617786.0",
+    "gn:asciiname":"Vacaleya",
+    "gn:country_code":"FJ",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2197092,
+    "gn:latitude":-19.02437,
+    "gn:longitude":178.42954,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Vacaleya",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fij_x_preferred":[
+        "Vacaleya"
+    ],
+    "name:und_x_variant":[
+        "Yathalea",
+        "Vathaleya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2197092
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"4fd17ed30be056be5f1151c80b88489b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632755,
+            "locality_id":1343461775,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343461775,
+    "wof:lastmodified":1537622364,
+    "wof:name":"Vacaleya",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    178.42954,
+    -19.02437,
+    178.42954,
+    -19.02437
+],
+  "geometry": {"coordinates":[178.42954,-19.02437],"type":"Point"}
+}

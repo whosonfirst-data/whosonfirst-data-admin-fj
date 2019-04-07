@@ -1,0 +1,77 @@
+{
+  "id": 421193665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"178.45,-18.11667,178.45,-18.11667",
+    "geom:latitude":-18.11667,
+    "geom:longitude":178.45,
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Samambula"
+    ],
+    "qs:gn_country":"FJ",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_id":2198755,
+    "qs:gn_pop":0,
+    "qs:name":"Samambula North",
+    "qs:name_adm0":"Fiji",
+    "qs:name_adm1":"Central",
+    "qs:photos":1,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":1,
+    "qs:photos_sr":1,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "qs:qs_id":58550,
+    "qs:woe_adm0":23424813,
+    "qs:woe_id":1063715,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191583,
+        85632755,
+        85671167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2198755,
+        "gp:id":1063715,
+        "qs:id":58550
+    },
+    "wof:country":"FJ",
+    "wof:created":1459009779,
+    "wof:geomhash":"272ce4da5d73255de51b61d0085e0c51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632755,
+            "locality_id":-1,
+            "neighbourhood_id":421193665,
+            "region_id":85671167
+        }
+    ],
+    "wof:id":421193665,
+    "wof:lastmodified":1531858718,
+    "wof:name":"Samambula North",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    178.45,
+    -18.11667,
+    178.45,
+    -18.11667
+],
+  "geometry": {"coordinates":[178.44999999999999,-18.11667],"type":"Point"}
+}

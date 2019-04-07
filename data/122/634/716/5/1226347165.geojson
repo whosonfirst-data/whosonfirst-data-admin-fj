@@ -1,0 +1,70 @@
+{
+  "id": 1226347165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"177.57983,-16.70765,177.57983,-16.70765",
+    "geom:latitude":-16.70765,
+    "geom:longitude":177.57983,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2203798.0",
+    "gn:asciiname":"Yasawairara",
+    "gn:country_code":"FJ",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2194240,
+    "gn:latitude":-16.70765,
+    "gn:longitude":177.57983,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Yasawairara",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yasawairo",
+        "Yasawairara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632755,
+        85671181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2194240
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"82c1ef04358944ce680f870dc03b0566",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632755,
+            "locality_id":1226347165,
+            "region_id":85671181
+        }
+    ],
+    "wof:id":1226347165,
+    "wof:lastmodified":1537622355,
+    "wof:name":"Yasawairara",
+    "wof:parent_id":85671181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    177.57983000000004,
+    -16.70765,
+    177.57983000000004,
+    -16.70765
+],
+  "geometry": {"coordinates":[177.57983000000004,-16.70765],"type":"Point"}
+}

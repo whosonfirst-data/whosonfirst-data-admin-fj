@@ -1,0 +1,72 @@
+{
+  "id": 1310013535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"179.22627,-16.49138,179.22627,-16.49138",
+    "geom:latitude":-16.49138,
+    "geom:longitude":179.22627,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"2203875",
+    "gn:asciiname":"Makomako Settlement",
+    "gn:country_code":"FJ",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2204171,
+    "gn:latitude":-16.49138,
+    "gn:longitude":179.22627,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Makomako Settlement",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fij_x_preferred":[
+        "Makomako Settlement"
+    ],
+    "name:fij_x_variant":[
+        "Makomako"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632755,
+        85671179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2204171
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"993af8095080cd43f1d2c91fdd54aac1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632755,
+            "locality_id":1310013535,
+            "region_id":85671179
+        }
+    ],
+    "wof:id":1310013535,
+    "wof:lastmodified":1537622414,
+    "wof:name":"Makomako Settlement",
+    "wof:parent_id":85671179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    179.22627,
+    -16.49138,
+    179.22627,
+    -16.49138
+],
+  "geometry": {"coordinates":[179.22627,-16.49138],"type":"Point"}
+}

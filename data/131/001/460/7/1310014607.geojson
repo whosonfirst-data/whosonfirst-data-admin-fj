@@ -1,0 +1,69 @@
+{
+  "id": 1310014607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"178.80229,-17.72245,178.80229,-17.72245",
+    "geom:latitude":-17.72245,
+    "geom:longitude":178.80229,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"2204318",
+    "gn:asciiname":"Kutau Settlement",
+    "gn:country_code":"FJ",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11333895,
+    "gn:latitude":-17.72245,
+    "gn:longitude":178.80229,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Kutau Settlement",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fij_x_preferred":[
+        "Kutau Settlement"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632755,
+        85671173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11333895
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"e0e0db4134b5502bb47139253105d9e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632755,
+            "locality_id":1310014607,
+            "region_id":85671173
+        }
+    ],
+    "wof:id":1310014607,
+    "wof:lastmodified":1537622445,
+    "wof:name":"Kutau Settlement",
+    "wof:parent_id":85671173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    178.80229,
+    -17.72245,
+    178.80229,
+    -17.72245
+],
+  "geometry": {"coordinates":[178.80229,-17.72245],"type":"Point"}
+}

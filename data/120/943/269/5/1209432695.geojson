@@ -1,0 +1,71 @@
+{
+  "id": 1209432695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"178.61615,-18.05445,178.61615,-18.05445",
+    "geom:latitude":-18.05445,
+    "geom:longitude":178.61615,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"2198131",
+    "gn:asciiname":"Matainoco",
+    "gn:country_code":"FJ",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2204029,
+    "gn:latitude":-18.05445,
+    "gn:longitude":178.61615,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Matainoco",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fij_x_preferred":[
+        "Matainoco"
+    ],
+    "name:fij_x_variant":[
+        "Mburetu"
+    ],
+    "name:und_x_variant":[
+        "Matainotho"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2204029
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"c671dc26458548f9653035cfd617f3cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632755,
+            "locality_id":1209432695
+        }
+    ],
+    "wof:id":1209432695,
+    "wof:lastmodified":1537622413,
+    "wof:name":"Matainoco",
+    "wof:parent_id":85632755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    178.61615,
+    -18.05445,
+    178.61615,
+    -18.05445
+],
+  "geometry": {"coordinates":[178.61615,-18.05445],"type":"Point"}
+}

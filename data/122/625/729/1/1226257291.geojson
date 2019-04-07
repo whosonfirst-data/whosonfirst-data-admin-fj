@@ -1,0 +1,68 @@
+{
+  "id": 1226257291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-179.00208,-17.3028,-179.00208,-17.3028",
+    "geom:latitude":-17.3028,
+    "geom:longitude":-179.00208,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"4036132",
+    "gn:asciiname":"Dakuilomaloma",
+    "gn:country_code":"FJ",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4035986,
+    "gn:latitude":-17.3028,
+    "gn:longitude":-179.00208,
+    "gn:modification_date":"2017-10-04",
+    "gn:name":"Dakuilomaloma",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fij_x_preferred":[
+        "Dakuilomaloma"
+    ],
+    "name:fij_x_variant":[
+        "Ndakuilomaloma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4035986
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"95a49c96bd5f7cc3166494aa0f548107",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1226257291,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226257291,
+    "wof:lastmodified":1537622424,
+    "wof:name":"Dakuilomaloma",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -179.00208,
+    -17.3028,
+    -179.00208,
+    -17.3028
+],
+  "geometry": {"coordinates":[-179.00208000000001,-17.3028],"type":"Point"}
+}

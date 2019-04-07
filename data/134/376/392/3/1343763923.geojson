@@ -1,0 +1,75 @@
+{
+  "id": 1343763923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-179.87091,-16.82262,-179.87091,-16.82262",
+    "geom:latitude":-16.82262,
+    "geom:longitude":-179.87091,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Mbouma",
+    "gn:cc2":"FJ",
+    "gn:country_code":"FJ",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4036093,
+    "gn:latitude":-16.82262,
+    "gn:longitude":-179.87091,
+    "gn:modification_date":"2011-05-11",
+    "gn:name":"Mbouma",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fij_x_preferred":[
+        "Bouma"
+    ],
+    "name:und_x_variant":[
+        "Mboumba",
+        "Mbuma",
+        "Mboma",
+        "Mbouma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632755,
+        85671179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4036093
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"ed6653ed9c7cc026bc069bebf3d754da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632755,
+            "locality_id":1343763923,
+            "region_id":85671179
+        }
+    ],
+    "wof:id":1343763923,
+    "wof:lastmodified":1537622425,
+    "wof:name":"Mbouma",
+    "wof:parent_id":85671179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -179.87091,
+    -16.82262,
+    -179.87091,
+    -16.82262
+],
+  "geometry": {"coordinates":[-179.87091000000001,-16.82262],"type":"Point"}
+}

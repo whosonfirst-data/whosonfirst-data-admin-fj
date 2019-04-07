@@ -1,0 +1,69 @@
+{
+  "id": 1276985171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"177.86082,-17.51768,177.86082,-17.51768",
+    "geom:latitude":-17.51768,
+    "geom:longitude":177.86082,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"2203798",
+    "gn:asciiname":"Lololevu Settlement",
+    "gn:country_code":"FJ",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11103919,
+    "gn:latitude":-17.51768,
+    "gn:longitude":177.86082,
+    "gn:modification_date":"2016-04-12",
+    "gn:name":"Lololevu Settlement",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fij_x_preferred":[
+        "Lololevu Settlement"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632755,
+        85671181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11103919
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"160b2fa8de4e0df7f5104292b8981763",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632755,
+            "locality_id":1276985171,
+            "region_id":85671181
+        }
+    ],
+    "wof:id":1276985171,
+    "wof:lastmodified":1537622428,
+    "wof:name":"Lololevu Settlement",
+    "wof:parent_id":85671181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    177.86082,
+    -17.51768,
+    177.86082,
+    -17.51768
+],
+  "geometry": {"coordinates":[177.86081999999999,-17.51768],"type":"Point"}
+}

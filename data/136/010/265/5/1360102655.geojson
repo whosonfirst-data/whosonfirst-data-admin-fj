@@ -1,0 +1,65 @@
+{
+  "id": 1360102655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"178.06847,-18.06529,178.06847,-18.06529",
+    "geom:latitude":-18.06529,
+    "geom:longitude":178.06847,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Nakavika",
+    "gn:country_code":"FJ",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2202928,
+    "gn:latitude":-18.06529,
+    "gn:longitude":178.06847,
+    "gn:modification_date":"2015-03-28",
+    "gn:name":"Nakavika",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632755,
+        85671167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2202928
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"9e48b9319936fd256938ea6d521c919d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632755,
+            "locality_id":1360102655,
+            "region_id":85671167
+        }
+    ],
+    "wof:id":1360102655,
+    "wof:lastmodified":1536920923,
+    "wof:name":"Nakavika",
+    "wof:parent_id":85671167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    178.06847,
+    -18.06529,
+    178.06847,
+    -18.06529
+],
+  "geometry": {"coordinates":[178.06846999999999,-18.06529],"type":"Point"}
+}

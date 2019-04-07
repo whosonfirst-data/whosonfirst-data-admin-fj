@@ -1,0 +1,69 @@
+{
+  "id": 1343972165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"178.58708,-18.06031,178.58708,-18.06031",
+    "geom:latitude":-18.06031,
+    "geom:longitude":178.58708,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"2198131.0",
+    "gn:asciiname":"Tumavia",
+    "gn:country_code":"FJ",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2197490,
+    "gn:latitude":-18.06031,
+    "gn:longitude":178.58708,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Tumavia",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fij_x_preferred":[
+        "Tumavia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632755,
+        85671167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2197490
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"dba6abce027d8446e98e9620124ee662",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632755,
+            "locality_id":1343972165,
+            "region_id":85671167
+        }
+    ],
+    "wof:id":1343972165,
+    "wof:lastmodified":1537622366,
+    "wof:name":"Tumavia",
+    "wof:parent_id":85671167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    178.58708,
+    -18.06031,
+    178.58708,
+    -18.06031
+],
+  "geometry": {"coordinates":[178.58707999999999,-18.06031],"type":"Point"}
+}

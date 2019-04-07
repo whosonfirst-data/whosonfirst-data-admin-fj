@@ -1,0 +1,70 @@
+{
+  "id": 1226653493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"178.72075,-16.66893,178.72075,-16.66893",
+    "geom:latitude":-16.66893,
+    "geom:longitude":178.72075,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"2203651.0",
+    "gn:asciiname":"Votua",
+    "gn:country_code":"FJ",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2196556,
+    "gn:latitude":-16.66893,
+    "gn:longitude":178.72075,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Votua",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lekutu",
+        "Votua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632755,
+        85671179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2196556
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"8a170159ff370e633f0623a4c8779aad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632755,
+            "locality_id":1226653493,
+            "region_id":85671179
+        }
+    ],
+    "wof:id":1226653493,
+    "wof:lastmodified":1537622362,
+    "wof:name":"Votua",
+    "wof:parent_id":85671179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    178.72075,
+    -16.66893,
+    178.72075,
+    -16.66893
+],
+  "geometry": {"coordinates":[178.72075000000001,-16.66893],"type":"Point"}
+}

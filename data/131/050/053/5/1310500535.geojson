@@ -1,0 +1,69 @@
+{
+  "id": 1310500535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"177.88806,-17.81051,177.88806,-17.81051",
+    "geom:latitude":-17.81051,
+    "geom:longitude":177.88806,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"2201984",
+    "gn:asciiname":"Nawiwi Settlement",
+    "gn:country_code":"FJ",
+    "gn:dem":552,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11104551,
+    "gn:latitude":-17.81051,
+    "gn:longitude":177.88806,
+    "gn:modification_date":"2016-04-12",
+    "gn:name":"Nawiwi Settlement",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fij_x_preferred":[
+        "Nawiwi Settlement"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632755,
+        85671181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11104551
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"8a51eccfb6ef03b77d825b749dcb77c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632755,
+            "locality_id":1310500535,
+            "region_id":85671181
+        }
+    ],
+    "wof:id":1310500535,
+    "wof:lastmodified":1537622432,
+    "wof:name":"Nawiwi Settlement",
+    "wof:parent_id":85671181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    177.88806,
+    -17.81051,
+    177.88806,
+    -17.81051
+],
+  "geometry": {"coordinates":[177.88806,-17.81051],"type":"Point"}
+}

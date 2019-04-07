@@ -1,0 +1,65 @@
+{
+  "id": 1309716823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"177.06616,-17.59778,177.06616,-17.59778",
+    "geom:latitude":-17.59778,
+    "geom:longitude":177.06616,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2201984.0",
+    "gn:asciiname":"Yanuya",
+    "gn:country_code":"FJ",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2194273,
+    "gn:latitude":-17.59778,
+    "gn:longitude":177.06616,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Yanuya",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fij_x_preferred":[
+        "Yanuya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2194273
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"b602d56b7d296178f31d2e5a90f412a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1309716823,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1309716823,
+    "wof:lastmodified":1537622356,
+    "wof:name":"Yanuya",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    177.06616,
+    -17.59778,
+    177.06616,
+    -17.59778
+],
+  "geometry": {"coordinates":[177.06616,-17.59778],"type":"Point"}
+}

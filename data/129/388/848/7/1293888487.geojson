@@ -1,0 +1,63 @@
+{
+  "id": 1293888487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"177.40914,-17.68763,177.40914,-17.68763",
+    "geom:latitude":-17.68763,
+    "geom:longitude":177.40914,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2203798.0",
+    "gn:asciiname":"Viseisei",
+    "gn:country_code":"FJ",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2196647,
+    "gn:latitude":-17.68763,
+    "gn:longitude":177.40914,
+    "gn:modification_date":"2016-04-10",
+    "gn:name":"Viseisei",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2196647,
+        "wk:page":"Viseisei"
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"4038b9eaa4f78bc24b9d12b7dfc0b53f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1293888487,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293888487,
+    "wof:lastmodified":1537562810,
+    "wof:name":"Viseisei",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    177.40913999999995,
+    -17.68763,
+    177.40913999999995,
+    -17.68763
+],
+  "geometry": {"coordinates":[177.40913999999995,-17.68763],"type":"Point"}
+}

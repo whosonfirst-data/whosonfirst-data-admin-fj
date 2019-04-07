@@ -1,0 +1,69 @@
+{
+  "id": 1327137439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"178.44364,-19.01212,178.44364,-19.01212",
+    "geom:latitude":-19.01212,
+    "geom:longitude":178.44364,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"8617786",
+    "gn:asciiname":"Sogosevou Settlement",
+    "gn:country_code":"FJ",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11436846,
+    "gn:latitude":-19.01212,
+    "gn:longitude":178.44364,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Sogosevou Settlement",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fij_x_preferred":[
+        "Sogosevou Settlement"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632755,
+        85671173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11436846
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"5bbf1bd3f9cb8eed263d68419f4e4eca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632755,
+            "locality_id":1327137439,
+            "region_id":85671173
+        }
+    ],
+    "wof:id":1327137439,
+    "wof:lastmodified":1537622447,
+    "wof:name":"Sogosevou Settlement",
+    "wof:parent_id":85671173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    178.44364,
+    -19.01212,
+    178.44364,
+    -19.01212
+],
+  "geometry": {"coordinates":[178.44363999999999,-19.01212],"type":"Point"}
+}

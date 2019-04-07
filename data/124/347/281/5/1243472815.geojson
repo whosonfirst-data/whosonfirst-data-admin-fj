@@ -1,0 +1,64 @@
+{
+  "id": 1243472815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"178.16142,-19.00427,178.16142,-19.00427",
+    "geom:latitude":-19.00427,
+    "geom:longitude":178.16142,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Drue",
+    "gn:country_code":"FJ",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2199672,
+    "gn:latitude":-19.00427,
+    "gn:longitude":178.16142,
+    "gn:modification_date":"2013-10-05",
+    "gn:name":"Drue",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Drue"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2199672
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"9a41c6c04ed53a0fca3fab7e7a062b3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1243472815,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1243472815,
+    "wof:lastmodified":1537622377,
+    "wof:name":"Drue",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    178.16142,
+    -19.00427,
+    178.16142,
+    -19.00427
+],
+  "geometry": {"coordinates":[178.16141999999999,-19.00427],"type":"Point"}
+}

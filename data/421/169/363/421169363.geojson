@@ -1,0 +1,77 @@
+{
+  "id": 421169363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"178.43333,-18.11667,178.43333,-18.11667",
+    "geom:latitude":-18.11667,
+    "geom:longitude":178.43333,
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:fij_x_preferred":[
+        "Tamavua"
+    ],
+    "qs:gn_country":"FJ",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_id":2198092,
+    "qs:gn_pop":0,
+    "qs:name":"Tamavua",
+    "qs:name_adm0":"Fiji",
+    "qs:name_adm1":"Central",
+    "qs:photos":191,
+    "qs:photos_1k":39,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":191,
+    "qs:photos_sr":4,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1220467,
+    "qs:woe_adm0":23424813,
+    "qs:woe_id":1063781,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191583,
+        85632755,
+        85671167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2198092,
+        "gp:id":1063781,
+        "qs:id":1220467
+    },
+    "wof:country":"FJ",
+    "wof:created":1459008806,
+    "wof:geomhash":"a26664fafbfb482f224a5c80cc56f301",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632755,
+            "locality_id":-1,
+            "neighbourhood_id":421169363,
+            "region_id":85671167
+        }
+    ],
+    "wof:id":421169363,
+    "wof:lastmodified":1531858330,
+    "wof:name":"Tamavua",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    178.43333,
+    -18.11667,
+    178.43333,
+    -18.11667
+],
+  "geometry": {"coordinates":[178.43333000000001,-18.11667],"type":"Point"}
+}

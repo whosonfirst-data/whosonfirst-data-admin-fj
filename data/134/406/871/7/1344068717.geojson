@@ -1,0 +1,70 @@
+{
+  "id": 1344068717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"179.15335,-16.74444,179.15335,-16.74444",
+    "geom:latitude":-16.74444,
+    "geom:longitude":179.15335,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"2197820",
+    "gn:asciiname":"Natuvu",
+    "gn:country_code":"FJ",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2200867,
+    "gn:latitude":-16.74444,
+    "gn:longitude":179.15335,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Natuvu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Na Tuva",
+        "Naturu",
+        "Natuvu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2200867
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"9ea9e4ac1fe8c7b0a51c26ca4a9dc7c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632755,
+            "locality_id":1344068717,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1344068717,
+    "wof:lastmodified":1537622386,
+    "wof:name":"Natuvu",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    179.15335,
+    -16.74444,
+    179.15335,
+    -16.74444
+],
+  "geometry": {"coordinates":[179.15334999999999,-16.74444],"type":"Point"}
+}

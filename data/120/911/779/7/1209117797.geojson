@@ -1,0 +1,68 @@
+{
+  "id": 1209117797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"179.83795,-16.24237,179.83795,-16.24237",
+    "geom:latitude":-16.24237,
+    "geom:longitude":179.83795,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"2203875",
+    "gn:asciiname":"Lagi",
+    "gn:country_code":"FJ",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2204558,
+    "gn:latitude":-16.24237,
+    "gn:longitude":179.83795,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Lagi",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fij_x_preferred":[
+        "Lagi"
+    ],
+    "name:fij_x_variant":[
+        "Langi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2204558
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"0695d218df7517fe7a0f7a7fe87e2ae0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632755,
+            "locality_id":1209117797
+        }
+    ],
+    "wof:id":1209117797,
+    "wof:lastmodified":1537622417,
+    "wof:name":"Lagi",
+    "wof:parent_id":85632755,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    179.83795,
+    -16.24237,
+    179.83795,
+    -16.24237
+],
+  "geometry": {"coordinates":[179.83795000000001,-16.24237],"type":"Point"}
+}

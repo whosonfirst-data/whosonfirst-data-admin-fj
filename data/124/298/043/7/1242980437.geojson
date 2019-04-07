@@ -1,0 +1,69 @@
+{
+  "id": 1242980437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"178.45417,-17.95059,178.45417,-17.95059",
+    "geom:latitude":-17.95059,
+    "geom:longitude":178.45417,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"2203150",
+    "gn:asciiname":"Natoaika",
+    "gn:country_code":"FJ",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2200998,
+    "gn:latitude":-17.95059,
+    "gn:longitude":178.45417,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Natoaika",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fij_x_preferred":[
+        "Natoaika"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632755,
+        85671167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2200998
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"8e4763795ee49fcfc3f619774e2a0d63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632755,
+            "locality_id":1242980437,
+            "region_id":85671167
+        }
+    ],
+    "wof:id":1242980437,
+    "wof:lastmodified":1537622387,
+    "wof:name":"Natoaika",
+    "wof:parent_id":85671167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    178.45417,
+    -17.95059,
+    178.45417,
+    -17.95059
+],
+  "geometry": {"coordinates":[178.45417,-17.95059],"type":"Point"}
+}

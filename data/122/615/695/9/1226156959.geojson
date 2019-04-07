@@ -1,0 +1,69 @@
+{
+  "id": 1226156959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"178.32919,-18.11383,178.32919,-18.11383",
+    "geom:latitude":-18.11383,
+    "geom:longitude":178.32919,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"2198876",
+    "gn:asciiname":"Wainawa Settlement",
+    "gn:country_code":"FJ",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11230080,
+    "gn:latitude":-18.11383,
+    "gn:longitude":178.32919,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Wainawa Settlement",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fij_x_preferred":[
+        "Wainawa Settlement"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632755,
+        85671167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11230080
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"8b7e77aaaed2009d7c953e9bab75eecc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632755,
+            "locality_id":1226156959,
+            "region_id":85671167
+        }
+    ],
+    "wof:id":1226156959,
+    "wof:lastmodified":1537622439,
+    "wof:name":"Wainawa Settlement",
+    "wof:parent_id":85671167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    178.32918999999995,
+    -18.11383,
+    178.32918999999995,
+    -18.11383
+],
+  "geometry": {"coordinates":[178.32918999999995,-18.11383],"type":"Point"}
+}

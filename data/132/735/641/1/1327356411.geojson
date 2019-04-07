@@ -1,0 +1,72 @@
+{
+  "id": 1327356411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"177.64579,-18.51518,177.64579,-18.51518",
+    "geom:latitude":-18.51518,
+    "geom:longitude":177.64579,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Ekubo",
+    "gn:country_code":"FJ",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2205253,
+    "gn:latitude":-18.51518,
+    "gn:longitude":177.64579,
+    "gn:modification_date":"2013-10-27",
+    "gn:name":"Ekubo",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ekubo"
+    ],
+    "name:und_x_variant":[
+        "Ekubu",
+        "Ekumbu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632755,
+        85671181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2205253
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"c545e6723ee7d576c97ec330bcd16f23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632755,
+            "locality_id":1327356411,
+            "region_id":85671181
+        }
+    ],
+    "wof:id":1327356411,
+    "wof:lastmodified":1537622421,
+    "wof:name":"Ekubo",
+    "wof:parent_id":85671181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    177.64578999999995,
+    -18.51518,
+    177.64578999999995,
+    -18.51518
+],
+  "geometry": {"coordinates":[177.64578999999995,-18.51518],"type":"Point"}
+}

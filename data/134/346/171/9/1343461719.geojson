@@ -1,0 +1,73 @@
+{
+  "id": 1343461719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"179.43449,-17.81528,179.43449,-17.81528",
+    "geom:latitude":-17.81528,
+    "geom:longitude":179.43449,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"2204318.0",
+    "gn:asciiname":"Vatuni Settlement",
+    "gn:country_code":"FJ",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2195925,
+    "gn:latitude":-17.81528,
+    "gn:longitude":179.43449,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Vatuni Settlement",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fij_x_preferred":[
+        "Vatuni Settlement"
+    ],
+    "name:und_x_variant":[
+        "Vutuma",
+        "Vuthuna",
+        "Vutuna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2195925
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"4de2b97d8cd8f1ccd03e144e931f5c19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632755,
+            "locality_id":1343461719,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343461719,
+    "wof:lastmodified":1537622359,
+    "wof:name":"Vatuni Settlement",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    179.43448999999995,
+    -17.81527999999999,
+    179.43448999999995,
+    -17.81527999999999
+],
+  "geometry": {"coordinates":[179.43448999999995,-17.81527999999999],"type":"Point"}
+}

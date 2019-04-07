@@ -1,0 +1,73 @@
+{
+  "id": 1310227703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"178.05834,-17.36962,178.05834,-17.36962",
+    "geom:latitude":-17.36962,
+    "geom:longitude":178.05834,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2198946.0",
+    "gn:asciiname":"Vunitogoloa",
+    "gn:country_code":"FJ",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2196202,
+    "gn:latitude":-17.36962,
+    "gn:longitude":178.05834,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Vunitogoloa",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fij_x_preferred":[
+        "Vunitogoloa"
+    ],
+    "name:und_x_variant":[
+        "Navunitogoloa",
+        "Vunindongoloa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632755,
+        85671181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2196202
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"f59c9480fd93838cc361123e9a1ebcec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632755,
+            "locality_id":1310227703,
+            "region_id":85671181
+        }
+    ],
+    "wof:id":1310227703,
+    "wof:lastmodified":1537622360,
+    "wof:name":"Vunitogoloa",
+    "wof:parent_id":85671181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    178.05834,
+    -17.36962,
+    178.05834,
+    -17.36962
+],
+  "geometry": {"coordinates":[178.05833999999999,-17.36962],"type":"Point"}
+}

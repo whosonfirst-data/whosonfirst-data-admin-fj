@@ -1,0 +1,69 @@
+{
+  "id": 1293412413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"178.18034,-17.39556,178.18034,-17.39556",
+    "geom:latitude":-17.39556,
+    "geom:longitude":178.18034,
+    "gn:admin1_code":"05",
+    "gn:admin2_code":"2198946",
+    "gn:asciiname":"Rewasa",
+    "gn:country_code":"FJ",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2198871,
+    "gn:latitude":-17.39556,
+    "gn:longitude":178.18034,
+    "gn:modification_date":"2016-07-05",
+    "gn:name":"Rewasa",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fij_x_preferred":[
+        "Rewasa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632755,
+        85671181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2198871
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"d5f9a779934e66b111c91dc23623c78f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632755,
+            "locality_id":1293412413,
+            "region_id":85671181
+        }
+    ],
+    "wof:id":1293412413,
+    "wof:lastmodified":1537622373,
+    "wof:name":"Rewasa",
+    "wof:parent_id":85671181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    178.18034,
+    -17.39556,
+    178.18034,
+    -17.39556
+],
+  "geometry": {"coordinates":[178.18034,-17.39556],"type":"Point"}
+}

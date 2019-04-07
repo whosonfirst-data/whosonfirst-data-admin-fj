@@ -1,0 +1,72 @@
+{
+  "id": 1260089693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"178.58492,-17.66688,178.58492,-17.66688",
+    "geom:latitude":-17.66688,
+    "geom:longitude":178.58492,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"2198131",
+    "gn:asciiname":"Burelevu",
+    "gn:country_code":"FJ",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2203592,
+    "gn:latitude":-17.66688,
+    "gn:longitude":178.58492,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Burelevu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fij_x_preferred":[
+        "Burelevu"
+    ],
+    "name:fij_x_variant":[
+        "Mburelevu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632755,
+        85671167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2203592
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"1b27c6e75f5efcb9156d9e54adcb3768",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632755,
+            "locality_id":1260089693,
+            "region_id":85671167
+        }
+    ],
+    "wof:id":1260089693,
+    "wof:lastmodified":1537622410,
+    "wof:name":"Burelevu",
+    "wof:parent_id":85671167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    178.58491999999995,
+    -17.66688,
+    178.58491999999995,
+    -17.66688
+],
+  "geometry": {"coordinates":[178.58491999999995,-17.66688],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1292902743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"177.71149,-17.96243,177.71149,-17.96243",
+    "geom:latitude":-17.96243,
+    "geom:longitude":177.71149,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2201984.0",
+    "gn:asciiname":"Tonuve",
+    "gn:country_code":"FJ",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2197554,
+    "gn:latitude":-17.96243,
+    "gn:longitude":177.71149,
+    "gn:modification_date":"2016-04-10",
+    "gn:name":"Tonuve",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tonuva",
+        "Tonuve"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632755,
+        85671181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2197554
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"4b21206778b9726dff4ffad08ea9c5fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632755,
+            "locality_id":1292902743,
+            "region_id":85671181
+        }
+    ],
+    "wof:id":1292902743,
+    "wof:lastmodified":1537622366,
+    "wof:name":"Tonuve",
+    "wof:parent_id":85671181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    177.71149,
+    -17.96242999999999,
+    177.71149,
+    -17.96242999999999
+],
+  "geometry": {"coordinates":[177.71149,-17.96242999999999],"type":"Point"}
+}

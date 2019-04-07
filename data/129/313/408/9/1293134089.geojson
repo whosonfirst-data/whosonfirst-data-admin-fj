@@ -1,0 +1,64 @@
+{
+  "id": 1293134089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"177.11667,-12.51667,177.11667,-12.51667",
+    "geom:latitude":-12.51667,
+    "geom:longitude":177.11667,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Tuapona",
+    "gn:country_code":"FJ",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2197514,
+    "gn:latitude":-12.51667,
+    "gn:longitude":177.11667,
+    "gn:modification_date":"2015-02-06",
+    "gn:name":"Tuapona",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2197514
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"81efc4785d897486c603f15b0bba894d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632755,
+            "locality_id":1293134089,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293134089,
+    "wof:lastmodified":1536799689,
+    "wof:name":"Tuapona",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    177.11667,
+    -12.51667,
+    177.11667,
+    -12.51667
+],
+  "geometry": {"coordinates":[177.11667,-12.51667],"type":"Point"}
+}

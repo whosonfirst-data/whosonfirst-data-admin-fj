@@ -1,0 +1,70 @@
+{
+  "id": 1326844549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"178.56327,-17.71714,178.56327,-17.71714",
+    "geom:latitude":-17.71714,
+    "geom:longitude":178.56327,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"2198131",
+    "gn:asciiname":"Nananu",
+    "gn:country_code":"FJ",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2202137,
+    "gn:latitude":-17.71714,
+    "gn:longitude":178.56327,
+    "gn:modification_date":"2016-11-22",
+    "gn:name":"Nananu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nanani",
+        "Nananu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632755,
+        85671167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2202137
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"388efc45435e99fc1ab97da9c4b4a052",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632755,
+            "locality_id":1326844549,
+            "region_id":85671167
+        }
+    ],
+    "wof:id":1326844549,
+    "wof:lastmodified":1537622397,
+    "wof:name":"Nananu",
+    "wof:parent_id":85671167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    178.56327,
+    -17.71714,
+    178.56327,
+    -17.71714
+],
+  "geometry": {"coordinates":[178.56326999999999,-17.71714],"type":"Point"}
+}

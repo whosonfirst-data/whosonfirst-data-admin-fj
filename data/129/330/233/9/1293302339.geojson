@@ -1,0 +1,69 @@
+{
+  "id": 1293302339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"178.48869,-18.07976,178.48869,-18.07976",
+    "geom:latitude":-18.07976,
+    "geom:longitude":178.48869,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"2198131",
+    "gn:asciiname":"Tovata",
+    "gn:country_code":"FJ",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11243102,
+    "gn:latitude":-18.07976,
+    "gn:longitude":178.48869,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Tovata",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fij_x_preferred":[
+        "Tovata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632755,
+        85671167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11243102
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"c6673d1581440039d3558a59b008e13c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632755,
+            "locality_id":1293302339,
+            "region_id":85671167
+        }
+    ],
+    "wof:id":1293302339,
+    "wof:lastmodified":1537622440,
+    "wof:name":"Tovata",
+    "wof:parent_id":85671167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    178.48869,
+    -18.07976,
+    178.48869,
+    -18.07976
+],
+  "geometry": {"coordinates":[178.48868999999999,-18.07976],"type":"Point"}
+}

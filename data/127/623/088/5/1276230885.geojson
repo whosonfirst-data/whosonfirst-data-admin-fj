@@ -1,0 +1,70 @@
+{
+  "id": 1276230885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"178.10788,-19.07736,178.10788,-19.07736",
+    "geom:latitude":-19.07736,
+    "geom:longitude":178.10788,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"8617786.0",
+    "gn:asciiname":"Tavuki",
+    "gn:country_code":"FJ",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2197884,
+    "gn:latitude":-19.07736,
+    "gn:longitude":178.10788,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Tavuki",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tavuka",
+        "Tavuki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632755,
+        85671173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2197884
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"3348fbf836dcf76c2091ce730e0a2164",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632755,
+            "locality_id":1276230885,
+            "region_id":85671173
+        }
+    ],
+    "wof:id":1276230885,
+    "wof:lastmodified":1537622368,
+    "wof:name":"Tavuki",
+    "wof:parent_id":85671173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    178.10788,
+    -19.07736,
+    178.10788,
+    -19.07736
+],
+  "geometry": {"coordinates":[178.10787999999999,-19.07736],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1326837931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"179.36667,-16.41667,179.36667,-16.41667",
+    "geom:latitude":-16.41667,
+    "geom:longitude":179.36667,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Lambasa River",
+    "gn:cc2":"FJ",
+    "gn:country_code":"FJ",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2204579,
+    "gn:latitude":-16.41667,
+    "gn:longitude":179.36667,
+    "gn:modification_date":"2010-11-01",
+    "gn:name":"Lambasa River",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Labasa",
+        "Lambasa River"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632755,
+        85671179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2204579
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"b6819ce5ca7c980aded975a3de5441ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632755,
+            "locality_id":1326837931,
+            "region_id":85671179
+        }
+    ],
+    "wof:id":1326837931,
+    "wof:lastmodified":1537622417,
+    "wof:name":"Lambasa River",
+    "wof:parent_id":85671179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    179.36667,
+    -16.41667,
+    179.36667,
+    -16.41667
+],
+  "geometry": {"coordinates":[179.36667,-16.41667],"type":"Point"}
+}

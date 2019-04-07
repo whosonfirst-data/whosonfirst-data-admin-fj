@@ -1,0 +1,69 @@
+{
+  "id": 1310322691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"177.80608,-18.23712,177.80608,-18.23712",
+    "geom:latitude":-18.23712,
+    "geom:longitude":177.80608,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"2198411",
+    "gn:asciiname":"Navutulevu",
+    "gn:country_code":"FJ",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2200305,
+    "gn:latitude":-18.23712,
+    "gn:longitude":177.80608,
+    "gn:modification_date":"2016-04-10",
+    "gn:name":"Navutulevu",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Vutu Levu",
+        "Navutulevu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632755
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2200305
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"1449ed916b785616803b32d5afe9d1e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632755,
+            "locality_id":1310322691,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310322691,
+    "wof:lastmodified":1537622382,
+    "wof:name":"Navutulevu",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    177.80608,
+    -18.23712,
+    177.80608,
+    -18.23712
+],
+  "geometry": {"coordinates":[177.80608000000001,-18.23712],"type":"Point"}
+}

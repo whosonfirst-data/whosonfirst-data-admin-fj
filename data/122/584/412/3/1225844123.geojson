@@ -1,0 +1,72 @@
+{
+  "id": 1225844123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"177.70399,-17.48991,177.70399,-17.48991",
+    "geom:latitude":-17.48991,
+    "geom:longitude":177.70399,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"2203798.0",
+    "gn:asciiname":"Sorokoba",
+    "gn:country_code":"FJ",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2198228,
+    "gn:latitude":-17.48991,
+    "gn:longitude":177.70399,
+    "gn:modification_date":"2016-04-10",
+    "gn:name":"Sorokoba",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Fiji",
+    "iso:country":"FJ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:fij_x_preferred":[
+        "Sorokoba"
+    ],
+    "name:und_x_variant":[
+        "Sorokomba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632755,
+        85671181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2198228
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"9aed34fe1d07c35b80126a585b8267f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632755,
+            "locality_id":1225844123,
+            "region_id":85671181
+        }
+    ],
+    "wof:id":1225844123,
+    "wof:lastmodified":1537622370,
+    "wof:name":"Sorokoba",
+    "wof:parent_id":85671181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    177.70399,
+    -17.48991,
+    177.70399,
+    -17.48991
+],
+  "geometry": {"coordinates":[177.70399,-17.48991],"type":"Point"}
+}
