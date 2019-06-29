@@ -23,16 +23,7 @@
     "name:ces_x_preferred":[
         "Nadi"
     ],
-    "name:chi_x_preferred":[
-        "\u6960\u8fea"
-    ],
-    "name:cze_x_preferred":[
-        "Nadi"
-    ],
     "name:deu_x_preferred":[
-        "Nadi"
-    ],
-    "name:dut_x_preferred":[
         "Nadi"
     ],
     "name:ell_x_preferred":[
@@ -40,6 +31,9 @@
     ],
     "name:eng_x_preferred":[
         "Nadi"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u062f\u06cc"
     ],
     "name:fij_x_preferred":[
         "Nadi"
@@ -49,15 +43,6 @@
     ],
     "name:fra_x_preferred":[
         "Nadi"
-    ],
-    "name:fre_x_preferred":[
-        "Nadi"
-    ],
-    "name:ger_x_preferred":[
-        "Nadi"
-    ],
-    "name:gre_x_preferred":[
-        "\u039d\u03ac\u03bd\u03c4\u03b9 \u03a6\u03af\u03c4\u03b6\u03b9"
     ],
     "name:hif_x_preferred":[
         "Nadi"
@@ -82,9 +67,6 @@
     ],
     "name:nld_x_preferred":[
         "Nadi"
-    ],
-    "name:per_x_preferred":[
-        "\u0646\u0627\u062f\u06cc"
     ],
     "name:pol_x_preferred":[
         "Nadi"
@@ -250,7 +232,7 @@
         }
     ],
     "wof:id":421179869,
-    "wof:lastmodified":1527717705,
+    "wof:lastmodified":1561830522,
     "wof:name":"Nandi",
     "wof:parent_id":85671181,
     "wof:placetype":"locality",

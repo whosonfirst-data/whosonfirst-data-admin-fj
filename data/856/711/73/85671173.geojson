@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.120213,
-    "geom:area_square_m":1410515932.919926,
+    "geom:area_square_m":1410515932.919954,
     "geom:bbox":"-179.871937629,-20.6718075497,179.952403191,-17.1491024719",
     "geom:latitude":-18.381689,
     "geom:longitude":80.061534,
@@ -35,14 +35,14 @@
     "name:cat_x_preferred":[
         "Divisi\u00f3 Est"
     ],
-    "name:chi_x_preferred":[
-        "\u4e1c\u90e8\u5927\u533a"
-    ],
     "name:dan_x_preferred":[
         "Eastern Division"
     ],
-    "name:dut_x_preferred":[
-        "Eastern"
+    "name:deu_x_preferred":[
+        "Eastern Division"
+    ],
+    "name:ell_x_preferred":[
+        "\u038a\u03c3\u03c4\u03b5\u03c1\u03bd \u039d\u03c4\u03b9\u03b2\u03af\u03b6\u03b9\u03bf\u03bd"
     ],
     "name:eng_x_preferred":[
         "Eastern"
@@ -56,20 +56,8 @@
     "name:fra_x_preferred":[
         "Division orientale"
     ],
-    "name:fre_x_preferred":[
-        "Division orientale"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d0\u10e6\u10db\u10dd\u10e1\u10d0\u10d5\u10da\u10d4\u10d7\u10d8\u10e1 \u10dd\u10da\u10e5\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Eastern Division"
-    ],
     "name:glg_x_preferred":[
         "Divisi\u00f3n Oriental"
-    ],
-    "name:gre_x_preferred":[
-        "\u038a\u03c3\u03c4\u03b5\u03c1\u03bd \u039d\u03c4\u03b9\u03b2\u03af\u03b6\u03b9\u03bf\u03bd"
     ],
     "name:guj_x_preferred":[
         "\u0a87\u0ab8\u0acd\u0a9f\u0ab0\u0acd\u0aa8 \u0aa1\u0abf\u0ab5\u0abf\u0a9d\u0aa8"
@@ -92,6 +80,9 @@
     "name:kan_x_preferred":[
         "\u0caa\u0cc2\u0cb0\u0ccd\u0cb5 \u0cb5\u0cbf\u0cad\u0cbe\u0c97"
     ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10e6\u10db\u10dd\u10e1\u10d0\u10d5\u10da\u10d4\u10d7\u10d8\u10e1 \u10dd\u10da\u10e5\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ub3d9\ubd80 \uc9c0\ubc29"
     ],
@@ -104,7 +95,7 @@
     "name:mar_x_preferred":[
         "\u0908\u0938\u094d\u091f\u0930\u094d\u0928 \u0921\u093f\u0935\u094d\u0939\u093f\u091c\u0928"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Eastern Division"
     ],
     "name:nld_x_preferred":[
@@ -289,7 +280,7 @@
         "hif",
         "fij"
     ],
-    "wof:lastmodified":1553814770,
+    "wof:lastmodified":1561830514,
     "wof:name":"Eastern",
     "wof:parent_id":85632755,
     "wof:placetype":"region",

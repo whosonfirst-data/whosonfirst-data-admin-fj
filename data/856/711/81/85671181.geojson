@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.56048,
-    "geom:area_square_m":6601107121.711394,
+    "geom:area_square_m":6601107121.710375,
     "geom:bbox":"174.5888778,-21.7111141912,178.448622268,-16.6768531231",
     "geom:latitude":-17.731542,
     "geom:longitude":177.763521,
@@ -33,14 +33,14 @@
     "name:cat_x_preferred":[
         "Divisi\u00f3 Oest"
     ],
-    "name:chi_x_preferred":[
-        "\u897f\u90e8\u5927\u533a"
-    ],
     "name:dan_x_preferred":[
         "Western Division"
     ],
-    "name:dut_x_preferred":[
-        "Western"
+    "name:deu_x_preferred":[
+        "Western Division"
+    ],
+    "name:ell_x_preferred":[
+        "\u0393\u03bf\u03c5\u03ad\u03c3\u03c4\u03b5\u03c1\u03bd \u039d\u03c4\u03b9\u03b2\u03af\u03b6\u03b9\u03bf\u03bd"
     ],
     "name:eng_x_preferred":[
         "Western"
@@ -54,20 +54,8 @@
     "name:fra_x_preferred":[
         "Division occidentale"
     ],
-    "name:fre_x_preferred":[
-        "Division occidentale"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d3\u10d0\u10e1\u10d0\u10d5\u10da\u10d4\u10d7\u10d8\u10e1 \u10dd\u10da\u10e5\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Western Division"
-    ],
     "name:glg_x_preferred":[
         "Divisi\u00f3n Occidental"
-    ],
-    "name:gre_x_preferred":[
-        "\u0393\u03bf\u03c5\u03ad\u03c3\u03c4\u03b5\u03c1\u03bd \u039d\u03c4\u03b9\u03b2\u03af\u03b6\u03b9\u03bf\u03bd"
     ],
     "name:guj_x_preferred":[
         "\u0ab5\u0ac7\u0ab8\u0acd\u0a9f\u0ab0\u0acd\u0aa8 \u0aa1\u0abf\u0ab5\u0abf\u0a9d\u0aa8"
@@ -105,7 +93,7 @@
     "name:mar_x_preferred":[
         "\u0935\u0947\u0938\u094d\u091f\u0930\u094d\u0928 \u0921\u093f\u0935\u094d\u0939\u093f\u091c\u0928"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Western Division"
     ],
     "name:nld_x_preferred":[
@@ -285,7 +273,7 @@
         "hif",
         "fij"
     ],
-    "wof:lastmodified":1553814770,
+    "wof:lastmodified":1561830515,
     "wof:name":"Western",
     "wof:parent_id":85632755,
     "wof:placetype":"region",

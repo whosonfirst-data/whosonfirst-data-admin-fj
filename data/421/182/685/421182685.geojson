@@ -23,13 +23,7 @@
     "name:ceb_x_preferred":[
         "Lambasa"
     ],
-    "name:chi_x_preferred":[
-        "\u62c9\u5df4\u8428"
-    ],
     "name:deu_x_preferred":[
-        "Labasa"
-    ],
-    "name:dut_x_preferred":[
         "Labasa"
     ],
     "name:eng_x_preferred":[
@@ -42,12 +36,6 @@
         "Labasa"
     ],
     "name:fra_x_preferred":[
-        "Labasa"
-    ],
-    "name:fre_x_preferred":[
-        "Labasa"
-    ],
-    "name:ger_x_preferred":[
         "Labasa"
     ],
     "name:heb_x_preferred":[
@@ -247,7 +235,7 @@
         }
     ],
     "wof:id":421182685,
-    "wof:lastmodified":1527726457,
+    "wof:lastmodified":1561830522,
     "wof:name":"Lambase",
     "wof:parent_id":85671179,
     "wof:placetype":"locality",
