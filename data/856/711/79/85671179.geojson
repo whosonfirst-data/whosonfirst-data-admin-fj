@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.537998,
-    "geom:area_square_m":1055337976126.932739,
+    "geom:area_square_m":1055337976126.958496,
     "geom:bbox":"-180.0,-17.0070126274,180.0,-15.7111955711",
     "geom:latitude":-16.610172,
     "geom:longitude":155.445543,
@@ -33,14 +33,14 @@
     "name:cat_x_preferred":[
         "Divisi\u00f3 Nord"
     ],
-    "name:chi_x_preferred":[
-        "\u5317\u90e8\u5927\u533a"
-    ],
     "name:dan_x_preferred":[
         "Northern Division"
     ],
-    "name:dut_x_preferred":[
-        "Northern"
+    "name:deu_x_preferred":[
+        "Northern Division"
+    ],
+    "name:ell_x_preferred":[
+        "\u0392\u03cc\u03c1\u03b5\u03b9\u03bf \u03a4\u03bc\u03ae\u03bc\u03b1"
     ],
     "name:eng_x_preferred":[
         "Northern"
@@ -54,20 +54,8 @@
     "name:fra_x_preferred":[
         "Division septentrionale"
     ],
-    "name:fre_x_preferred":[
-        "Division septentrionale"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e9\u10e0\u10d3\u10d8\u10da\u10dd\u10d4\u10d7\u10d8\u10e1 \u10dd\u10da\u10e5\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Northern Division"
-    ],
     "name:glg_x_preferred":[
         "Divisi\u00f3n Norte"
-    ],
-    "name:gre_x_preferred":[
-        "\u0392\u03cc\u03c1\u03b5\u03b9\u03bf \u03a4\u03bc\u03ae\u03bc\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0aa8\u0aa7\u0ab0\u0acd\u0aa8 \u0aa1\u0abf\u0ab5\u0abf\u0a9c\u0aa8"
@@ -90,6 +78,9 @@
     "name:kan_x_preferred":[
         "\u0c89\u0ca4\u0ccd\u0ca4\u0cb0 \u0cb5\u0cbf\u0cad\u0cbe\u0c97"
     ],
+    "name:kat_x_preferred":[
+        "\u10e9\u10e0\u10d3\u10d8\u10da\u10dd\u10d4\u10d7\u10d8\u10e1 \u10dd\u10da\u10e5\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ubd81\ubd80 \uc9c0\ubc29"
     ],
@@ -102,7 +93,7 @@
     "name:mar_x_preferred":[
         "\u0909\u0924\u094d\u0924\u0930 \u0921\u093f\u0935\u094d\u0939\u093f\u091c\u0928"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Northern Division"
     ],
     "name:nld_x_preferred":[
@@ -285,7 +276,7 @@
         "hif",
         "fij"
     ],
-    "wof:lastmodified":1553814770,
+    "wof:lastmodified":1561830515,
     "wof:name":"Northern",
     "wof:parent_id":85632755,
     "wof:placetype":"region",

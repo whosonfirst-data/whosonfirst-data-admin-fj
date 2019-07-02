@@ -128,9 +128,6 @@
     "name:cym_x_variant":[
         "Fiji"
     ],
-    "name:cze_x_preferred":[
-        "Fid\u017ei"
-    ],
     "name:dan_x_preferred":[
         "Fiji"
     ],
@@ -871,7 +868,7 @@
         "hif",
         "fij"
     ],
-    "wof:lastmodified":1544059166,
+    "wof:lastmodified":1561830513,
     "wof:name":"Fiji",
     "wof:parent_id":102191583,
     "wof:placetype":"country",

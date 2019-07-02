@@ -19,10 +19,10 @@
     "name:cat_x_preferred":[
         "Ba"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Ba"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Ba"
     ],
     "name:ell_x_preferred":[
@@ -37,14 +37,8 @@
     "name:fij_x_preferred":[
         "Ba"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Ba"
-    ],
-    "name:ger_x_preferred":[
-        "Ba"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03b1"
     ],
     "name:hif_x_preferred":[
         "Ba"
@@ -66,6 +60,9 @@
     ],
     "name:nep_x_preferred":[
         "\u092c\u093e"
+    ],
+    "name:nld_x_preferred":[
+        "Ba"
     ],
     "name:oci_x_preferred":[
         "Ba"
@@ -133,7 +130,7 @@
         }
     ],
     "wof:id":421179643,
-    "wof:lastmodified":1553816369,
+    "wof:lastmodified":1561830522,
     "wof:name":"Ba",
     "wof:parent_id":85671181,
     "wof:placetype":"locality",
