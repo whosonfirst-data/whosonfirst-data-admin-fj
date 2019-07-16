@@ -16,6 +16,9 @@
     "name:cat_x_preferred":[
         "Sigatoka"
     ],
+    "name:ceb_x_preferred":[
+        "Sigatoka"
+    ],
     "name:deu_x_preferred":[
         "Sigatoka"
     ],
@@ -51,6 +54,9 @@
     ],
     "name:pol_x_preferred":[
         "Sigatoka"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0438\u043d\u0433\u0430\u0442\u043e\u043a\u0430"
     ],
     "name:swe_x_preferred":[
         "Sigatoka"
@@ -105,7 +111,7 @@
         }
     ],
     "wof:id":421174047,
-    "wof:lastmodified":1561830522,
+    "wof:lastmodified":1563288833,
     "wof:name":"Singatoka",
     "wof:parent_id":85671181,
     "wof:placetype":"locality",

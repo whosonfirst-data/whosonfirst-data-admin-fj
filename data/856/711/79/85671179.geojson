@@ -27,11 +27,17 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0634\u0639\u0628\u0629 \u0627\u0644\u0634\u0645\u0627\u0644\u064a\u0629"
     ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0642\u0633\u0645 \u0627\u0644\u0634\u0645\u0627\u0644\u064a"
+    ],
     "name:ben_x_preferred":[
         "\u09a8\u09b0\u09cd\u09a6\u09be\u09a8 \u09a1\u09bf\u09ad\u09bf\u09b6\u09a8"
     ],
     "name:cat_x_preferred":[
         "Divisi\u00f3 Nord"
+    ],
+    "name:ceb_x_preferred":[
+        "Northern Division"
     ],
     "name:dan_x_preferred":[
         "Northern Division"
@@ -45,6 +51,12 @@
     "name:eng_x_preferred":[
         "Northern"
     ],
+    "name:eng_x_variant":[
+        "Northern Division"
+    ],
+    "name:epo_x_preferred":[
+        "Norda Divida\u0135o"
+    ],
     "name:fij_x_preferred":[
         "Northern Division"
     ],
@@ -53,6 +65,9 @@
     ],
     "name:fra_x_preferred":[
         "Division septentrionale"
+    ],
+    "name:fra_x_variant":[
+        "division septentrionale"
     ],
     "name:glg_x_preferred":[
         "Divisi\u00f3n Norte"
@@ -72,6 +87,9 @@
     "name:ita_x_preferred":[
         "Divisione Nord"
     ],
+    "name:ita_x_variant":[
+        "divisione Nord"
+    ],
     "name:jpn_x_preferred":[
         "\u5317\u90e8\u5730\u57df"
     ],
@@ -83,6 +101,9 @@
     ],
     "name:kor_x_preferred":[
         "\ubd81\ubd80 \uc9c0\ubc29"
+    ],
+    "name:kor_x_variant":[
+        "\ubd81\ubd80\uad6c"
     ],
     "name:lav_x_preferred":[
         "Zieme\u013cu apgabals"
@@ -276,7 +297,7 @@
         "hif",
         "fij"
     ],
-    "wof:lastmodified":1561830515,
+    "wof:lastmodified":1563288674,
     "wof:name":"Northern",
     "wof:parent_id":85632755,
     "wof:placetype":"region",
