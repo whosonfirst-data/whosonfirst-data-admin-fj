@@ -35,6 +35,9 @@
     "name:aze_x_preferred":[
         "Suva"
     ],
+    "name:bak_x_preferred":[
+        "\u0421\u0443\u0432\u0430"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0421\u0443\u0432\u0430"
     ],
@@ -116,6 +119,9 @@
     "name:glg_x_preferred":[
         "Suva"
     ],
+    "name:grn_x_preferred":[
+        "Suva"
+    ],
     "name:guj_x_preferred":[
         "\u0ab8\u0ac1\u0ab5\u0abe"
     ],
@@ -155,6 +161,9 @@
     "name:ile_x_preferred":[
         "Suva"
     ],
+    "name:ina_x_preferred":[
+        "Suva"
+    ],
     "name:ind_x_preferred":[
         "Suva"
     ],
@@ -185,11 +194,17 @@
     "name:lav_x_preferred":[
         "Suva"
     ],
+    "name:lij_x_preferred":[
+        "Suva"
+    ],
     "name:lit_x_preferred":[
         "Suva"
     ],
     "name:lmo_x_preferred":[
         "Suva"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d38\u0d41\u0d35"
     ],
     "name:mar_x_preferred":[
         "\u0938\u0941\u0935\u093e"
@@ -489,7 +504,7 @@
         }
     ],
     "wof:id":421188977,
-    "wof:lastmodified":1561830522,
+    "wof:lastmodified":1563288835,
     "wof:name":"Suva",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

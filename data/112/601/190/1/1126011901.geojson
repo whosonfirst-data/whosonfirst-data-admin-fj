@@ -28,6 +28,9 @@
     "name:bul_x_preferred":[
         "\u041b\u0430\u0443\u0442\u043e\u043a\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Lautoka"
+    ],
     "name:ces_x_preferred":[
         "Lautoka"
     ],
@@ -194,7 +197,7 @@
         }
     ],
     "wof:id":1126011901,
-    "wof:lastmodified":1561830523,
+    "wof:lastmodified":1563288839,
     "wof:name":"Lautoka",
     "wof:parent_id":85671181,
     "wof:placetype":"locality",

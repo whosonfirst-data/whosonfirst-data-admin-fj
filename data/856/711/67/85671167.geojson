@@ -27,11 +27,17 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0642\u0633\u0645 \u0627\u0644\u0645\u0631\u0643\u0632\u064a"
     ],
+    "name:ast_x_preferred":[
+        "Divisi\u00f3n Central"
+    ],
     "name:ben_x_preferred":[
         "\u09b8\u09c7\u09a8\u09cd\u099f\u09cd\u09b0\u09be\u09b2 \u09a1\u09bf\u09ad\u09bf\u09b6\u09a8"
     ],
     "name:cat_x_preferred":[
         "Divisi\u00f3 Central"
+    ],
+    "name:ceb_x_preferred":[
+        "Central Division"
     ],
     "name:dan_x_preferred":[
         "Central Division"
@@ -45,6 +51,12 @@
     "name:eng_x_preferred":[
         "Central"
     ],
+    "name:eng_x_variant":[
+        "Central Division"
+    ],
+    "name:epo_x_preferred":[
+        "Centra Divida\u0135o"
+    ],
     "name:fij_x_preferred":[
         "Central Division"
     ],
@@ -53,6 +65,9 @@
     ],
     "name:fra_x_preferred":[
         "Division centrale"
+    ],
+    "name:fra_x_variant":[
+        "division centrale"
     ],
     "name:glg_x_preferred":[
         "Divisi\u00f3n Central"
@@ -72,6 +87,9 @@
     "name:ita_x_preferred":[
         "Divisione Centrale"
     ],
+    "name:ita_x_variant":[
+        "divisione Centrale"
+    ],
     "name:jpn_x_preferred":[
         "\u4e2d\u592e\u5730\u57df"
     ],
@@ -83,6 +101,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc911\ubd80 \uc9c0\ubc29"
+    ],
+    "name:kor_x_variant":[
+        "\uc911\ubd80\uad6c"
     ],
     "name:lav_x_preferred":[
         "Centr\u0101lais apgabals"
@@ -276,7 +297,7 @@
         "hif",
         "fij"
     ],
-    "wof:lastmodified":1561830514,
+    "wof:lastmodified":1563288672,
     "wof:name":"Central",
     "wof:parent_id":85632755,
     "wof:placetype":"region",

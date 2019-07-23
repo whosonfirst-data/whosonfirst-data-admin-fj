@@ -33,6 +33,9 @@
     "name:cat_x_preferred":[
         "Divisi\u00f3 Oest"
     ],
+    "name:ceb_x_preferred":[
+        "Western Division"
+    ],
     "name:dan_x_preferred":[
         "Western Division"
     ],
@@ -45,6 +48,12 @@
     "name:eng_x_preferred":[
         "Western"
     ],
+    "name:eng_x_variant":[
+        "Western Division"
+    ],
+    "name:epo_x_preferred":[
+        "Okcidenta Divida\u0135o"
+    ],
     "name:fij_x_preferred":[
         "Western Division"
     ],
@@ -53,6 +62,9 @@
     ],
     "name:fra_x_preferred":[
         "Division occidentale"
+    ],
+    "name:fra_x_variant":[
+        "division occidentale"
     ],
     "name:glg_x_preferred":[
         "Divisi\u00f3n Occidental"
@@ -72,6 +84,9 @@
     "name:ita_x_preferred":[
         "Divisione Occidentale"
     ],
+    "name:ita_x_variant":[
+        "divisione Occidentale"
+    ],
     "name:jpn_x_preferred":[
         "\u897f\u90e8\u5730\u57df"
     ],
@@ -83,6 +98,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc11c\ubd80 \uc9c0\ubc29"
+    ],
+    "name:kor_x_variant":[
+        "\uc11c\ubd80\uad6c"
     ],
     "name:lav_x_preferred":[
         "Rietumu apgabals"
@@ -273,7 +291,7 @@
         "hif",
         "fij"
     ],
-    "wof:lastmodified":1561830515,
+    "wof:lastmodified":1563288673,
     "wof:name":"Western",
     "wof:parent_id":85632755,
     "wof:placetype":"region",

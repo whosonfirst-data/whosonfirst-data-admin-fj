@@ -29,11 +29,17 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0642\u0633\u0645 \u0627\u0644\u0634\u0631\u0642\u064a\u060c \u0641\u064a\u062c\u064a"
     ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0642\u0633\u0645 \u0627\u0644\u0634\u0631\u0642\u064a"
+    ],
     "name:ben_x_preferred":[
         "\u0987\u09b8\u09cd\u099f\u09be\u09b0\u09cd\u09a8 \u09a1\u09bf\u09ad\u09bf\u09b6\u09a8"
     ],
     "name:cat_x_preferred":[
         "Divisi\u00f3 Est"
+    ],
+    "name:ceb_x_preferred":[
+        "Eastern Division"
     ],
     "name:dan_x_preferred":[
         "Eastern Division"
@@ -46,6 +52,12 @@
     ],
     "name:eng_x_preferred":[
         "Eastern"
+    ],
+    "name:eng_x_variant":[
+        "Eastern Division"
+    ],
+    "name:epo_x_preferred":[
+        "Orienta Divida\u0135o"
     ],
     "name:fij_x_preferred":[
         "Eastern Division"
@@ -74,6 +86,9 @@
     "name:ita_x_preferred":[
         "Divisione Orientale"
     ],
+    "name:ita_x_variant":[
+        "divisione Orientale"
+    ],
     "name:jpn_x_preferred":[
         "\u6771\u90e8\u5730\u57df"
     ],
@@ -85,6 +100,9 @@
     ],
     "name:kor_x_preferred":[
         "\ub3d9\ubd80 \uc9c0\ubc29"
+    ],
+    "name:kor_x_variant":[
+        "\ub3d9\ubd80\uad6c"
     ],
     "name:lav_x_preferred":[
         "Austrumu apgabals"
@@ -280,7 +298,7 @@
         "hif",
         "fij"
     ],
-    "wof:lastmodified":1561830514,
+    "wof:lastmodified":1563288672,
     "wof:name":"Eastern",
     "wof:parent_id":85632755,
     "wof:placetype":"region",

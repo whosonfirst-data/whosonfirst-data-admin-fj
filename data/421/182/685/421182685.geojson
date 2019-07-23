@@ -59,6 +59,9 @@
     "name:kor_x_preferred":[
         "\ub77c\ubc14\uc0ac"
     ],
+    "name:kor_x_variant":[
+        "\ub78c\ubc14\uc0ac"
+    ],
     "name:lit_x_preferred":[
         "Labasa"
     ],
@@ -76,6 +79,9 @@
     ],
     "name:por_x_preferred":[
         "Labasa"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0430\u043c\u0431\u0430\u0441\u0430"
     ],
     "name:san_x_preferred":[
         "\u0932\u092c\u0938"
@@ -235,7 +241,7 @@
         }
     ],
     "wof:id":421182685,
-    "wof:lastmodified":1561830522,
+    "wof:lastmodified":1563288837,
     "wof:name":"Lambase",
     "wof:parent_id":85671179,
     "wof:placetype":"locality",
