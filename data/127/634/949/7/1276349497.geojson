@@ -26,11 +26,32 @@
     "iso:country":"FJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041d\u0430\u0432\u0456\u043a\u0443\u043b\u0430"
+    ],
+    "name:deu_x_preferred":[
+        "Navicula"
+    ],
     "name:fij_x_preferred":[
         "Navicula"
     ],
     "name:fij_x_variant":[
         "Naivithula"
+    ],
+    "name:ind_x_preferred":[
+        "Navicula"
+    ],
+    "name:nld_x_preferred":[
+        "Navicula"
+    ],
+    "name:pol_x_preferred":[
+        "Navicula"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0430\u0432\u0438\u043a\u0443\u043b\u0430"
+    ],
+    "name:zho_x_preferred":[
+        "\u821f\u5f62\u85fb\u5c6c"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -53,7 +74,7 @@
         }
     ],
     "wof:id":1276349497,
-    "wof:lastmodified":1537622405,
+    "wof:lastmodified":1564105633,
     "wof:name":"Navicula",
     "wof:parent_id":85671167,
     "wof:placetype":"locality",

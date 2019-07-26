@@ -25,8 +25,35 @@
     "iso:country":"FJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Bukama"
+    ],
     "name:eng_x_preferred":[
         "Bukama"
+    ],
+    "name:fra_x_preferred":[
+        "Bukama"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d5\u05e7\u05de\u05d4"
+    ],
+    "name:ita_x_preferred":[
+        "Bukama"
+    ],
+    "name:pol_x_preferred":[
+        "Bukama"
+    ],
+    "name:ron_x_preferred":[
+        "Bukama"
+    ],
+    "name:swe_x_preferred":[
+        "Bukama"
+    ],
+    "name:tgl_x_preferred":[
+        "Bukama"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e03\u5361\u99ac"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -48,7 +75,7 @@
         }
     ],
     "wof:id":1293005627,
-    "wof:lastmodified":1537622410,
+    "wof:lastmodified":1564105576,
     "wof:name":"Bukama",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

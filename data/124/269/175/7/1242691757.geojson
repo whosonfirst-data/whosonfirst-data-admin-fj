@@ -32,6 +32,9 @@
     "name:fij_x_variant":[
         "Mburembasanga"
     ],
+    "name:fra_x_preferred":[
+        "Conf\u00e9d\u00e9ration Burebasaga"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
@@ -53,7 +56,7 @@
         }
     ],
     "wof:id":1242691757,
-    "wof:lastmodified":1537622410,
+    "wof:lastmodified":1564105780,
     "wof:name":"Burebasaga",
     "wof:parent_id":85671167,
     "wof:placetype":"locality",

@@ -25,7 +25,16 @@
     "iso:country":"FJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Matai"
+    ],
+    "name:deu_x_preferred":[
+        "Matai"
+    ],
     "name:fij_x_preferred":[
+        "Matai"
+    ],
+    "name:swe_x_preferred":[
         "Matai"
     ],
     "src:geom":"geonames",
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1310309191,
-    "wof:lastmodified":1537622414,
+    "wof:lastmodified":1564105726,
     "wof:name":"Matai",
     "wof:parent_id":85671167,
     "wof:placetype":"locality",

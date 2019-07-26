@@ -25,7 +25,22 @@
     "iso:country":"FJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Sumi"
+    ],
+    "name:deu_x_preferred":[
+        "Sumi"
+    ],
     "name:fij_x_preferred":[
+        "Sumi"
+    ],
+    "name:fra_x_preferred":[
+        "Sumi"
+    ],
+    "name:ita_x_preferred":[
+        "Sumi"
+    ],
+    "name:swe_x_preferred":[
         "Sumi"
     ],
     "src:geom":"geonames",
@@ -45,7 +60,7 @@
         }
     ],
     "wof:id":1209515899,
-    "wof:lastmodified":1537622370,
+    "wof:lastmodified":1564105679,
     "wof:name":"Sumi",
     "wof:parent_id":85632755,
     "wof:placetype":"locality",

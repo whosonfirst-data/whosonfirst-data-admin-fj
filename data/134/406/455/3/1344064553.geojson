@@ -26,7 +26,22 @@
     "iso:country":"FJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ast_x_preferred":[
+        "Nakama"
+    ],
     "name:fij_x_preferred":[
+        "Nakama"
+    ],
+    "name:fra_x_preferred":[
+        "Nakama"
+    ],
+    "name:kor_x_preferred":[
+        "\ub098\uce74\ub9c8"
+    ],
+    "name:mlg_x_preferred":[
+        "Nakama"
+    ],
+    "name:spa_x_preferred":[
         "Nakama"
     ],
     "src:geom":"geonames",
@@ -50,7 +65,7 @@
         }
     ],
     "wof:id":1344064553,
-    "wof:lastmodified":1537622405,
+    "wof:lastmodified":1564105547,
     "wof:name":"Nakama",
     "wof:parent_id":85671179,
     "wof:placetype":"locality",

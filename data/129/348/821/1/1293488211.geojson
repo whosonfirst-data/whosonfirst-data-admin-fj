@@ -28,6 +28,12 @@
     "name:fij_x_preferred":[
         "Ahai"
     ],
+    "name:heb_x_preferred":[
+        "\u05e8\u05d1 \u05d0\u05d7\u05d0\u05d9"
+    ],
+    "name:spa_x_preferred":[
+        "Ahai"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":1293488211,
-    "wof:lastmodified":1537622427,
+    "wof:lastmodified":1564105586,
     "wof:name":"Ahai",
     "wof:parent_id":85671185,
     "wof:placetype":"locality",

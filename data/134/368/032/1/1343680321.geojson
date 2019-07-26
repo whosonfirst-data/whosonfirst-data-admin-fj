@@ -29,6 +29,12 @@
     "name:fij_x_preferred":[
         "Tubou"
     ],
+    "name:fra_x_preferred":[
+        "Tubou"
+    ],
+    "name:nld_x_preferred":[
+        "Tubou"
+    ],
     "name:und_x_variant":[
         "Toumbo",
         "Tumbou"
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1343680321,
-    "wof:lastmodified":1537622423,
+    "wof:lastmodified":1564105557,
     "wof:name":"Tubou",
     "wof:parent_id":85671173,
     "wof:placetype":"locality",

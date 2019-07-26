@@ -26,8 +26,32 @@
     "iso:country":"FJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Vatoa"
+    ],
+    "name:deu_x_preferred":[
+        "Vatoa"
+    ],
     "name:fij_x_preferred":[
         "Vatoa"
+    ],
+    "name:hif_x_preferred":[
+        "Vatoa"
+    ],
+    "name:nld_x_preferred":[
+        "Vatoa"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u0442\u043e\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Vatoa"
+    ],
+    "name:swe_x_preferred":[
+        "Vatoa"
+    ],
+    "name:zho_x_preferred":[
+        "\u74e6\u6258\u963f\u5cf6"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -50,7 +74,7 @@
         }
     ],
     "wof:id":1293606617,
-    "wof:lastmodified":1537622364,
+    "wof:lastmodified":1564105602,
     "wof:name":"Vatoa",
     "wof:parent_id":85671167,
     "wof:placetype":"locality",

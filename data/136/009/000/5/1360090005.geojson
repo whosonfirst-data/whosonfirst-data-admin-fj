@@ -29,6 +29,9 @@
     "name:fij_x_preferred":[
         "Soa"
     ],
+    "name:swe_x_preferred":[
+        "Soa"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":1360090005,
-    "wof:lastmodified":1537622371,
+    "wof:lastmodified":1564105743,
     "wof:name":"Soa",
     "wof:parent_id":85671167,
     "wof:placetype":"locality",

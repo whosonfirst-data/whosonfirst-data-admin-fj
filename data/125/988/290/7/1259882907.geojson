@@ -26,12 +26,30 @@
     "iso:country":"FJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Bulia"
+    ],
     "name:fij_x_preferred":[
+        "Bulia"
+    ],
+    "name:por_x_preferred":[
+        "Bulia"
+    ],
+    "name:spa_x_preferred":[
+        "Bulia"
+    ],
+    "name:swe_x_preferred":[
         "Bulia"
     ],
     "name:und_x_variant":[
         "Mbulia",
         "Mbuliya"
+    ],
+    "name:vie_x_preferred":[
+        "Bulia"
+    ],
+    "name:war_x_preferred":[
+        "Bulia"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[],
@@ -50,7 +68,7 @@
         }
     ],
     "wof:id":1259882907,
-    "wof:lastmodified":1537622410,
+    "wof:lastmodified":1564105822,
     "wof:name":"Bulia",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

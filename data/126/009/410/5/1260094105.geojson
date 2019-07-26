@@ -29,6 +29,9 @@
     "name:eng_x_preferred":[
         "Pacific Harbour"
     ],
+    "name:pol_x_preferred":[
+        "Pacific Harbour"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":1260094105,
-    "wof:lastmodified":1537622427,
+    "wof:lastmodified":1564105707,
     "wof:name":"Pacific Harbour",
     "wof:parent_id":85671167,
     "wof:placetype":"locality",

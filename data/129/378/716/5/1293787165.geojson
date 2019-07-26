@@ -29,6 +29,12 @@
     "name:fij_x_preferred":[
         "Nabukelevu"
     ],
+    "name:fra_x_preferred":[
+        "Nabukelevu"
+    ],
+    "name:slk_x_preferred":[
+        "Nabukelevu"
+    ],
     "name:und_x_variant":[
         "Mbuke Levuira",
         "Nambukelevuira"
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1293787165,
-    "wof:lastmodified":1537622399,
+    "wof:lastmodified":1564105592,
     "wof:name":"Nabukelevu",
     "wof:parent_id":85671173,
     "wof:placetype":"locality",
