@@ -29,6 +29,18 @@
     "name:fij_x_preferred":[
         "Nukunuku"
     ],
+    "name:ita_x_preferred":[
+        "Nukunuku"
+    ],
+    "name:pol_x_preferred":[
+        "Nukunuku"
+    ],
+    "name:por_x_preferred":[
+        "Nukunuku"
+    ],
+    "name:ton_x_preferred":[
+        "Nukunuku"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
@@ -50,7 +62,7 @@
         }
     ],
     "wof:id":1242686809,
-    "wof:lastmodified":1537622375,
+    "wof:lastmodified":1564105775,
     "wof:name":"Nukunuku",
     "wof:parent_id":85671173,
     "wof:placetype":"locality",

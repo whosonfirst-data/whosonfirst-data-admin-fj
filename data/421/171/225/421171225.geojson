@@ -19,8 +19,14 @@
     "name:fij_x_preferred":[
         "Tavua"
     ],
+    "name:fra_x_preferred":[
+        "Tavua"
+    ],
     "name:hif_x_preferred":[
         "Tavua"
+    ],
+    "name:hin_x_preferred":[
+        "\u0924\u093e\u0935\u0941\u0906"
     ],
     "name:jpn_x_preferred":[
         "\u30bf\u30d6\u30a2"
@@ -30,6 +36,9 @@
     ],
     "name:pol_x_preferred":[
         "Tavua"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u0432\u0443\u0430"
     ],
     "name:tam_x_preferred":[
         "\u0ba4\u0bb5\u0bc1\u0bb5\u0bbe"
@@ -83,7 +92,7 @@
         }
     ],
     "wof:id":421171225,
-    "wof:lastmodified":1527726495,
+    "wof:lastmodified":1564105764,
     "wof:name":"Tavua",
     "wof:parent_id":85671181,
     "wof:placetype":"locality",

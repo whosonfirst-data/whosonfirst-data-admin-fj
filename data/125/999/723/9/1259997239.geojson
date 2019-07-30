@@ -26,8 +26,68 @@
     "iso:country":"FJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u0632\u064a\u0631\u0629 \u0633\u0627\u0641\u0648"
+    ],
+    "name:aze_x_preferred":[
+        "Savu adas\u0131"
+    ],
+    "name:bel_x_preferred":[
+        "\u0421\u0430\u0432\u0443"
+    ],
+    "name:ceb_x_preferred":[
+        "Savu Island"
+    ],
+    "name:deu_x_preferred":[
+        "Sawu"
+    ],
+    "name:eus_x_preferred":[
+        "Savu"
+    ],
     "name:fij_x_preferred":[
         "Savu"
+    ],
+    "name:fra_x_preferred":[
+        "Savu"
+    ],
+    "name:ilo_x_preferred":[
+        "Savu"
+    ],
+    "name:ind_x_preferred":[
+        "Pulau Sawu"
+    ],
+    "name:ita_x_preferred":[
+        "Savu"
+    ],
+    "name:jav_x_preferred":[
+        "Pulo Sawu"
+    ],
+    "name:mrj_x_preferred":[
+        "\u0421\u0430\u0432\u0443 \u043e\u0448\u043c\u0430\u043e\u0442\u044b"
+    ],
+    "name:nld_x_preferred":[
+        "Savoe"
+    ],
+    "name:pol_x_preferred":[
+        "Sawu"
+    ],
+    "name:por_x_preferred":[
+        "Savu"
+    ],
+    "name:ron_x_preferred":[
+        "Savu"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u0432\u0443"
+    ],
+    "name:swe_x_preferred":[
+        "Savu Island"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e01\u0e32\u0e30\u0e0b\u0e32\u0e27\u0e39"
+    ],
+    "name:zho_x_preferred":[
+        "\u85a9\u6b66\u7fa4\u5cf6"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -50,7 +110,7 @@
         }
     ],
     "wof:id":1259997239,
-    "wof:lastmodified":1537622372,
+    "wof:lastmodified":1564105804,
     "wof:name":"Savu",
     "wof:parent_id":85671167,
     "wof:placetype":"locality",

@@ -29,6 +29,9 @@
     "name:fij_x_preferred":[
         "Nabua"
     ],
+    "name:spa_x_preferred":[
+        "Nabua"
+    ],
     "name:und_x_variant":[
         "Nambuna",
         "Nambua"
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1209733315,
-    "wof:lastmodified":1537622399,
+    "wof:lastmodified":1564105684,
     "wof:name":"Nabua",
     "wof:parent_id":85671167,
     "wof:placetype":"locality",

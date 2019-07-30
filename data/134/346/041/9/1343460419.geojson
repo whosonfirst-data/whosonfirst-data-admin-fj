@@ -32,6 +32,9 @@
     "name:fij_x_variant":[
         "Nambua"
     ],
+    "name:spa_x_preferred":[
+        "Nabua"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1343460419,
-    "wof:lastmodified":1537622399,
+    "wof:lastmodified":1564105549,
     "wof:name":"Nabua",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

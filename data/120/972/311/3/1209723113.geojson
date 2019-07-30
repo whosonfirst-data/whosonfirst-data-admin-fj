@@ -25,6 +25,15 @@
     "iso:country":"FJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0648\u0645\u0648\u0633\u0648\u0645\u0648"
+    ],
+    "name:deu_x_preferred":[
+        "Somosomo"
+    ],
+    "name:fij_x_preferred":[
+        "Somosomo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
@@ -47,7 +56,7 @@
         }
     ],
     "wof:id":1209723113,
-    "wof:lastmodified":1537562817,
+    "wof:lastmodified":1564105693,
     "wof:name":"Somosomo",
     "wof:parent_id":85671179,
     "wof:placetype":"locality",

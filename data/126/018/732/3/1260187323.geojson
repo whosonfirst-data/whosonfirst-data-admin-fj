@@ -29,6 +29,9 @@
     "name:fij_x_preferred":[
         "Bukuya"
     ],
+    "name:lug_x_preferred":[
+        "Bukuya"
+    ],
     "name:und_x_variant":[
         "Mbukuya"
     ],
@@ -53,7 +56,7 @@
         }
     ],
     "wof:id":1260187323,
-    "wof:lastmodified":1537622410,
+    "wof:lastmodified":1564105711,
     "wof:name":"Bukuya",
     "wof:parent_id":85671181,
     "wof:placetype":"locality",

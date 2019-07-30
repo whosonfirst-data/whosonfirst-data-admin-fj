@@ -26,7 +26,19 @@
     "iso:country":"FJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Sese"
+    ],
+    "name:deu_x_preferred":[
+        "Sese"
+    ],
     "name:fij_x_preferred":[
+        "Sese"
+    ],
+    "name:ita_x_preferred":[
+        "Sese"
+    ],
+    "name:swe_x_preferred":[
         "Sese"
     ],
     "src:geom":"geonames",
@@ -50,7 +62,7 @@
         }
     ],
     "wof:id":1193027695,
-    "wof:lastmodified":1537622371,
+    "wof:lastmodified":1564105704,
     "wof:name":"Sese",
     "wof:parent_id":85671179,
     "wof:placetype":"locality",

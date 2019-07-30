@@ -32,6 +32,12 @@
     "name:fij_x_variant":[
         "Yanutha"
     ],
+    "name:fra_x_preferred":[
+        "Yanuca"
+    ],
+    "name:hif_x_preferred":[
+        "Yanuca"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[],
     "wof:breaches":[],
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":1193023375,
-    "wof:lastmodified":1537622422,
+    "wof:lastmodified":1564105703,
     "wof:name":"Yanuca",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

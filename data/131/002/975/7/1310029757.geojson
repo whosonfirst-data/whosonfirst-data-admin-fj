@@ -25,6 +25,9 @@
     "iso:country":"FJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Motusa"
+    ],
     "name:und_x_variant":[
         "Ituteu",
         "Motusa"
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1310029757,
-    "wof:lastmodified":1537622409,
+    "wof:lastmodified":1564105739,
     "wof:name":"Motusa",
     "wof:parent_id":85671185,
     "wof:placetype":"locality",

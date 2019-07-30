@@ -29,6 +29,9 @@
     "name:fij_x_preferred":[
         "Markaz"
     ],
+    "name:uzb_x_preferred":[
+        "Markaz"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":1326552879,
-    "wof:lastmodified":1537622431,
+    "wof:lastmodified":1564105527,
     "wof:name":"Markaz",
     "wof:parent_id":85671181,
     "wof:placetype":"locality",

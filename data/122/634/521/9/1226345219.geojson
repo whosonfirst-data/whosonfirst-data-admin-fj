@@ -26,7 +26,16 @@
     "iso:country":"FJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Manuka"
+    ],
     "name:fij_x_preferred":[
+        "Manuka"
+    ],
+    "name:swe_x_preferred":[
+        "Manuka"
+    ],
+    "name:ton_x_preferred":[
         "Manuka"
     ],
     "name:und_x_variant":[
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1226345219,
-    "wof:lastmodified":1537622414,
+    "wof:lastmodified":1564105831,
     "wof:name":"Manuka",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

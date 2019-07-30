@@ -26,7 +26,16 @@
     "iso:country":"FJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Toko"
+    ],
     "name:fij_x_preferred":[
+        "Toko"
+    ],
+    "name:fra_x_preferred":[
+        "Toko"
+    ],
+    "name:mri_x_preferred":[
         "Toko"
     ],
     "src:geom":"geonames",
@@ -50,7 +59,7 @@
         }
     ],
     "wof:id":1360008575,
-    "wof:lastmodified":1537622367,
+    "wof:lastmodified":1564105741,
     "wof:name":"Toko",
     "wof:parent_id":85671181,
     "wof:placetype":"locality",

@@ -26,8 +26,14 @@
     "iso:country":"FJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:pnb_x_preferred":[
+        "\u0688\u06af\u0627\u0626"
+    ],
     "name:und_x_variant":[
         "Ndangai"
+    ],
+    "name:urd_x_preferred":[
+        "\u062f\u06af\u0626\u06cc"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -50,7 +56,7 @@
         }
     ],
     "wof:id":1326638625,
-    "wof:lastmodified":1537622380,
+    "wof:lastmodified":1564105530,
     "wof:name":"Dagai",
     "wof:parent_id":85671173,
     "wof:placetype":"locality",

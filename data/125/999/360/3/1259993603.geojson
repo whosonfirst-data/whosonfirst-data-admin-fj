@@ -26,6 +26,9 @@
     "iso:country":"FJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Namuka"
+    ],
     "name:fij_x_preferred":[
         "Namuka"
     ],
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":1259993603,
-    "wof:lastmodified":1537622397,
+    "wof:lastmodified":1564105804,
     "wof:name":"Namuka",
     "wof:parent_id":85671167,
     "wof:placetype":"locality",

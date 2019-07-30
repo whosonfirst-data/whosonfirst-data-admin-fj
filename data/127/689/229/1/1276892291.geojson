@@ -26,11 +26,26 @@
     "iso:country":"FJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Tuvutha Island"
+    ],
+    "name:deu_x_preferred":[
+        "Tuvuca"
+    ],
     "name:fij_x_preferred":[
         "Tuvuca"
     ],
     "name:fij_x_variant":[
         "Tuvutha"
+    ],
+    "name:hif_x_preferred":[
+        "Tuvuca"
+    ],
+    "name:swe_x_preferred":[
+        "Tuvutha Island"
+    ],
+    "name:zho_x_preferred":[
+        "\u5716\u6b66\u5361\u5cf6"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[],
@@ -49,7 +64,7 @@
         }
     ],
     "wof:id":1276892291,
-    "wof:lastmodified":1537622423,
+    "wof:lastmodified":1564105628,
     "wof:name":"Tuvuca",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

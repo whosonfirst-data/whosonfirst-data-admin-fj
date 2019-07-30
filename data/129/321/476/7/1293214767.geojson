@@ -32,6 +32,12 @@
     "name:fij_x_variant":[
         "Yanuca"
     ],
+    "name:fra_x_preferred":[
+        "Yanuca"
+    ],
+    "name:hif_x_preferred":[
+        "Yanuca"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1293214767,
-    "wof:lastmodified":1537622356,
+    "wof:lastmodified":1564105615,
     "wof:name":"Yanuca",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

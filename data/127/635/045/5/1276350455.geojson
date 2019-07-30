@@ -29,6 +29,33 @@
     "name:fij_x_preferred":[
         "Liku"
     ],
+    "name:fra_x_preferred":[
+        "Liku"
+    ],
+    "name:hun_x_preferred":[
+        "Liku"
+    ],
+    "name:ita_x_preferred":[
+        "Liku"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ea\u30af"
+    ],
+    "name:nld_x_preferred":[
+        "Liku"
+    ],
+    "name:pol_x_preferred":[
+        "Liku"
+    ],
+    "name:por_x_preferred":[
+        "Liku"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0438\u043a\u0443"
+    ],
+    "name:spa_x_preferred":[
+        "Liku"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
@@ -50,7 +77,7 @@
         }
     ],
     "wof:id":1276350455,
-    "wof:lastmodified":1537622426,
+    "wof:lastmodified":1564105637,
     "wof:name":"Liku",
     "wof:parent_id":85671173,
     "wof:placetype":"locality",

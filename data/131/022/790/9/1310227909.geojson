@@ -26,7 +26,22 @@
     "iso:country":"FJ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Soso"
+    ],
     "name:fij_x_preferred":[
+        "Soso"
+    ],
+    "name:fra_x_preferred":[
+        "Soso"
+    ],
+    "name:ita_x_preferred":[
+        "Soso"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043e\u0441\u043e"
+    ],
+    "name:swe_x_preferred":[
         "Soso"
     ],
     "src:geom":"geonames",
@@ -50,7 +65,7 @@
         }
     ],
     "wof:id":1310227909,
-    "wof:lastmodified":1537622370,
+    "wof:lastmodified":1564105719,
     "wof:name":"Soso",
     "wof:parent_id":85671181,
     "wof:placetype":"locality",

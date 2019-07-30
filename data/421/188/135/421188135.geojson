@@ -5,12 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"177.904357,-18.24003,177.904357,-18.24003",
     "geom:latitude":-18.24003,
     "geom:longitude":177.904357,
     "iso:country":"FJ",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:pol_x_preferred":[
+        "Deuba"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -42,7 +47,7 @@
     },
     "wof:country":"FJ",
     "wof:created":1459009535,
-    "wof:geomhash":"831249eaf3f9141f23a01383a70b96b6",
+    "wof:geomhash":"5d44a33e5e563a34e5e005fb0de68b61",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -52,7 +57,7 @@
         }
     ],
     "wof:id":421188135,
-    "wof:lastmodified":1466635866,
+    "wof:lastmodified":1564105764,
     "wof:name":"Deuba",
     "wof:parent_id":85671167,
     "wof:placetype":"locality",

@@ -29,6 +29,9 @@
     "name:fij_x_preferred":[
         "Tovata"
     ],
+    "name:fra_x_preferred":[
+        "Conf\u00e9d\u00e9ration Tovata"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":1293302339,
-    "wof:lastmodified":1537622440,
+    "wof:lastmodified":1564105579,
     "wof:name":"Tovata",
     "wof:parent_id":85671167,
     "wof:placetype":"locality",

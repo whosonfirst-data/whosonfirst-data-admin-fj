@@ -32,6 +32,12 @@
     "name:fij_x_variant":[
         "Kandavu"
     ],
+    "name:nld_x_preferred":[
+        "Kadavu"
+    ],
+    "name:spa_x_preferred":[
+        "Kadavu"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1293403001,
-    "wof:lastmodified":1537622420,
+    "wof:lastmodified":1564105590,
     "wof:name":"Kadavu",
     "wof:parent_id":85671173,
     "wof:placetype":"locality",

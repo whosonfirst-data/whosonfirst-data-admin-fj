@@ -28,6 +28,27 @@
     "name:fij_x_preferred":[
         "Vaiea"
     ],
+    "name:fra_x_preferred":[
+        "Vaiea"
+    ],
+    "name:ita_x_preferred":[
+        "Vaiea"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30a4\u30a8\u30a2"
+    ],
+    "name:nld_x_preferred":[
+        "Vaiea"
+    ],
+    "name:pol_x_preferred":[
+        "Vaiea"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0430\u0438\u0435\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Vaiea"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
@@ -49,7 +70,7 @@
         }
     ],
     "wof:id":1226747749,
-    "wof:lastmodified":1537622427,
+    "wof:lastmodified":1564105830,
     "wof:name":"Vaiea",
     "wof:parent_id":85671185,
     "wof:placetype":"locality",
