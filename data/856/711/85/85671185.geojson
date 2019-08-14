@@ -18,6 +18,9 @@
     "label:eng_x_preferred_placetype":[
         "dependency"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "RO"
+    ],
     "lbl:latitude":-12.498582,
     "lbl:longitude":177.074293,
     "mps:latitude":-12.498582,
@@ -326,9 +329,6 @@
         }
     ],
     "wof:id":85671185,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng",
         "hif",
@@ -339,7 +339,7 @@
         "hif",
         "fij"
     ],
-    "wof:lastmodified":1563288675,
+    "wof:lastmodified":1565710016,
     "wof:name":"Rotuma",
     "wof:parent_id":85632755,
     "wof:placetype":"region",

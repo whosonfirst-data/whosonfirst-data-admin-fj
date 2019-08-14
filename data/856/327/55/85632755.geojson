@@ -15,6 +15,9 @@
     "itu:country_code":[
         "679"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "FJ"
+    ],
     "lbl:latitude":-17.834016,
     "lbl:longitude":177.972004,
     "mps:latitude":-17.834016,
@@ -928,9 +931,6 @@
         }
     ],
     "wof:id":85632755,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng",
         "hif",
@@ -941,7 +941,7 @@
         "hif",
         "fij"
     ],
-    "wof:lastmodified":1563288670,
+    "wof:lastmodified":1565710015,
     "wof:name":"Fiji",
     "wof:parent_id":102191583,
     "wof:placetype":"country",

@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "division"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "CE"
+    ],
     "lbl:latitude":-17.900572,
     "lbl:longitude":178.24889,
     "mps:latitude":-17.900572,
@@ -284,9 +287,6 @@
     ],
     "wof:id":85671167,
     "wof:label":"Central Division",
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng",
         "hif",
@@ -297,7 +297,7 @@
         "hif",
         "fij"
     ],
-    "wof:lastmodified":1563288672,
+    "wof:lastmodified":1565710015,
     "wof:name":"Central",
     "wof:parent_id":85632755,
     "wof:placetype":"region",

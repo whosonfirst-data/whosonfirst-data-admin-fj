@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "division"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "NO"
+    ],
     "lbl:latitude":-16.54729,
     "lbl:longitude":179.261967,
     "mps:latitude":-16.54729,
@@ -284,9 +287,6 @@
     ],
     "wof:id":85671179,
     "wof:label":"Northern Division",
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng",
         "hif",
@@ -297,7 +297,7 @@
         "hif",
         "fij"
     ],
-    "wof:lastmodified":1563288674,
+    "wof:lastmodified":1565710016,
     "wof:name":"Northern",
     "wof:parent_id":85632755,
     "wof:placetype":"region",

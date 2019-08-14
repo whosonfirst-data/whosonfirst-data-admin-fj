@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "division"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "WE"
+    ],
     "lbl:latitude":-17.759199,
     "lbl:longitude":177.693701,
     "mps:latitude":-17.759199,
@@ -278,9 +281,6 @@
     ],
     "wof:id":85671181,
     "wof:label":"Western Division",
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng",
         "hif",
@@ -291,7 +291,7 @@
         "hif",
         "fij"
     ],
-    "wof:lastmodified":1563288673,
+    "wof:lastmodified":1565710015,
     "wof:name":"Western",
     "wof:parent_id":85632755,
     "wof:placetype":"region",
