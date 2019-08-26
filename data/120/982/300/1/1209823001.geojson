@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Fiji",
     "iso:country":"FJ",
+    "lbl:bbox":"178.87015,-16.62186,178.91015,-16.58186",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fij_x_preferred":[
         "Nalucu Settlement"
     ],
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1209823001,
-    "wof:lastmodified":1537622451,
+    "wof:lastmodified":1566596022,
     "wof:name":"Nalucu Settlement",
     "wof:parent_id":85671179,
     "wof:placetype":"locality",

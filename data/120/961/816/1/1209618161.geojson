@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Fiji",
     "iso:country":"FJ",
+    "lbl:bbox":"179.24982,-17.96697,179.28982,-17.92697",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Loloa",
         "Qarani",
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209618161,
-    "wof:lastmodified":1537622377,
+    "wof:lastmodified":1566596024,
     "wof:name":"Qarani",
     "wof:parent_id":85632755,
     "wof:placetype":"locality",

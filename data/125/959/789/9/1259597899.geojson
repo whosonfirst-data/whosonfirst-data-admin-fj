@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Fiji",
     "iso:country":"FJ",
+    "lbl:bbox":"179.41309,-17.35462,179.45309,-17.31462",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Namacu"
     ],
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1259597899,
-    "wof:lastmodified":1537622401,
+    "wof:lastmodified":1566596102,
     "wof:name":"Namacu",
     "wof:parent_id":85671173,
     "wof:placetype":"locality",

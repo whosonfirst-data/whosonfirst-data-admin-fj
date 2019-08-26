@@ -10,8 +10,11 @@
     "geom:latitude":-18.11667,
     "geom:longitude":178.43333,
     "iso:country":"FJ",
+    "lbl:bbox":"178.42833,-18.12167,178.43833,-18.11167",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:aar_x_preferred":[
         "Korovou"
@@ -606,7 +609,7 @@
     "wof:concordances":{
         "gn:id":2204678,
         "gp:id":1062912,
-        "qs:id":894717,
+        "qs_pg:id":894717,
         "wd:id":"Q26704"
     },
     "wof:country":"FJ",
@@ -622,7 +625,7 @@
         }
     ],
     "wof:id":421174677,
-    "wof:lastmodified":1563288833,
+    "wof:lastmodified":1566596073,
     "wof:name":"Korovou",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

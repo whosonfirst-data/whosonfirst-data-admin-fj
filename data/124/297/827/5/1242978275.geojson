@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Fiji",
     "iso:country":"FJ",
+    "lbl:bbox":"178.89176,-16.83431,178.93176,-16.79431",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fij_x_preferred":[
         "Nadua"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1242978275,
-    "wof:lastmodified":1537622395,
+    "wof:lastmodified":1566596089,
     "wof:name":"Nadua",
     "wof:parent_id":85671179,
     "wof:placetype":"locality",

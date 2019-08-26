@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Fiji",
     "iso:country":"FJ",
+    "lbl:bbox":"177.86806,-17.83051,177.90806,-17.79051",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fij_x_preferred":[
         "Nawiwi Settlement"
     ],
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1310500535,
-    "wof:lastmodified":1537622432,
+    "wof:lastmodified":1566596059,
     "wof:name":"Nawiwi Settlement",
     "wof:parent_id":85671181,
     "wof:placetype":"locality",

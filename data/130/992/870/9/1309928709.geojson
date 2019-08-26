@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Fiji",
     "iso:country":"FJ",
+    "lbl:bbox":"177.39105,-17.88931,177.43105,-17.84931",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fij_x_preferred":[
         "Vunayasi Settlement"
     ],
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1309928709,
-    "wof:lastmodified":1537622429,
+    "wof:lastmodified":1566596070,
     "wof:name":"Vunayasi Settlement",
     "wof:parent_id":85671181,
     "wof:placetype":"locality",

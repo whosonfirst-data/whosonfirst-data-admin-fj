@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Fiji",
     "iso:country":"FJ",
+    "lbl:bbox":"178.20948,-17.47068,178.24948,-17.43068",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Nuku Loa",
         "Nanukuloa"
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1309905173,
-    "wof:lastmodified":1537622393,
+    "wof:lastmodified":1566596068,
     "wof:name":"Nanukuloa",
     "wof:parent_id":85671181,
     "wof:placetype":"locality",

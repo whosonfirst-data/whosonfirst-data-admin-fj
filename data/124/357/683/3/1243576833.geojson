@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Fiji",
     "iso:country":"FJ",
+    "lbl:bbox":"178.23595,-17.62195,178.27595,-17.58195",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Dama"
     ],
@@ -119,7 +123,7 @@
         }
     ],
     "wof:id":1243576833,
-    "wof:lastmodified":1564105784,
+    "wof:lastmodified":1566596086,
     "wof:name":"Dama",
     "wof:parent_id":85671181,
     "wof:placetype":"locality",

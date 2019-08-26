@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Fiji",
     "iso:country":"FJ",
+    "lbl:bbox":"179.61798,-16.32537,179.65798,-16.28537",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fij_x_preferred":[
         "Nabutubutu"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1276669693,
-    "wof:lastmodified":1537622374,
+    "wof:lastmodified":1566596000,
     "wof:name":"Nabutubutu",
     "wof:parent_id":85671179,
     "wof:placetype":"locality",

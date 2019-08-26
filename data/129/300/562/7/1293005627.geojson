@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Fiji",
     "iso:country":"FJ",
+    "lbl:bbox":"177.53337,-16.77976,177.57337,-16.73976",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bukama"
     ],
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":1293005627,
-    "wof:lastmodified":1564105576,
+    "wof:lastmodified":1566595964,
     "wof:name":"Bukama",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

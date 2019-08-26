@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":-17.759199,
     "lbl:longitude":177.693701,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-17.759199,
     "mps:longitude":177.693701,
     "mz:hierarchy_label":1,
@@ -145,7 +146,7 @@
         "V\u00e4stra divisionen"
     ],
     "name:tam_x_preferred":[
-        "\u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bc1    \u0b9f\u0bbf\u0bb5\u0bbf\u0b9a\u0ba9\u0bcd"
+        "\u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bc1  \u0b9f\u0bbf\u0bb5\u0bbf\u0b9a\u0ba9\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c2a\u0c36\u0c4d\u0c1a\u0c3f\u0c2e \u0c21\u0c3f\u0c35\u0c3f\u0c1c\u0c28\u0c4d"
@@ -238,9 +239,9 @@
     "qs:type":"Division",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-08-16",
+    "src:population_date":"2007-08-16",
     "statoids:area_km":"6,360",
     "statoids:area_mi":"2,456",
     "statoids:as_of_date":"2007-08-16",
@@ -265,7 +266,7 @@
         "gp:id":2345338,
         "hasc:id":"FJ.WE",
         "iso:id":"FJ-W",
-        "qs:id":901862,
+        "qs_pg:id":901862,
         "unlc:id":"FJ-W",
         "wd:id":"Q1062451",
         "wk:page":"Western Division, Fiji"
@@ -291,11 +292,10 @@
         "hif",
         "fij"
     ],
-    "wof:lastmodified":1565710015,
+    "wof:lastmodified":1566595963,
     "wof:name":"Western",
     "wof:parent_id":85632755,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"division",
     "wof:population":319611,
     "wof:population_rank":10,

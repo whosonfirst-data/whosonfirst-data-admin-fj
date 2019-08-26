@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Fiji",
     "iso:country":"FJ",
+    "lbl:bbox":"178.56656,-18.04283,178.60656,-18.00283",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0646\u0627\u064a\u0644\u0627"
     ],
@@ -143,7 +147,7 @@
         }
     ],
     "wof:id":1344170883,
-    "wof:lastmodified":1564105565,
+    "wof:lastmodified":1566595955,
     "wof:name":"Naila",
     "wof:parent_id":85671167,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Fiji",
     "iso:country":"FJ",
+    "lbl:bbox":"178.38795,-19.00322,178.42795,-18.96322",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Lawake",
         "Lawaki"
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1293305735,
-    "wof:lastmodified":1537622416,
+    "wof:lastmodified":1566595966,
     "wof:name":"Lawaki",
     "wof:parent_id":85671173,
     "wof:placetype":"locality",

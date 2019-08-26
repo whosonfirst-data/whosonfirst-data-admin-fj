@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Fiji",
     "iso:country":"FJ",
+    "lbl:bbox":"179.12583,-16.46273,179.16583,-16.42273",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Nanduri"
     ],
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1259987079,
-    "wof:lastmodified":1537622395,
+    "wof:lastmodified":1566596094,
     "wof:name":"Naduri",
     "wof:parent_id":85671179,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Fiji",
     "iso:country":"FJ",
+    "lbl:bbox":"177.99437,-18.13008,178.03437,-18.09008",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1259993883,
-    "wof:lastmodified":1536617889,
+    "wof:lastmodified":1566596098,
     "wof:name":"Wainandiro",
     "wof:parent_id":85671167,
     "wof:placetype":"locality",

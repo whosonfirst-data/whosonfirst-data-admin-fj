@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Fiji",
     "iso:country":"FJ",
+    "lbl:bbox":"178.537,-17.94559,178.577,-17.90559",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fij_x_preferred":[
         "Namulomulo"
     ],
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1293210111,
-    "wof:lastmodified":1537622441,
+    "wof:lastmodified":1566595989,
     "wof:name":"Namulomulo",
     "wof:parent_id":85671167,
     "wof:placetype":"locality",

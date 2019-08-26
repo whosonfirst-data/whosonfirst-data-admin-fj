@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Fiji",
     "iso:country":"FJ",
+    "lbl:bbox":"177.96688,-17.63945,178.00688,-17.59945",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "N\u0259vai"
     ],
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1310428297,
-    "wof:lastmodified":1564105729,
+    "wof:lastmodified":1566596054,
     "wof:name":"Navai",
     "wof:parent_id":85671181,
     "wof:placetype":"locality",

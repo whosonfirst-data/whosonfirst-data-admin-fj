@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Fiji",
     "iso:country":"FJ",
+    "lbl:bbox":"177.65991,-17.56002,177.69991,-17.52002",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fij_x_preferred":[
         "Varoka"
     ],
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1327052821,
-    "wof:lastmodified":1537622364,
+    "wof:lastmodified":1566595928,
     "wof:name":"Varoka",
     "wof:parent_id":85671181,
     "wof:placetype":"locality",

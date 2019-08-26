@@ -11,11 +11,14 @@
     "geom:longitude":179.51667,
     "gn:country":"FJ",
     "gn:fcode":"ISL",
-    "gn:pop":2,
+    "gn:population":2,
     "iso:country":"FJ",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Nabakabaka"
     ],
@@ -34,7 +37,7 @@
     "wof:concordances":{
         "gn:id":2203836,
         "gp:id":56125607,
-        "qs:id":573343
+        "qs_pg:id":573343
     },
     "wof:country":"FJ",
     "wof:created":1469050989,
@@ -46,7 +49,7 @@
         }
     ],
     "wof:id":890413129,
-    "wof:lastmodified":1505343412,
+    "wof:lastmodified":1566596074,
     "wof:name":"Mbakambaka Island",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

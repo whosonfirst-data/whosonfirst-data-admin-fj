@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Fiji",
     "iso:country":"FJ",
+    "lbl:bbox":"178.38,-19.03667,178.42,-18.99667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fij_x_preferred":[
         "Korolevu Settlement"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1260298183,
-    "wof:lastmodified":1537622419,
+    "wof:lastmodified":1566596045,
     "wof:name":"Korolevu Settlement",
     "wof:parent_id":85671173,
     "wof:placetype":"locality",

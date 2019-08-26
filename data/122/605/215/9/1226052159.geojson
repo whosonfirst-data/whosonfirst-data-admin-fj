@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Fiji",
     "iso:country":"FJ",
+    "lbl:bbox":"178.49723,-18.03111,178.53723,-17.99111",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fij_x_preferred":[
         "Navuso"
     ],
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1226052159,
-    "wof:lastmodified":1537622382,
+    "wof:lastmodified":1566596113,
     "wof:name":"Navuso",
     "wof:parent_id":85671167,
     "wof:placetype":"locality",

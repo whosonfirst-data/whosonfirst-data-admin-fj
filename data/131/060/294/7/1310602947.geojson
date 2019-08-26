@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Fiji",
     "iso:country":"FJ",
+    "lbl:bbox":"179.14124,-16.47869,179.18124,-16.43869",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fij_x_preferred":[
         "Navakasobu"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1310602947,
-    "wof:lastmodified":1537622385,
+    "wof:lastmodified":1566596061,
     "wof:name":"Navakasobu",
     "wof:parent_id":85671179,
     "wof:placetype":"locality",

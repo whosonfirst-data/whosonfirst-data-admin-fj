@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Fiji",
     "iso:country":"FJ",
+    "lbl:bbox":"178.35157,-18.15347,178.39157,-18.11347",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fij_x_preferred":[
         "Naivakacau Settlement"
     ],
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1276237929,
-    "wof:lastmodified":1537622438,
+    "wof:lastmodified":1566596004,
     "wof:name":"Naivakacau Settlement",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
