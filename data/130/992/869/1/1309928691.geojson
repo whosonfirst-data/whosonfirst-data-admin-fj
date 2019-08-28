@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Fiji",
     "iso:country":"FJ",
+    "lbl:bbox":"177.569,-17.71052,177.609,-17.67052",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fij_x_preferred":[
         "Navilawa"
     ],
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1309928691,
-    "wof:lastmodified":1537622384,
+    "wof:lastmodified":1566596070,
     "wof:name":"Navilawa",
     "wof:parent_id":85671181,
     "wof:placetype":"locality",

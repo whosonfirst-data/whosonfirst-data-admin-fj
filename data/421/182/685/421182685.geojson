@@ -10,6 +10,9 @@
     "geom:latitude":-16.41667,
     "geom:longitude":179.38333,
     "iso:country":"FJ",
+    "lbl:bbox":"179.36333,-16.43667,179.40333,-16.39667",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
@@ -95,7 +98,7 @@
     "name:tam_x_preferred":[
         "\u0bb2\u0bae\u0bcd\u0baa\u0bbe\u0b9a\u0bbe"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lambasa Mill"
     ],
     "name:zho_x_preferred":[
@@ -225,7 +228,7 @@
     "wof:concordances":{
         "gn:id":2204582,
         "gp:id":1062937,
-        "qs:id":943476,
+        "qs_pg:id":943476,
         "wd:id":"Q579556",
         "wk:page":"Labasa"
     },
@@ -241,7 +244,7 @@
         }
     ],
     "wof:id":421182685,
-    "wof:lastmodified":1563288837,
+    "wof:lastmodified":1566596074,
     "wof:name":"Lambase",
     "wof:parent_id":85671179,
     "wof:placetype":"locality",

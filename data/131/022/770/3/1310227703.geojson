@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Fiji",
     "iso:country":"FJ",
+    "lbl:bbox":"178.03834,-17.38962,178.07834,-17.34962",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fij_x_preferred":[
         "Vunitogoloa"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1310227703,
-    "wof:lastmodified":1537622360,
+    "wof:lastmodified":1566596049,
     "wof:name":"Vunitogoloa",
     "wof:parent_id":85671181,
     "wof:placetype":"locality",

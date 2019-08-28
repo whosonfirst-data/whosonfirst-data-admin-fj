@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Fiji",
     "iso:country":"FJ",
+    "lbl:bbox":"177.35606,-17.84951,177.39606,-17.80951",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Korovutu",
         "Korovuto"
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1292908211,
-    "wof:lastmodified":1537622418,
+    "wof:lastmodified":1566595981,
     "wof:name":"Korovuto",
     "wof:parent_id":85671181,
     "wof:placetype":"locality",

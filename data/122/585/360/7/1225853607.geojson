@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Fiji",
     "iso:country":"FJ",
+    "lbl:bbox":"178.35922,-18.9731,178.39922,-18.9331",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fij_x_preferred":[
         "Nakoronawa"
     ],
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1225853607,
-    "wof:lastmodified":1537622403,
+    "wof:lastmodified":1566596124,
     "wof:name":"Nakoronawa",
     "wof:parent_id":85671173,
     "wof:placetype":"locality",

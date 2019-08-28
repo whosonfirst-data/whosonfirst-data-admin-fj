@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Fiji",
     "iso:country":"FJ",
+    "lbl:bbox":"178.82712,-16.89408,178.86712,-16.85408",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fij_x_preferred":[
         "Nautovi Settlement"
     ],
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1310306719,
-    "wof:lastmodified":1537622449,
+    "wof:lastmodified":1566596053,
     "wof:name":"Nautovi Settlement",
     "wof:parent_id":85671179,
     "wof:placetype":"locality",

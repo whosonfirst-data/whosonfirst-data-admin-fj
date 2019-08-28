@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Fiji",
     "iso:country":"FJ",
+    "lbl:bbox":"177.5845,-18.20202,177.6245,-18.16202",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Vatau Karasa",
         "Vatukarasa"
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1225867553,
-    "wof:lastmodified":1537622364,
+    "wof:lastmodified":1566596116,
     "wof:name":"Vatukarasa",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

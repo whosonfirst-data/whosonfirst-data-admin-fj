@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Fiji",
     "iso:country":"FJ",
+    "lbl:bbox":"-178.98381,-17.25813,-178.94381,-17.21813",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Malaka"
     ],
@@ -71,7 +75,7 @@
         }
     ],
     "wof:id":1292918063,
-    "wof:lastmodified":1564105604,
+    "wof:lastmodified":1566595981,
     "wof:name":"Malaka",
     "wof:parent_id":85671173,
     "wof:placetype":"locality",

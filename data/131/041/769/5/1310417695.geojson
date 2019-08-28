@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Fiji",
     "iso:country":"FJ",
+    "lbl:bbox":"179.73589,-16.74859,179.77589,-16.70859",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fij_x_preferred":[
         "Nakobo"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1310417695,
-    "wof:lastmodified":1537622403,
+    "wof:lastmodified":1566596048,
     "wof:name":"Nakobo",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

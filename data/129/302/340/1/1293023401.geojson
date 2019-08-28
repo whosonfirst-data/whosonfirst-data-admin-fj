@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Fiji",
     "iso:country":"FJ",
+    "lbl:bbox":"177.75862,-17.83032,177.79862,-17.79032",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Navaga"
     ],
@@ -98,7 +102,7 @@
         }
     ],
     "wof:id":1293023401,
-    "wof:lastmodified":1564105603,
+    "wof:lastmodified":1566595980,
     "wof:name":"Navaga",
     "wof:parent_id":85671181,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Fiji",
     "iso:country":"FJ",
+    "lbl:bbox":"178.38765,-19.03697,178.42765,-18.99697",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fij_x_preferred":[
         "Namajiu"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1225857943,
-    "wof:lastmodified":1537622401,
+    "wof:lastmodified":1566596124,
     "wof:name":"Namajiu",
     "wof:parent_id":85671173,
     "wof:placetype":"locality",

@@ -5,12 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"178.43333,-18.11667,178.43333,-18.11667",
     "geom:latitude":-18.11667,
     "geom:longitude":178.43333,
     "iso:country":"FJ",
+    "lbl:bbox":"178.42833,-18.12167,178.43833,-18.11167",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:fij_x_preferred":[
         "Tamavua"
@@ -43,7 +47,7 @@
     "wof:concordances":{
         "gn:id":2198092,
         "gp:id":1063781,
-        "qs:id":1220467
+        "qs_pg:id":1220467
     },
     "wof:country":"FJ",
     "wof:created":1459008806,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":421169363,
-    "wof:lastmodified":1531858330,
+    "wof:lastmodified":1566596073,
     "wof:name":"Tamavua",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

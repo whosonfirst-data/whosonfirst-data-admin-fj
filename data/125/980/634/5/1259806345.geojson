@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Fiji",
     "iso:country":"FJ",
+    "lbl:bbox":"177.8256,-17.93788,177.8656,-17.89788",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fij_x_preferred":[
         "Nakasayaga Settlement"
     ],
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1259806345,
-    "wof:lastmodified":1537622433,
+    "wof:lastmodified":1566596105,
     "wof:name":"Nakasayaga Settlement",
     "wof:parent_id":85671181,
     "wof:placetype":"locality",

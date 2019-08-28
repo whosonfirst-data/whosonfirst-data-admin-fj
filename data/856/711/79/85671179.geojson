@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":-16.54729,
     "lbl:longitude":179.261967,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-16.54729,
     "mps:longitude":179.261967,
     "mz:hierarchy_label":1,
@@ -148,7 +149,7 @@
         "Norra divisionen"
     ],
     "name:tam_x_preferred":[
-        "\u0bb5\u0b9f\u0b95\u0bcd\u0b95\u0bc1   \u0b9f\u0bbf\u0bb5\u0bbf\u0b9a\u0ba9\u0bcd"
+        "\u0bb5\u0b9f\u0b95\u0bcd\u0b95\u0bc1  \u0b9f\u0bbf\u0bb5\u0bbf\u0b9a\u0ba9\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c09\u0c24\u0c4d\u0c24\u0c30\u0c3e \u0c21\u0c3f\u0c35\u0c3f\u0c1c\u0c28\u0c4d"
@@ -243,9 +244,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2007-08-16",
+    "src:population_date":"2007-08-16",
     "statoids:area_km":"6,199",
     "statoids:area_mi":"2,393",
     "statoids:as_of_date":"2007-08-16",
@@ -259,7 +260,6 @@
     "statoids:timezone":"+12",
     "statoids:type":"division",
     "unlc:subdivision":"FJ-N",
-    "wof:belongs_to":[],
     "wof:belongsto":[
         102191583,
         85632755
@@ -271,7 +271,7 @@
         "gp:id":2345337,
         "hasc:id":"FJ.NO",
         "iso:id":"FJ-N",
-        "qs:id":235594,
+        "qs_pg:id":235594,
         "unlc:id":"FJ-N",
         "wd:id":"Q1062430",
         "wk:page":"Northern Division, Fiji"
@@ -297,11 +297,10 @@
         "hif",
         "fij"
     ],
-    "wof:lastmodified":1565710016,
+    "wof:lastmodified":1566595963,
     "wof:name":"Northern",
     "wof:parent_id":85632755,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"division",
     "wof:population":135961,
     "wof:population_rank":9,

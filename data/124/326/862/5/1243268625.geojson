@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Fiji",
     "iso:country":"FJ",
+    "lbl:bbox":"177.67631,-17.89351,177.71631,-17.85351",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fij_x_preferred":[
         "Nasaucoko"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1243268625,
-    "wof:lastmodified":1537622391,
+    "wof:lastmodified":1566596093,
     "wof:name":"Nasaucoko",
     "wof:parent_id":85671181,
     "wof:placetype":"locality",

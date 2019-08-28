@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Fiji",
     "iso:country":"FJ",
+    "lbl:bbox":"178.81348,-17.72437,178.85348,-17.68437",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fij_x_preferred":[
         "Natuvu Settlement"
     ],
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1310714555,
-    "wof:lastmodified":1537622445,
+    "wof:lastmodified":1566596049,
     "wof:name":"Natuvu Settlement",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

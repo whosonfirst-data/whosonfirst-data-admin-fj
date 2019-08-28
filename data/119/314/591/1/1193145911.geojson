@@ -24,16 +24,19 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Fiji",
     "iso:country":"FJ",
+    "lbl:bbox":"179.34312,-17.31574,179.38312,-17.27574",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:hif_x_preferred":[
         "Tavua"
     ],
     "name:und_x_variant":[
         "Thava Levu",
         "Thava",
-        "Thavu",
-        "Tavua"
+        "Thavu"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[],
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1193145911,
-    "wof:lastmodified":1564105701,
+    "wof:lastmodified":1566596038,
     "wof:name":"Tavua",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

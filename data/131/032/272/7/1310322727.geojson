@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Fiji",
     "iso:country":"FJ",
+    "lbl:bbox":"178.29801,-18.00997,178.33801,-17.96997",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fij_x_preferred":[
         "Namoka Settlement"
     ],
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1310322727,
-    "wof:lastmodified":1537622439,
+    "wof:lastmodified":1566596058,
     "wof:name":"Namoka Settlement",
     "wof:parent_id":85671167,
     "wof:placetype":"locality",
