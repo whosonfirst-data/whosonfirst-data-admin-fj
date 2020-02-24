@@ -277,6 +277,9 @@
         "wk:page":"Northern Division, Fiji"
     },
     "wof:country":"FJ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ecef0493eeb1f9df6f8860831ac52c35",
     "wof:hierarchy":[
         {
@@ -297,7 +300,7 @@
         "hif",
         "fij"
     ],
-    "wof:lastmodified":1566595963,
+    "wof:lastmodified":1582313668,
     "wof:name":"Northern",
     "wof:parent_id":85632755,
     "wof:placetype":"region",
