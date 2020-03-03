@@ -867,7 +867,6 @@
     "qs:source":"US State Department, with Natural Earth mods",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "naturalearth",
         "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
@@ -944,7 +943,7 @@
         "hif",
         "fij"
     ],
-    "wof:lastmodified":1582313667,
+    "wof:lastmodified":1583200340,
     "wof:name":"Fiji",
     "wof:parent_id":102191583,
     "wof:placetype":"country",
