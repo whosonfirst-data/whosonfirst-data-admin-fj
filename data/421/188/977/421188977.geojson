@@ -498,6 +498,10 @@
     },
     "wof:country":"FJ",
     "wof:created":1459009595,
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"8f7dbe715727913e9f95085a81854143",
     "wof:hierarchy":[
         {
@@ -508,7 +512,7 @@
         }
     ],
     "wof:id":421188977,
-    "wof:lastmodified":1566596074,
+    "wof:lastmodified":1582313670,
     "wof:name":"Suva",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
