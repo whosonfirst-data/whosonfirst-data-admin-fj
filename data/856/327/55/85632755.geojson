@@ -898,9 +898,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"Fiji",
-        "digitalenvoy:country_code":[
-            242
-        ],
+        "digitalenvoy:country_code":242,
         "fb:id":"en.fiji",
         "fifa:id":"FIJ",
         "fips:code":"FJ",
@@ -946,7 +944,7 @@
         "hif",
         "fij"
     ],
-    "wof:lastmodified":1583529130,
+    "wof:lastmodified":1583797336,
     "wof:name":"Fiji",
     "wof:parent_id":102191583,
     "wof:placetype":"country",
