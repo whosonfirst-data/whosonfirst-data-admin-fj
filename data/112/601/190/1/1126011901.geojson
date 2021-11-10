@@ -52,6 +52,9 @@
     "name:eus_x_preferred":[
         "Lautoka"
     ],
+    "name:fas_x_preferred":[
+        "\u0644\u0627\u062a\u0648\u06a9\u0627"
+    ],
     "name:fij_x_preferred":[
         "Lautoka"
     ],
@@ -77,6 +80,9 @@
         "\u0932\u094c\u0924\u094b\u0915\u093e"
     ],
     "name:hrv_x_preferred":[
+        "Lautoka"
+    ],
+    "name:hun_x_preferred":[
         "Lautoka"
     ],
     "name:ind_x_preferred":[
@@ -200,7 +206,7 @@
         }
     ],
     "wof:id":1126011901,
-    "wof:lastmodified":1566596074,
+    "wof:lastmodified":1636494792,
     "wof:name":"Lautoka",
     "wof:parent_id":85671181,
     "wof:placetype":"locality",

@@ -32,14 +32,23 @@
     "name:ceb_x_preferred":[
         "Bukama"
     ],
+    "name:deu_x_preferred":[
+        "Bukama"
+    ],
     "name:eng_x_preferred":[
         "Bukama"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u06a9\u0627\u0645\u0627"
     ],
     "name:fra_x_preferred":[
         "Bukama"
     ],
     "name:heb_x_preferred":[
         "\u05d1\u05d5\u05e7\u05de\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Bukama"
     ],
     "name:ita_x_preferred":[
         "Bukama"
@@ -79,7 +88,7 @@
         }
     ],
     "wof:id":1293005627,
-    "wof:lastmodified":1566595964,
+    "wof:lastmodified":1636494791,
     "wof:name":"Bukama",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
