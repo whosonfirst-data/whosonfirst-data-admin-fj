@@ -436,6 +436,9 @@
     "name:ruq_x_preferred":[
         "Korovou"
     ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0440\u043e\u0432\u043e\u0443"
+    ],
     "name:sag_x_preferred":[
         "Korovou"
     ],
@@ -625,7 +628,7 @@
         }
     ],
     "wof:id":421174677,
-    "wof:lastmodified":1566596073,
+    "wof:lastmodified":1690879912,
     "wof:name":"Korovou",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

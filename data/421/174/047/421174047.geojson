@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Sigatoka"
+    ],
     "name:cat_x_preferred":[
         "Sigatoka"
     ],
@@ -47,6 +50,9 @@
     "name:jpn_x_preferred":[
         "\u30b7\u30f3\u30ac\u30c8\u30ab"
     ],
+    "name:kor_x_preferred":[
+        "\uc2f1\uc544\ud1a0\uce74"
+    ],
     "name:lit_x_preferred":[
         "Sigatoka"
     ],
@@ -70,6 +76,9 @@
     ],
     "name:und_x_variant":[
         "Nasigatoka"
+    ],
+    "name:zho_x_preferred":[
+        "\u8f9b\u52a0\u6771\u5361"
     ],
     "qs:gn_country":"FJ",
     "qs:gn_fcode":"PPL",
@@ -115,7 +124,7 @@
         }
     ],
     "wof:id":421174047,
-    "wof:lastmodified":1566596073,
+    "wof:lastmodified":1690879912,
     "wof:name":"Singatoka",
     "wof:parent_id":85671181,
     "wof:placetype":"locality",

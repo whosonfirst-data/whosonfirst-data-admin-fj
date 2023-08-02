@@ -72,6 +72,9 @@
     "name:fra_x_preferred":[
         "Division orientale"
     ],
+    "name:frr_x_preferred":[
+        "Eastern"
+    ],
     "name:glg_x_preferred":[
         "Divisi\u00f3n Oriental"
     ],
@@ -137,6 +140,9 @@
     ],
     "name:por_x_preferred":[
         "Divis\u00e3o do Leste"
+    ],
+    "name:ron_x_preferred":[
+        "Diviziunea Oriental\u0103"
     ],
     "name:rus_x_preferred":[
         "\u0412\u043e\u0441\u0442\u043e\u0447\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433"
@@ -307,7 +313,7 @@
         "hif",
         "fij"
     ],
-    "wof:lastmodified":1636494790,
+    "wof:lastmodified":1690879910,
     "wof:name":"Eastern",
     "wof:parent_id":85632755,
     "wof:placetype":"region",
