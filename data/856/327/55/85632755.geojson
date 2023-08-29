@@ -28,6 +28,9 @@
     "mz:is_current":1,
     "mz:max_zoom":8.0,
     "mz:min_zoom":3.0,
+    "name:abk_x_preferred":[
+        "\u0424\u0438\u045f\u044c\u0438"
+    ],
     "name:ace_x_preferred":[
         "Fiji"
     ],
@@ -37,17 +40,26 @@
     "name:aka_x_preferred":[
         "Figyi"
     ],
+    "name:aka_x_variant":[
+        "Fiji"
+    ],
     "name:als_x_preferred":[
         "Fidschi"
     ],
     "name:amh_x_preferred":[
         "\u134a\u1302"
     ],
+    "name:ami_x_preferred":[
+        "Fiji"
+    ],
     "name:ang_x_preferred":[
         "Ficg\u012bege"
     ],
     "name:ang_x_variant":[
         "Ficgiege"
+    ],
+    "name:anp_x_preferred":[
+        "\u092b\u0940\u091c\u0940"
     ],
     "name:ara_x_preferred":[
         "\u0641\u064a\u062c\u064a"
@@ -66,6 +78,9 @@
     ],
     "name:ast_x_variant":[
         "Islles Fixi"
+    ],
+    "name:avk_x_preferred":[
+        "Vitia"
     ],
     "name:azb_x_preferred":[
         "\u0641\u06cc\u062c\u06cc"
@@ -93,6 +108,9 @@
     ],
     "name:bho_x_preferred":[
         "\u092b\u093f\u091c\u0940"
+    ],
+    "name:bis_x_preferred":[
+        "Fiji"
     ],
     "name:bod_x_preferred":[
         "\u0f67\u0fa5\u0f72\u0f0b\u0f47\u0f72\u0f0d"
@@ -133,6 +151,9 @@
     "name:chv_x_preferred":[
         "\u0424\u0438\u0434\u0436\u0438"
     ],
+    "name:chy_x_preferred":[
+        "Fiji"
+    ],
     "name:ckb_x_preferred":[
         "\u0641\u06cc\u062c\u06cc"
     ],
@@ -146,6 +167,9 @@
         "Ffiji"
     ],
     "name:cym_x_variant":[
+        "Fiji"
+    ],
+    "name:dag_x_preferred":[
         "Fiji"
     ],
     "name:dan_x_preferred":[
@@ -281,6 +305,9 @@
     ],
     "name:gom_x_preferred":[
         "\u092b\u093f\u091c\u0940"
+    ],
+    "name:gpe_x_preferred":[
+        "Fiji"
     ],
     "name:grn_x_preferred":[
         "F\u00edji"
@@ -446,6 +473,9 @@
     "name:lit_x_preferred":[
         "Fid\u017eis"
     ],
+    "name:lld_x_preferred":[
+        "Fiji"
+    ],
     "name:lmo_x_preferred":[
         "Figi"
     ],
@@ -470,6 +500,9 @@
     "name:mar_x_preferred":[
         "\u092b\u093f\u091c\u0940"
     ],
+    "name:mhr_x_preferred":[
+        "\u0424\u0438\u0434\u0436\u0438"
+    ],
     "name:min_x_preferred":[
         "Fiji"
     ],
@@ -484,6 +517,9 @@
     ],
     "name:mlt_x_preferred":[
         "Fi\u0121i"
+    ],
+    "name:mni_x_preferred":[
+        "\uabd0\uabe4\uabd6\uabe4"
     ],
     "name:mon_x_preferred":[
         "\u0424\u0438\u0436\u0438"
@@ -593,6 +629,9 @@
     "name:pus_x_preferred":[
         "\u0641\u06d0\u062c\u064a"
     ],
+    "name:pus_x_variant":[
+        "\u0641\u062c\u064a \u062c\u0645\u0647\u0648\u0631\u064a\u062a"
+    ],
     "name:que_x_preferred":[
         "Phiyi"
     ],
@@ -629,6 +668,9 @@
     "name:sgs_x_preferred":[
         "F\u0117d\u017eis"
     ],
+    "name:shn_x_preferred":[
+        "\u1019\u102d\u1030\u1004\u103a\u1038\u107e\u102e\u1087\u1075\u103b\u102e\u1087"
+    ],
     "name:sin_x_preferred":[
         "\u0dc6\u0dd3\u0da2\u0dd2"
     ],
@@ -644,8 +686,14 @@
     "name:sme_x_preferred":[
         "Fi\u017ei"
     ],
+    "name:smn_x_preferred":[
+        "Fid\u017ei"
+    ],
     "name:smo_x_preferred":[
         "Fiti"
+    ],
+    "name:sms_x_preferred":[
+        "Fid\u017ei"
     ],
     "name:sna_x_preferred":[
         "Fiji"
@@ -707,6 +755,9 @@
     "name:tat_x_variant":[
         "Fiji"
     ],
+    "name:tay_x_preferred":[
+        "Fiji"
+    ],
     "name:tel_x_preferred":[
         "\u0c2b\u0c3f\u0c1c\u0c40"
     ],
@@ -732,6 +783,9 @@
     "name:tir_x_preferred":[
         "\u134a\u1302"
     ],
+    "name:tok_x_preferred":[
+        "ma Pisi"
+    ],
     "name:ton_x_preferred":[
         "Fisi"
     ],
@@ -741,11 +795,17 @@
     "name:tpi_x_preferred":[
         "Fiji"
     ],
+    "name:trv_x_preferred":[
+        "Fiji"
+    ],
     "name:tuk_x_preferred":[
         "Fiji"
     ],
     "name:tur_x_preferred":[
         "Fiji"
+    ],
+    "name:udm_x_preferred":[
+        "\u0424\u0438\u0434\u0436\u0438"
     ],
     "name:uig_x_preferred":[
         "\u0641\u0649\u062c\u0649"
@@ -771,6 +831,9 @@
     ],
     "name:vec_x_preferred":[
         "Fi\u0121i"
+    ],
+    "name:vec_x_variant":[
+        "Fizi"
     ],
     "name:vep_x_preferred":[
         "Fid\u017ei"
@@ -1054,7 +1117,7 @@
         "hif",
         "fij"
     ],
-    "wof:lastmodified":1617827368,
+    "wof:lastmodified":1690879909,
     "wof:name":"Fiji",
     "wof:parent_id":102191583,
     "wof:placetype":"country",

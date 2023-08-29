@@ -76,6 +76,9 @@
     "name:fra_x_variant":[
         "division centrale"
     ],
+    "name:frr_x_preferred":[
+        "Central"
+    ],
     "name:glg_x_preferred":[
         "Divisi\u00f3n Central"
     ],
@@ -138,6 +141,9 @@
     ],
     "name:nor_x_preferred":[
         "Sentral-Fiji"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a15\u0a47\u0a02\u0a26\u0a30\u0a40 \u0a35\u0a70\u0a21"
     ],
     "name:pol_x_preferred":[
         "Dystrykt Centralny"
@@ -307,7 +313,7 @@
         "hif",
         "fij"
     ],
-    "wof:lastmodified":1636494790,
+    "wof:lastmodified":1690879910,
     "wof:name":"Central",
     "wof:parent_id":85632755,
     "wof:placetype":"region",

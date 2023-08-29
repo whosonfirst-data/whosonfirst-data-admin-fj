@@ -25,6 +25,12 @@
     "name:ara_x_preferred":[
         "\u0644\u0627\u0648\u062a\u0648\u0643\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0644\u0627\u0648\u062a\u0648\u0643\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Lautoka"
+    ],
     "name:ben_x_preferred":[
         "\u09b2\u09be\u0989\u099f\u09c1\u0995\u09be"
     ],
@@ -35,6 +41,9 @@
         "Lautoka"
     ],
     "name:ces_x_preferred":[
+        "Lautoka"
+    ],
+    "name:cym_x_preferred":[
         "Lautoka"
     ],
     "name:dan_x_preferred":[
@@ -64,6 +73,12 @@
     "name:fra_x_preferred":[
         "Lautoka"
     ],
+    "name:frr_x_preferred":[
+        "Lautoka"
+    ],
+    "name:gle_x_preferred":[
+        "Lautoka"
+    ],
     "name:glg_x_preferred":[
         "Lautoka"
     ],
@@ -84,6 +99,9 @@
     ],
     "name:hun_x_preferred":[
         "Lautoka"
+    ],
+    "name:hye_x_preferred":[
+        "\u053c\u0561\u0578\u0582\u057f\u0578\u056f\u0561"
     ],
     "name:ind_x_preferred":[
         "Lautoka"
@@ -121,6 +139,9 @@
     "name:nob_x_preferred":[
         "Lautoka"
     ],
+    "name:pih_x_preferred":[
+        "Lautoka"
+    ],
     "name:pol_x_preferred":[
         "Lautoka"
     ],
@@ -140,6 +161,9 @@
         "\u041b\u0430\u0443\u0442\u043e\u043a\u0430"
     ],
     "name:swe_x_preferred":[
+        "Lautoka"
+    ],
+    "name:szl_x_preferred":[
         "Lautoka"
     ],
     "name:tam_x_preferred":[
@@ -206,7 +230,7 @@
         }
     ],
     "wof:id":1126011901,
-    "wof:lastmodified":1636494792,
+    "wof:lastmodified":1690879913,
     "wof:name":"Lautoka",
     "wof:parent_id":85671181,
     "wof:placetype":"locality",
