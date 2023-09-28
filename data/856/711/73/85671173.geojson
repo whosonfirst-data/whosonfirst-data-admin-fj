@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.120213,
-    "geom:area_square_m":1410515932.919954,
+    "geom:area_square_m":1410515231.747833,
     "geom:bbox":"-179.871938,-20.671808,179.952403,-17.149102",
     "geom:latitude":-18.38169,
     "geom:longitude":80.06169,
@@ -286,14 +286,16 @@
         "gn:id":4036647,
         "gp:id":2345336,
         "hasc:id":"FJ.EA",
+        "iso:code":"FJ-E",
         "iso:id":"FJ-E",
         "qs_pg:id":1135044,
         "unlc:id":"FJ-E",
         "wd:id":"Q182169",
         "wk:page":"Eastern Division, Fiji"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"FJ",
-    "wof:geomhash":"06776046a11edd4e2fcd1417d8241f86",
+    "wof:geomhash":"fb3f30e2e65e5312df6e3810d789db82",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -313,7 +315,7 @@
         "hif",
         "fij"
     ],
-    "wof:lastmodified":1690879910,
+    "wof:lastmodified":1695884775,
     "wof:name":"Eastern",
     "wof:parent_id":85632755,
     "wof:placetype":"region",

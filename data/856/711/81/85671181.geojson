@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.56048,
-    "geom:area_square_m":6601107121.710375,
+    "geom:area_square_m":6601108616.169879,
     "geom:bbox":"174.588878,-21.711114,178.448622,-16.676853",
     "geom:latitude":-17.731542,
     "geom:longitude":177.763521,
@@ -283,14 +283,16 @@
         "gn:id":2194371,
         "gp:id":2345338,
         "hasc:id":"FJ.WE",
+        "iso:code":"FJ-W",
         "iso:id":"FJ-W",
         "qs_pg:id":901862,
         "unlc:id":"FJ-W",
         "wd:id":"Q1062451",
         "wk:page":"Western Division, Fiji"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"FJ",
-    "wof:geomhash":"d112cc03275a7410a495daabd392930e",
+    "wof:geomhash":"6a1f70f25463f34c638fdf249820db2d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -310,7 +312,7 @@
         "hif",
         "fij"
     ],
-    "wof:lastmodified":1690879910,
+    "wof:lastmodified":1695884775,
     "wof:name":"Western",
     "wof:parent_id":85632755,
     "wof:placetype":"region",

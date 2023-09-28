@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.537998,
-    "geom:area_square_m":1055337976126.958496,
+    "geom:area_square_m":6374820440.19994,
     "geom:bbox":"-180.0,-17.007013,180.0,-15.711196",
     "geom:latitude":-16.610172,
     "geom:longitude":155.445535,
@@ -285,17 +285,19 @@
         "gn:id":2199295,
         "gp:id":2345337,
         "hasc:id":"FJ.NO",
+        "iso:code":"FJ-N",
         "iso:id":"FJ-N",
         "qs_pg:id":235594,
         "unlc:id":"FJ-N",
         "wd:id":"Q1062430",
         "wk:page":"Northern Division, Fiji"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"FJ",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e86d1ec179fbc16adddce5e8999409b8",
+    "wof:geomhash":"85f9c79d7a36c9b3d0660128170c8936",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -315,7 +317,7 @@
         "hif",
         "fij"
     ],
-    "wof:lastmodified":1690879911,
+    "wof:lastmodified":1695884775,
     "wof:name":"Northern",
     "wof:parent_id":85632755,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.389534,
-    "geom:area_square_m":4582368073.540757,
+    "geom:area_square_m":4582368285.963634,
     "geom:bbox":"177.768199,-18.41546,178.711436,-17.550258",
     "geom:latitude":-17.943459,
     "geom:longitude":178.24127,
@@ -286,14 +286,16 @@
         "gn:id":2205272,
         "gp:id":2345335,
         "hasc:id":"FJ.CE",
+        "iso:code":"FJ-C",
         "iso:id":"FJ-C",
         "qs_pg:id":219552,
         "unlc:id":"FJ-C",
         "wd:id":"Q1053789",
         "wk:page":"Central Division, Fiji"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"FJ",
-    "wof:geomhash":"bd8a6eb786acbd17f8fa4e5e882e6faf",
+    "wof:geomhash":"ee3343b5fcee1b6703a5065657de6416",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -313,7 +315,7 @@
         "hif",
         "fij"
     ],
-    "wof:lastmodified":1690879910,
+    "wof:lastmodified":1695884775,
     "wof:name":"Central",
     "wof:parent_id":85632755,
     "wof:placetype":"region",
