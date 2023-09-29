@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003288,
-    "geom:area_square_m":39696845.973751,
+    "geom:area_square_m":39696992.643439,
     "geom:bbox":"177.00587,-12.51686,177.12908,-12.475274",
     "geom:latitude":-12.497272,
     "geom:longitude":177.07312,
@@ -324,14 +324,16 @@
         "gn:id":6324593,
         "gp:id":20069921,
         "hasc:id":"FJ.RO",
+        "iso:code":"FJ-R",
         "iso:id":"FJ-R",
         "qs_pg:id":1172802,
         "unlc:id":"FJ-R",
         "wd:id":"Q459763",
         "wk:page":"Rotuma"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"FJ",
-    "wof:geomhash":"13ed1180aea1fabcc55fe7de6511ff1e",
+    "wof:geomhash":"f120025ee228046384e43506c796e43e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -350,7 +352,7 @@
         "hif",
         "fij"
     ],
-    "wof:lastmodified":1690879911,
+    "wof:lastmodified":1695884775,
     "wof:name":"Rotuma",
     "wof:parent_id":85632755,
     "wof:placetype":"region",
