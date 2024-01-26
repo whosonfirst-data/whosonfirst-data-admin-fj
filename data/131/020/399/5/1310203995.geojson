@@ -48,6 +48,11 @@
     "wof:concordances":{
         "gn:id":2204903
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            11104125
+        ]
+    },
     "wof:country":"FJ",
     "wof:geomhash":"245a8f9fe53d379b03725cd29c94f8d5",
     "wof:hierarchy":[
@@ -59,13 +64,15 @@
         }
     ],
     "wof:id":1310203995,
-    "wof:lastmodified":1566596055,
+    "wof:lastmodified":1706239532,
     "wof:name":"Koroiyaca",
     "wof:parent_id":85671181,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-fj",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310600323
+    ],
     "wof:tags":[]
 },
   "bbox": [

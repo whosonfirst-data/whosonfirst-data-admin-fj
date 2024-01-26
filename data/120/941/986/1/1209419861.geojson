@@ -44,6 +44,11 @@
     "wof:concordances":{
         "gn:id":2198353
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8555974
+        ]
+    },
     "wof:country":"FJ",
     "wof:geomhash":"345597a377942f21fba77b54c8a96537",
     "wof:hierarchy":[
@@ -53,13 +58,15 @@
         }
     ],
     "wof:id":1209419861,
-    "wof:lastmodified":1566596020,
+    "wof:lastmodified":1706239532,
     "wof:name":"Naisisili",
     "wof:parent_id":85632755,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-fj",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1242985787
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -30,6 +30,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Galoa"
+    ],
     "name:und_x_variant":[
         "Ngaloa",
         "Galoa"
@@ -39,6 +42,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2199629
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            2199632
+        ]
     },
     "wof:country":"FJ",
     "wof:geomhash":"b59833348c242eb593b5d7faad744ce2",
@@ -51,13 +59,15 @@
         }
     ],
     "wof:id":1225957003,
-    "wof:lastmodified":1566596107,
+    "wof:lastmodified":1706239532,
     "wof:name":"Galoa",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-fj",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1226360741
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -33,6 +33,9 @@
     "name:fij_x_preferred":[
         "Nabouva"
     ],
+    "name:und_x_variant":[
+        "Nambouva"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
@@ -42,6 +45,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":11191363
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            2202355
+        ]
     },
     "wof:country":"FJ",
     "wof:geomhash":"28965d83b54231f4562995e98282c605",
@@ -54,13 +62,15 @@
         }
     ],
     "wof:id":1277092019,
-    "wof:lastmodified":1566595992,
+    "wof:lastmodified":1706239532,
     "wof:name":"Nabouva",
     "wof:parent_id":85671167,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-fj",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326844661
+    ],
     "wof:tags":[]
 },
   "bbox": [

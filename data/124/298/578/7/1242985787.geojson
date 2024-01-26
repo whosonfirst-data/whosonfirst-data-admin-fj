@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"177.40521,-16.92607,177.40521,-16.92607",
@@ -26,7 +28,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -39,7 +41,7 @@
         "gn:id":8555974
     },
     "wof:country":"FJ",
-    "wof:geomhash":"31bb4b5650a6b96baa82f0c82172a5ee",
+    "wof:geomhash":"d91248f59f322dfc191358d3292ea587",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -49,20 +51,22 @@
         }
     ],
     "wof:id":1242985787,
-    "wof:lastmodified":1566596089,
+    "wof:lastmodified":1706239532,
     "wof:name":"Naisisili",
     "wof:parent_id":85671181,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-fj",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1209419861
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     177.40521,
-    -16.92607000000001,
+    -16.92607,
     177.40521,
-    -16.92607000000001
+    -16.92607
 ],
-  "geometry": {"coordinates":[177.40521000000001,-16.92607000000001],"type":"Point"}
+  "geometry": {"coordinates":[177.40521000000001,-16.92607],"type":"Point"}
 }
