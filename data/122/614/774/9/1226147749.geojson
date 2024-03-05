@@ -33,6 +33,9 @@
     "name:fij_x_preferred":[
         "Biausevu"
     ],
+    "name:und_x_variant":[
+        "Mbiausevu"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
@@ -42,6 +45,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":11104738
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            2203706
+        ]
     },
     "wof:country":"FJ",
     "wof:geomhash":"e1e2d7bc4569586363ba231cde3572db",
@@ -54,13 +62,15 @@
         }
     ],
     "wof:id":1226147749,
-    "wof:lastmodified":1566596118,
+    "wof:lastmodified":1706239532,
     "wof:name":"Biausevu",
     "wof:parent_id":85671181,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-fj",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343583899
+    ],
     "wof:tags":[]
 },
   "bbox": [
