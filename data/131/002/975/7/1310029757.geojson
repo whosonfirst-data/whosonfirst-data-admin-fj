@@ -47,7 +47,7 @@
         "wk:page":"Motusa"
     },
     "wof:country":"FJ",
-    "wof:geomhash":"61f69098ebaa885a54bfed058ae69cd5",
+    "wof:geomhash":"70ec19983e2dfdd71e5404052c819538",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -72,5 +72,5 @@
     177.03933999999995,
     -12.50806
 ],
-  "geometry": {"coordinates":[177.03933999999995,-12.50806],"type":"Point"}
+  "geometry": {"coordinates":[177.03934,-12.50806],"type":"Point"}
 }

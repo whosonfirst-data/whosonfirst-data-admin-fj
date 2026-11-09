@@ -79,7 +79,7 @@
         "wk:page":"Sigatoka"
     },
     "wof:country":"FJ",
-    "wof:geomhash":"fcd5a66adae38231e8028c9b18a09c90",
+    "wof:geomhash":"8f1c8249d60bf9ae5c8bd71a4ea1077a",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -104,5 +104,5 @@
     177.51193999999995,
     -18.14316
 ],
-  "geometry": {"coordinates":[177.51193999999995,-18.14316],"type":"Point"}
+  "geometry": {"coordinates":[177.51194,-18.14316],"type":"Point"}
 }

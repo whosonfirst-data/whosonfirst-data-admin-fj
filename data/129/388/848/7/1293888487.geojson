@@ -44,7 +44,7 @@
         "wk:page":"Viseisei"
     },
     "wof:country":"FJ",
-    "wof:geomhash":"4038b9eaa4f78bc24b9d12b7dfc0b53f",
+    "wof:geomhash":"bcd8a1a19ac8003232a6d8fde921e9ec",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -69,5 +69,5 @@
     177.40913999999995,
     -17.68763
 ],
-  "geometry": {"coordinates":[177.40913999999995,-17.68763],"type":"Point"}
+  "geometry": {"coordinates":[177.40914,-17.68763],"type":"Point"}
 }

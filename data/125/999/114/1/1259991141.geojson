@@ -43,7 +43,7 @@
         "gn:id":2197877
     },
     "wof:country":"FJ",
-    "wof:geomhash":"66ee727a3b447cf686bc2c7b988802c8",
+    "wof:geomhash":"c076602e0d8f9a8c7b202ac2a697e067",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -68,5 +68,5 @@
     178.64643999999996,
     -16.88552
 ],
-  "geometry": {"coordinates":[178.64643999999996,-16.88552],"type":"Point"}
+  "geometry": {"coordinates":[178.64644,-16.88552],"type":"Point"}
 }

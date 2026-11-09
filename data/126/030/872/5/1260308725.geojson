@@ -48,7 +48,7 @@
         "wk:page":"Navala"
     },
     "wof:country":"FJ",
-    "wof:geomhash":"fac619a3305bfbffcce04fd0d3b71484",
+    "wof:geomhash":"afc3c3cfe4bc4313302f20ba9542d3d1",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -73,5 +73,5 @@
     177.81318000000005,
     -17.6583
 ],
-  "geometry": {"coordinates":[177.81318000000005,-17.6583],"type":"Point"}
+  "geometry": {"coordinates":[177.81318,-17.6583],"type":"Point"}
 }
