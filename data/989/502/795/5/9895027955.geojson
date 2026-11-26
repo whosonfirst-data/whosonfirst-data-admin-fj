@@ -1,0 +1,72 @@
+{
+  "id": 9895027955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"179.31774,-16.48584,179.31774,-16.48584",
+    "geom:latitude":-16.48584,
+    "geom:longitude":179.31774,
+    "iso:country":"FJ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11812678: name \"Yaudigi Settlement\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11812678"
+        },
+        {
+            "citation":"GeoNames populated place 11812678: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11812678"
+        },
+        {
+            "citation":"GeoNames populated place 11812678: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11812678"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85671179 (Northern), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632755,
+        85671179,
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11812678
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"161f380856c5d2fc3a4f04e1b6d3a348",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632755,
+            "locality_id":9895027955,
+            "region_id":85671179
+        }
+    ],
+    "wof:id":9895027955,
+    "wof:lastmodified":1795735079,
+    "wof:name":"Yaudigi Settlement",
+    "wof:parent_id":85671179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    179.31774,
+    -16.48584,
+    179.31774,
+    -16.48584
+],
+  "geometry": {"coordinates":[179.31774,-16.48584],"type":"Point"}
+}

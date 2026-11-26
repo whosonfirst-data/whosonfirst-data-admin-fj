@@ -1,0 +1,72 @@
+{
+  "id": 9895027895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-179.9331,-16.46666,-179.9331,-16.46666",
+    "geom:latitude":-16.46666,
+    "geom:longitude":-179.9331,
+    "iso:country":"FJ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11706562: name \"Bani Lailai\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11706562"
+        },
+        {
+            "citation":"GeoNames populated place 11706562: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11706562"
+        },
+        {
+            "citation":"GeoNames populated place 11706562: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11706562"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85671179 (Northern), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632755,
+        85671179,
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11706562
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"23a892434c799307b50f1647629a4ae5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632755,
+            "locality_id":9895027895,
+            "region_id":85671179
+        }
+    ],
+    "wof:id":9895027895,
+    "wof:lastmodified":1795735079,
+    "wof:name":"Bani Lailai",
+    "wof:parent_id":85671179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -179.9331,
+    -16.46666,
+    -179.9331,
+    -16.46666
+],
+  "geometry": {"coordinates":[-179.9331,-16.46666],"type":"Point"}
+}

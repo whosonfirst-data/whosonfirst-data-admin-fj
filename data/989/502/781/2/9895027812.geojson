@@ -1,0 +1,72 @@
+{
+  "id": 9895027812,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-179.97381,-16.77898,-179.97381,-16.77898",
+    "geom:latitude":-16.77898,
+    "geom:longitude":-179.97381,
+    "iso:country":"FJ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 4036037: name \"Naqara Settlement\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/4036037"
+        },
+        {
+            "citation":"GeoNames populated place 4036037: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/4036037"
+        },
+        {
+            "citation":"GeoNames populated place 4036037: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/4036037"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85671179 (Northern), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632755,
+        85671179,
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4036037
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"7bb34ad9f5a434c8c6ed9b16ce4f4a52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632755,
+            "locality_id":9895027812,
+            "region_id":85671179
+        }
+    ],
+    "wof:id":9895027812,
+    "wof:lastmodified":1795735079,
+    "wof:name":"Naqara Settlement",
+    "wof:parent_id":85671179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -179.97381,
+    -16.77898,
+    -179.97381,
+    -16.77898
+],
+  "geometry": {"coordinates":[-179.97381,-16.77898],"type":"Point"}
+}

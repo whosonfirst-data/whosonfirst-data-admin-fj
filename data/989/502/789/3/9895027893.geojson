@@ -1,0 +1,72 @@
+{
+  "id": 9895027893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-179.94415,-16.47607,-179.94415,-16.47607",
+    "geom:latitude":-16.47607,
+    "geom:longitude":-179.94415,
+    "iso:country":"FJ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11706558: name \"Rabirabi\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11706558"
+        },
+        {
+            "citation":"GeoNames populated place 11706558: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11706558"
+        },
+        {
+            "citation":"GeoNames populated place 11706558: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11706558"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85671179 (Northern), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632755,
+        85671179,
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11706558
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"e798b063cd27f868df3bfa839e189e67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632755,
+            "locality_id":9895027893,
+            "region_id":85671179
+        }
+    ],
+    "wof:id":9895027893,
+    "wof:lastmodified":1795735079,
+    "wof:name":"Rabirabi",
+    "wof:parent_id":85671179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -179.94415,
+    -16.47607,
+    -179.94415,
+    -16.47607
+],
+  "geometry": {"coordinates":[-179.94415,-16.47607],"type":"Point"}
+}

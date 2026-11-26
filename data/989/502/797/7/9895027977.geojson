@@ -1,0 +1,72 @@
+{
+  "id": 9895027977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-179.97968,-16.78422,-179.97968,-16.78422",
+    "geom:latitude":-16.78422,
+    "geom:longitude":-179.97968,
+    "iso:country":"FJ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12547386: name \"Waiyevo\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12547386"
+        },
+        {
+            "citation":"GeoNames populated place 12547386: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12547386"
+        },
+        {
+            "citation":"GeoNames populated place 12547386: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12547386"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85671179 (Northern), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632755,
+        85671179,
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12547386
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"0844637a6fa39560096de3950297bf12",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632755,
+            "locality_id":9895027977,
+            "region_id":85671179
+        }
+    ],
+    "wof:id":9895027977,
+    "wof:lastmodified":1795735079,
+    "wof:name":"Waiyevo",
+    "wof:parent_id":85671179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -179.97968,
+    -16.78422,
+    -179.97968,
+    -16.78422
+],
+  "geometry": {"coordinates":[-179.97968,-16.78422],"type":"Point"}
+}

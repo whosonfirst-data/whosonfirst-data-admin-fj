@@ -1,0 +1,72 @@
+{
+  "id": 9895027978,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"177.07513,-12.48134,177.07513,-12.48134",
+    "geom:latitude":-12.48134,
+    "geom:longitude":177.07513,
+    "iso:country":"FJ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13426518: name \"Upu\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13426518"
+        },
+        {
+            "citation":"GeoNames populated place 13426518: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13426518"
+        },
+        {
+            "citation":"GeoNames populated place 13426518: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13426518"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85671185 (Rotuma), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632755,
+        85671185,
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13426518
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"95e9fd325b8b8b291b36d8cfa3b3ec6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632755,
+            "locality_id":9895027978,
+            "region_id":85671185
+        }
+    ],
+    "wof:id":9895027978,
+    "wof:lastmodified":1795735079,
+    "wof:name":"Upu",
+    "wof:parent_id":85671185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    177.07513,
+    -12.48134,
+    177.07513,
+    -12.48134
+],
+  "geometry": {"coordinates":[177.07513,-12.48134],"type":"Point"}
+}
