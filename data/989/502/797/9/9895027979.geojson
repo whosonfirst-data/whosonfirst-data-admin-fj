@@ -1,0 +1,72 @@
+{
+  "id": 9895027979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"178.56326,-18.10906,178.56326,-18.10906",
+    "geom:latitude":-18.10906,
+    "geom:longitude":178.56326,
+    "iso:country":"FJ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13433354: name \"Nasilai\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13433354"
+        },
+        {
+            "citation":"GeoNames populated place 13433354: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13433354"
+        },
+        {
+            "citation":"GeoNames populated place 13433354: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13433354"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85671167 (Central), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632755,
+        85671167,
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13433354
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"ca6012b0e5ed10b6270a2c1f98d75530",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632755,
+            "locality_id":9895027979,
+            "region_id":85671167
+        }
+    ],
+    "wof:id":9895027979,
+    "wof:lastmodified":1795735079,
+    "wof:name":"Nasilai",
+    "wof:parent_id":85671167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    178.56326,
+    -18.10906,
+    178.56326,
+    -18.10906
+],
+  "geometry": {"coordinates":[178.56326,-18.10906],"type":"Point"}
+}

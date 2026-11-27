@@ -1,0 +1,72 @@
+{
+  "id": 9895027834,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"179.80253,-16.28346,179.80253,-16.28346",
+    "geom:latitude":-16.28346,
+    "geom:longitude":179.80253,
+    "iso:country":"FJ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11616014: name \"Nukusere Settlement\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11616014"
+        },
+        {
+            "citation":"GeoNames populated place 11616014: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11616014"
+        },
+        {
+            "citation":"GeoNames populated place 11616014: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11616014"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85671179 (Northern), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632755,
+        85671179,
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11616014
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"075de21f950ac1e0619212dc069150a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632755,
+            "locality_id":9895027834,
+            "region_id":85671179
+        }
+    ],
+    "wof:id":9895027834,
+    "wof:lastmodified":1795735079,
+    "wof:name":"Nukusere Settlement",
+    "wof:parent_id":85671179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    179.80253,
+    -16.28346,
+    179.80253,
+    -16.28346
+],
+  "geometry": {"coordinates":[179.80253,-16.28346],"type":"Point"}
+}

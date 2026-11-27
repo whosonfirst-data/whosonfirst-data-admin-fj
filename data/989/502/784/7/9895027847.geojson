@@ -1,0 +1,72 @@
+{
+  "id": 9895027847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"179.58402,-16.32757,179.58402,-16.32757",
+    "geom:latitude":-16.32757,
+    "geom:longitude":179.58402,
+    "iso:country":"FJ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11618143: name \"Wainidrua Settlement\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11618143"
+        },
+        {
+            "citation":"GeoNames populated place 11618143: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11618143"
+        },
+        {
+            "citation":"GeoNames populated place 11618143: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11618143"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85671179 (Northern), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632755,
+        85671179,
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11618143
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"0022a388773f6d5ab98cbf32f7076baa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632755,
+            "locality_id":9895027847,
+            "region_id":85671179
+        }
+    ],
+    "wof:id":9895027847,
+    "wof:lastmodified":1795735079,
+    "wof:name":"Wainidrua Settlement",
+    "wof:parent_id":85671179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    179.58402,
+    -16.32757,
+    179.58402,
+    -16.32757
+],
+  "geometry": {"coordinates":[179.58402,-16.32757],"type":"Point"}
+}

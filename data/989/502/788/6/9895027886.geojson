@@ -1,0 +1,72 @@
+{
+  "id": 9895027886,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-179.94234,-16.50747,-179.94234,-16.50747",
+    "geom:latitude":-16.50747,
+    "geom:longitude":-179.94234,
+    "iso:country":"FJ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11706551: name \"Anuanrebu\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11706551"
+        },
+        {
+            "citation":"GeoNames populated place 11706551: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11706551"
+        },
+        {
+            "citation":"GeoNames populated place 11706551: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11706551"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85671179 (Northern), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632755,
+        85671179,
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11706551
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"ab2498d97d5ef7ac25fef50ae399795e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632755,
+            "locality_id":9895027886,
+            "region_id":85671179
+        }
+    ],
+    "wof:id":9895027886,
+    "wof:lastmodified":1795735079,
+    "wof:name":"Anuanrebu",
+    "wof:parent_id":85671179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -179.94234,
+    -16.50747,
+    -179.94234,
+    -16.50747
+],
+  "geometry": {"coordinates":[-179.94234,-16.50747],"type":"Point"}
+}

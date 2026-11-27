@@ -1,0 +1,72 @@
+{
+  "id": 9895027922,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"179.39148,-16.75168,179.39148,-16.75168",
+    "geom:latitude":-16.75168,
+    "geom:longitude":179.39148,
+    "iso:country":"FJ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11812554: name \"Moliwawa Settlement\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11812554"
+        },
+        {
+            "citation":"GeoNames populated place 11812554: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11812554"
+        },
+        {
+            "citation":"GeoNames populated place 11812554: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11812554"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85671179 (Northern), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632755,
+        85671179,
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11812554
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"14638fc2ec8f88bf05ecc880003e4a05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632755,
+            "locality_id":9895027922,
+            "region_id":85671179
+        }
+    ],
+    "wof:id":9895027922,
+    "wof:lastmodified":1795735079,
+    "wof:name":"Moliwawa Settlement",
+    "wof:parent_id":85671179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    179.39148,
+    -16.75168,
+    179.39148,
+    -16.75168
+],
+  "geometry": {"coordinates":[179.39148,-16.75168],"type":"Point"}
+}

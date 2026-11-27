@@ -1,0 +1,72 @@
+{
+  "id": 9895027854,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-179.28091,-17.74827,-179.28091,-17.74827",
+    "geom:latitude":-17.74827,
+    "geom:longitude":-179.28091,
+    "iso:country":"FJ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11705642: name \"Naivakadranu Settlement\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11705642"
+        },
+        {
+            "citation":"GeoNames populated place 11705642: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11705642"
+        },
+        {
+            "citation":"GeoNames populated place 11705642: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11705642"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85671173 (Eastern), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632755,
+        85671173,
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11705642
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"4175a10f4b2718532335769f9ed904ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632755,
+            "locality_id":9895027854,
+            "region_id":85671173
+        }
+    ],
+    "wof:id":9895027854,
+    "wof:lastmodified":1795735079,
+    "wof:name":"Naivakadranu Settlement",
+    "wof:parent_id":85671173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -179.28091,
+    -17.74827,
+    -179.28091,
+    -17.74827
+],
+  "geometry": {"coordinates":[-179.28091,-17.74827],"type":"Point"}
+}

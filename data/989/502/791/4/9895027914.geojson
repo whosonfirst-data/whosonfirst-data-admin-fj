@@ -1,0 +1,72 @@
+{
+  "id": 9895027914,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-178.75589,-18.2246,-178.75589,-18.2246",
+    "geom:latitude":-18.2246,
+    "geom:longitude":-178.75589,
+    "iso:country":"FJ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11709297: name \"Potu Settlement\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11709297"
+        },
+        {
+            "citation":"GeoNames populated place 11709297: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11709297"
+        },
+        {
+            "citation":"GeoNames populated place 11709297: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11709297"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85671173 (Eastern), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632755,
+        85671173,
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11709297
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"b702d0590b2d059f7fcbec18bc3bfe4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632755,
+            "locality_id":9895027914,
+            "region_id":85671173
+        }
+    ],
+    "wof:id":9895027914,
+    "wof:lastmodified":1795735079,
+    "wof:name":"Potu Settlement",
+    "wof:parent_id":85671173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -178.75589,
+    -18.2246,
+    -178.75589,
+    -18.2246
+],
+  "geometry": {"coordinates":[-178.75589,-18.2246],"type":"Point"}
+}

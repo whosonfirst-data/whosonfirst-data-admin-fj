@@ -1,0 +1,72 @@
+{
+  "id": 9895027881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-179.8629,-16.71399,-179.8629,-16.71399",
+    "geom:latitude":-16.71399,
+    "geom:longitude":-179.8629,
+    "iso:country":"FJ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11706537: name \"Vatudovia Settlement\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11706537"
+        },
+        {
+            "citation":"GeoNames populated place 11706537: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11706537"
+        },
+        {
+            "citation":"GeoNames populated place 11706537: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11706537"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85671179 (Northern), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632755,
+        85671179,
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11706537
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"5df111e4fc49d882f94a816ed651d27d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632755,
+            "locality_id":9895027881,
+            "region_id":85671179
+        }
+    ],
+    "wof:id":9895027881,
+    "wof:lastmodified":1795735079,
+    "wof:name":"Vatudovia Settlement",
+    "wof:parent_id":85671179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -179.8629,
+    -16.71399,
+    -179.8629,
+    -16.71399
+],
+  "geometry": {"coordinates":[-179.8629,-16.71399],"type":"Point"}
+}

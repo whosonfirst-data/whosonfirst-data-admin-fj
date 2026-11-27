@@ -1,0 +1,72 @@
+{
+  "id": 9895090198,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-178.94981,-18.91639,-178.94981,-18.91639",
+    "geom:latitude":-18.91639,
+    "geom:longitude":-178.94981,
+    "iso:country":"FJ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11619359: name \"Naikeleaga\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11619359"
+        },
+        {
+            "citation":"GeoNames populated place 11619359: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11619359"
+        },
+        {
+            "citation":"GeoNames populated place 11619359: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11619359"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85671173 (Eastern), the record that holds the GeoNames id of the division GeoNames files this place under. No boundary of the repository contains the point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632755,
+        85671173,
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11619359
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"1d7f91a8c7309bf8774c9731051eaf6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632755,
+            "locality_id":9895090198,
+            "region_id":85671173
+        }
+    ],
+    "wof:id":9895090198,
+    "wof:lastmodified":1795746149,
+    "wof:name":"Naikeleaga",
+    "wof:parent_id":85671173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -178.94981,
+    -18.91639,
+    -178.94981,
+    -18.91639
+],
+  "geometry": {"coordinates":[-178.94981,-18.91639],"type":"Point"}
+}
