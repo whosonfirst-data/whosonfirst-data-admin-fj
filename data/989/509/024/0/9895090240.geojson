@@ -1,0 +1,72 @@
+{
+  "id": 9895090240,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"178.95393,-17.44348,178.95393,-17.44348",
+    "geom:latitude":-17.44348,
+    "geom:longitude":178.95393,
+    "iso:country":"FJ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11877134: name \"Dalice Settlement\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11877134"
+        },
+        {
+            "citation":"GeoNames populated place 11877134: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11877134"
+        },
+        {
+            "citation":"GeoNames populated place 11877134: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11877134"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85671173 (Eastern), the record that holds the GeoNames id of the division GeoNames files this place under. No boundary of the repository contains the point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632755,
+        85671173,
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11877134
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"fd408e4982d84d85fb80c5ffd6630fb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632755,
+            "locality_id":9895090240,
+            "region_id":85671173
+        }
+    ],
+    "wof:id":9895090240,
+    "wof:lastmodified":1795746149,
+    "wof:name":"Dalice Settlement",
+    "wof:parent_id":85671173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    178.95393,
+    -17.44348,
+    178.95393,
+    -17.44348
+],
+  "geometry": {"coordinates":[178.95393,-17.44348],"type":"Point"}
+}

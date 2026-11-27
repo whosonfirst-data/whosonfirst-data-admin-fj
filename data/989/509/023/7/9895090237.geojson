@@ -1,0 +1,72 @@
+{
+  "id": 9895090237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-179.9145,-15.74431,-179.9145,-15.74431",
+    "geom:latitude":-15.74431,
+    "geom:longitude":-179.9145,
+    "iso:country":"FJ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11822876: name \"Nasevula Settlement\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11822876"
+        },
+        {
+            "citation":"GeoNames populated place 11822876: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11822876"
+        },
+        {
+            "citation":"GeoNames populated place 11822876: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11822876"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85671179 (Northern), the record that holds the GeoNames id of the division GeoNames files this place under. No boundary of the repository contains the point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632755,
+        85671179,
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11822876
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"a32c32b0d9d929b3e4e8d9d22577ae05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632755,
+            "locality_id":9895090237,
+            "region_id":85671179
+        }
+    ],
+    "wof:id":9895090237,
+    "wof:lastmodified":1795746149,
+    "wof:name":"Nasevula Settlement",
+    "wof:parent_id":85671179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -179.9145,
+    -15.74431,
+    -179.9145,
+    -15.74431
+],
+  "geometry": {"coordinates":[-179.9145,-15.74431],"type":"Point"}
+}

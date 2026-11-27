@@ -1,0 +1,72 @@
+{
+  "id": 9895090195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"179.60115,-16.24882,179.60115,-16.24882",
+    "geom:latitude":-16.24882,
+    "geom:longitude":179.60115,
+    "iso:country":"FJ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11618506: name \"Vatutekevi Settlement\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11618506"
+        },
+        {
+            "citation":"GeoNames populated place 11618506: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11618506"
+        },
+        {
+            "citation":"GeoNames populated place 11618506: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11618506"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85671179 (Northern), the record that holds the GeoNames id of the division GeoNames files this place under. No boundary of the repository contains the point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632755,
+        85671179,
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11618506
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"b4b3b310b389dcd21a68e8e8d3622fc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632755,
+            "locality_id":9895090195,
+            "region_id":85671179
+        }
+    ],
+    "wof:id":9895090195,
+    "wof:lastmodified":1795746149,
+    "wof:name":"Vatutekevi Settlement",
+    "wof:parent_id":85671179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    179.60115,
+    -16.24882,
+    179.60115,
+    -16.24882
+],
+  "geometry": {"coordinates":[179.60115,-16.24882],"type":"Point"}
+}

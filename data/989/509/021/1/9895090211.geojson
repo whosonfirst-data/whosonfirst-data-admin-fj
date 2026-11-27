@@ -1,0 +1,72 @@
+{
+  "id": 9895090211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-179.92784,-16.47141,-179.92784,-16.47141",
+    "geom:latitude":-16.47141,
+    "geom:longitude":-179.92784,
+    "iso:country":"FJ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11706563: name \"Temmama\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11706563"
+        },
+        {
+            "citation":"GeoNames populated place 11706563: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11706563"
+        },
+        {
+            "citation":"GeoNames populated place 11706563: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11706563"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85671179 (Northern), the record that holds the GeoNames id of the division GeoNames files this place under. No boundary of the repository contains the point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632755,
+        85671179,
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11706563
+    },
+    "wof:country":"FJ",
+    "wof:geomhash":"03a3e1b04994a537ab3f75a4e1cf7417",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632755,
+            "locality_id":9895090211,
+            "region_id":85671179
+        }
+    ],
+    "wof:id":9895090211,
+    "wof:lastmodified":1795746149,
+    "wof:name":"Temmama",
+    "wof:parent_id":85671179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-fj",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -179.92784,
+    -16.47141,
+    -179.92784,
+    -16.47141
+],
+  "geometry": {"coordinates":[-179.92784,-16.47141],"type":"Point"}
+}
